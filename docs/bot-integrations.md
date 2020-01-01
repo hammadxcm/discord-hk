@@ -1,1 +1,1 @@
-# Discord Bot Integration Gu
+# Discord Bot Integration Guide
