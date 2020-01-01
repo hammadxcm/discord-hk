@@ -1,3 +1,3 @@
 # Discord Bot Integration Guide
 
-This comprehen
+This comprehensiv
