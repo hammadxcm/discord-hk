@@ -1,3 +1,3 @@
 # Discord Bot Integration Guide
 
-This comprehensive guide covers setting u
+This comprehensive guide covers setting up the best Dis
