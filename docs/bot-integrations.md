@@ -1,3 +1,3 @@
 # Discord Bot Integration Guide
 
-This comprehensive guide c
+This comprehensive guide cove
