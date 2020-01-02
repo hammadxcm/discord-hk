@@ -1,3 +1,3 @@
 # Discord Bot Integration Guide
 
-This comprehensive guid
+This comprehensive guide c
