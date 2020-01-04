@@ -2,4 +2,5 @@
 
 This comprehensive guide covers setting up the best Discord bots for your server, including step-by-step configuration for each bot.
 
-## 🏆 Tier 1 Essential Bo
+## 🏆 Tier 1 Essential Bots
+
