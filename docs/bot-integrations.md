@@ -4,4 +4,4 @@ This comprehensive guide covers setting up the best Discord bots for your server
 
 ## 🏆 Tier 1 Essential Bots
 
-### 1. MEE6 - Core L
+### 1. MEE6 - Core Leve
