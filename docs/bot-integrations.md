@@ -6,4 +6,5 @@ This comprehensive guide covers setting up the best Discord bots for your server
 
 ### 1. MEE6 - Core Leveling & Moderation
 
-#### ⚡ Quick Se
+#### ⚡ Quick Setup
+1
