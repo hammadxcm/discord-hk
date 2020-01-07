@@ -7,4 +7,5 @@ This comprehensive guide covers setting up the best Discord bots for your server
 ### 1. MEE6 - Core Leveling & Moderation
 
 #### ⚡ Quick Setup
-1. **Invite**: Visit https://mee6.xyz/ → Add to 
+1. **Invite**: Visit https://mee6.xyz/ → Add to Server
+2.
