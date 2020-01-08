@@ -8,4 +8,5 @@ This comprehensive guide covers setting up the best Discord bots for your server
 
 #### ⚡ Quick Setup
 1. **Invite**: Visit https://mee6.xyz/ → Add to Server
-2. **Permissions**: Ensure admin permissions for full functionalit
+2. **Permissions**: Ensure admin permissions for full functionality
+3.
