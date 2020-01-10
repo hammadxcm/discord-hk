@@ -11,4 +11,4 @@ This comprehensive guide covers setting up the best Discord bots for your server
 2. **Permissions**: Ensure admin permissions for full functionality
 3. **Dashboard**: Access at https://mee6.xyz/dashboard
 
-#### 📊 Leveling System C
+#### 📊 Leveling System Configura
