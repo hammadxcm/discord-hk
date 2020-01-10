@@ -13,4 +13,4 @@ This comprehensive guide covers setting up the best Discord bots for your server
 
 #### 📊 Leveling System Configuration
 ```yaml
-XP
+XP Sett
