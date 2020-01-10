@@ -12,3 +12,4 @@ This comprehensive guide covers setting up the best Discord bots for your server
 3. **Dashboard**: Access at https://mee6.xyz/dashboard
 
 #### 📊 Leveling System Configuration
+```ya
