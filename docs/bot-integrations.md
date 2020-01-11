@@ -15,4 +15,4 @@ This comprehensive guide covers setting up the best Discord bots for your server
 ```yaml
 XP Settings:
   XP per message: 15-25 (recommended: 20)
-  X
+  XP c
