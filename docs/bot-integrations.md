@@ -14,4 +14,4 @@ This comprehensive guide covers setting up the best Discord bots for your server
 #### 📊 Leveling System Configuration
 ```yaml
 XP Settings:
-  XP per message: 15-2
+  XP per message: 15-25 (r
