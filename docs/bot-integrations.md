@@ -16,4 +16,5 @@ This comprehensive guide covers setting up the best Discord bots for your server
 XP Settings:
   XP per message: 15-25 (recommended: 20)
   XP cooldown: 60 seconds
-  Level up channel: #level-ups or #g
+  Level up channel: #level-ups or #general
+ 
