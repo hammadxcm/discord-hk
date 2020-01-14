@@ -20,4 +20,4 @@ XP Settings:
   Level up message: "GG {user}, you just advanced to level {level}!"
 
 Role Rewards:
-  L
+  Level 5: @Ac
