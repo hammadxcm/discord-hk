@@ -19,4 +19,4 @@ XP Settings:
   Level up channel: #level-ups or #general
   Level up message: "GG {user}, you just advanced to level {level}!"
 
-R
+Role R
