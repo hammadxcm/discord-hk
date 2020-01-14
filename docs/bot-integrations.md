@@ -17,4 +17,6 @@ XP Settings:
   XP per message: 15-25 (recommended: 20)
   XP cooldown: 60 seconds
   Level up channel: #level-ups or #general
-  Level up message: "GG {user}, you just advanced to level {level}
+  Level up message: "GG {user}, you just advanced to level {level}!"
+
+R
