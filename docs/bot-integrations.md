@@ -21,3 +21,4 @@ XP Settings:
 
 Role Rewards:
   Level 5: @Active Member
+  Level 10
