@@ -22,4 +22,4 @@ XP Settings:
 Role Rewards:
   Level 5: @Active Member
   Level 10: @Regular
-  Level 15
+  Level 15: @Vet
