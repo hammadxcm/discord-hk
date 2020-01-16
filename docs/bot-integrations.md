@@ -23,3 +23,4 @@ Role Rewards:
   Level 5: @Active Member
   Level 10: @Regular
   Level 15: @Veteran + Image Permissions
+  Le
