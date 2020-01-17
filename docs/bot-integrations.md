@@ -23,4 +23,5 @@ Role Rewards:
   Level 5: @Active Member
   Level 10: @Regular
   Level 15: @Veteran + Image Permissions
-  Level 20: @Elite + Voice Priorit
+  Level 20: @Elite + Voice Priority
+  Level 25
