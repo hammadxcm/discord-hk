@@ -25,4 +25,4 @@ Role Rewards:
   Level 15: @Veteran + Image Permissions
   Level 20: @Elite + Voice Priority
   Level 25: @Legend + VIP Channel Access
-  Level 30: @Cham
+  Level 30: @Champion + Cus
