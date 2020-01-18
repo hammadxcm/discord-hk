@@ -24,4 +24,5 @@ Role Rewards:
   Level 10: @Regular
   Level 15: @Veteran + Image Permissions
   Level 20: @Elite + Voice Priority
-  Level 25: @Legend + VIP Channel 
+  Level 25: @Legend + VIP Channel Access
+  Lev
