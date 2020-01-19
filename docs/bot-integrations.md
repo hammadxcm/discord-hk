@@ -29,4 +29,5 @@ Role Rewards:
 ```
 
 #### 🛡️ Moderation Setup
-```y
+```yaml
+Au
