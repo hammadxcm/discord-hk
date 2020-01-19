@@ -30,4 +30,5 @@ Role Rewards:
 
 #### 🛡️ Moderation Setup
 ```yaml
-Auto-Moderati
+Auto-Moderation:
+ 
