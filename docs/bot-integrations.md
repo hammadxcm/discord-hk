@@ -28,4 +28,5 @@ Role Rewards:
   Level 30: @Champion + Custom Color Role
 ```
 
-#### 🛡️ Moderation S
+#### 🛡️ Moderation Setup
+```y
