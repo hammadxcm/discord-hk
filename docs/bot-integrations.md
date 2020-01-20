@@ -32,4 +32,4 @@ Role Rewards:
 ```yaml
 Auto-Moderation:
   - Bad words filter: ON
-  - Repeated text 
+  - Repeated text (3+ t
