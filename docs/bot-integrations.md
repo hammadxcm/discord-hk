@@ -31,4 +31,5 @@ Role Rewards:
 #### 🛡️ Moderation Setup
 ```yaml
 Auto-Moderation:
-  - Bad words filter:
+  - Bad words filter: ON
+ 
