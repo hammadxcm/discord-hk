@@ -33,4 +33,4 @@ Role Rewards:
 Auto-Moderation:
   - Bad words filter: ON
   - Repeated text (3+ times): 5 second timeout
-  - Too many caps (7
+  - Too many caps (70%+)
