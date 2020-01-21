@@ -32,4 +32,5 @@ Role Rewards:
 ```yaml
 Auto-Moderation:
   - Bad words filter: ON
-  - Repeated text (3+ times): 5 second time
+  - Repeated text (3+ times): 5 second timeout
+ 
