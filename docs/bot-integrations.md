@@ -34,4 +34,4 @@ Auto-Moderation:
   - Bad words filter: ON
   - Repeated text (3+ times): 5 second timeout
   - Too many caps (70%+): Delete message
-  - Too many mentions (5+): D
+  - Too many mentions (5+): Delete
