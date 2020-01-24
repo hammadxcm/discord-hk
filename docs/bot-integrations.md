@@ -36,4 +36,4 @@ Auto-Moderation:
   - Too many caps (70%+): Delete message
   - Too many mentions (5+): Delete message
   - Spam detection: ON
-  - Raid protecti
+  - Raid protection: ON
