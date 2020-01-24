@@ -37,3 +37,5 @@ Auto-Moderation:
   - Too many mentions (5+): Delete message
   - Spam detection: ON
   - Raid protection: ON
+
+Puni
