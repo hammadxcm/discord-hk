@@ -38,4 +38,5 @@ Auto-Moderation:
   - Spam detection: ON
   - Raid protection: ON
 
-Punishment
+Punishments:
+  1
