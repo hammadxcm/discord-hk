@@ -39,4 +39,4 @@ Auto-Moderation:
   - Raid protection: ON
 
 Punishments:
-  1st vio
+  1st violat
