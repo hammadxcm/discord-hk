@@ -40,4 +40,4 @@ Auto-Moderation:
 
 Punishments:
   1st violation: Warning
-  2nd violation: 5 
+  2nd violation: 5 minu
