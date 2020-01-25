@@ -40,4 +40,4 @@ Auto-Moderation:
 
 Punishments:
   1st violation: Warning
-  2nd
+  2nd vi
