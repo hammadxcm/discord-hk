@@ -39,4 +39,4 @@ Auto-Moderation:
   - Raid protection: ON
 
 Punishments:
-  1st violation: Warn
+  1st violation: Warning
