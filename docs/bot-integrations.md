@@ -40,3 +40,4 @@ Auto-Moderation:
 
 Punishments:
   1st violation: Warning
+  
