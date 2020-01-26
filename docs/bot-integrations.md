@@ -41,4 +41,4 @@ Auto-Moderation:
 Punishments:
   1st violation: Warning
   2nd violation: 5 minute timeout
-  3rd violation: 
+  3rd violation: 1 h
