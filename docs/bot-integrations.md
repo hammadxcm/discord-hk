@@ -43,4 +43,5 @@ Punishments:
   2nd violation: 5 minute timeout
   3rd violation: 1 hour timeout
   4th violation: 24 hour timeout
-  5th violation: Kic
+  5th violation: Kick
+```
