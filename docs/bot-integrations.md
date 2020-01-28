@@ -46,4 +46,4 @@ Punishments:
   5th violation: Kick
 ```
 
-#### 🎵 Music Bo
+#### 🎵 Music Bot Se
