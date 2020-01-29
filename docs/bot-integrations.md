@@ -48,3 +48,4 @@ Punishments:
 
 #### 🎵 Music Bot Setup
 ```yaml
+Mus
