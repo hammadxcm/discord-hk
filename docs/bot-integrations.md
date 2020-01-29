@@ -49,4 +49,4 @@ Punishments:
 #### 🎵 Music Bot Setup
 ```yaml
 Music Settings:
-  
+  DJ 
