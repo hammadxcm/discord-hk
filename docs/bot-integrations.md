@@ -47,4 +47,4 @@ Punishments:
 ```
 
 #### 🎵 Music Bot Setup
-```ya
+```yaml
