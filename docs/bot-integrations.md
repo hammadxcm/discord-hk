@@ -50,4 +50,4 @@ Punishments:
 ```yaml
 Music Settings:
   DJ Role: @DJ
-  Music Cha
+  Music Channe
