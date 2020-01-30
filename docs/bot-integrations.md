@@ -51,4 +51,4 @@ Punishments:
 Music Settings:
   DJ Role: @DJ
   Music Channel: #music
-  Max queue length
+  Max queue length: 50
