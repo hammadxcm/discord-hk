@@ -50,4 +50,5 @@ Punishments:
 ```yaml
 Music Settings:
   DJ Role: @DJ
-  Music Channel: #musi
+  Music Channel: #music
+  M
