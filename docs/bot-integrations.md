@@ -52,4 +52,4 @@ Music Settings:
   DJ Role: @DJ
   Music Channel: #music
   Max queue length: 50
-  Max song dura
+  Max song duration:
