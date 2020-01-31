@@ -53,4 +53,4 @@ Music Settings:
   Music Channel: #music
   Max queue length: 50
   Max song duration: 10 minutes
-  Volume limit: 
+  Volume limit: 100%
