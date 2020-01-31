@@ -54,3 +54,5 @@ Music Settings:
   Max queue length: 50
   Max song duration: 10 minutes
   Volume limit: 100%
+```
+
