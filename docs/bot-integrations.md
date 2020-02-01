@@ -58,4 +58,4 @@ Music Settings:
 
 ### 2. Carl-bot - Advanced Automation
 
-####
+#### ⚡ Qui
