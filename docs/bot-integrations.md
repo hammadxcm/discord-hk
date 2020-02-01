@@ -56,4 +56,4 @@ Music Settings:
   Volume limit: 100%
 ```
 
-### 2. Carl-bot
+### 2. Carl-bot - A
