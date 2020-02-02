@@ -58,4 +58,5 @@ Music Settings:
 
 ### 2. Carl-bot - Advanced Automation
 
-#### ⚡ Quick Set
+#### ⚡ Quick Setup
+1.
