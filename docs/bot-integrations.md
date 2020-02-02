@@ -59,4 +59,4 @@ Music Settings:
 ### 2. Carl-bot - Advanced Automation
 
 #### ⚡ Quick Setup
-1. **Invite**: https://carl-bot.
+1. **Invite**: https://carl-bot.com/ 
