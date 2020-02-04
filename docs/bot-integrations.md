@@ -62,4 +62,5 @@ Music Settings:
 1. **Invite**: https://carl-bot.com/ → Invite Carl-bot
 2. **Dashboard**: https://carl-bot.com/dashboard
 
-#### 🎭 Reaction Roles Se
+#### 🎭 Reaction Roles Setup
+```yaml
