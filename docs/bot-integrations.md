@@ -61,3 +61,5 @@ Music Settings:
 #### ⚡ Quick Setup
 1. **Invite**: https://carl-bot.com/ → Invite Carl-bot
 2. **Dashboard**: https://carl-bot.com/dashboard
+
+###
