@@ -65,4 +65,5 @@ Music Settings:
 #### 🎭 Reaction Roles Setup
 ```yaml
 Message Setup:
-  Channel
+  Channel: #roles
+  T
