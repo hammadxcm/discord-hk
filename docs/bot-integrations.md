@@ -66,4 +66,4 @@ Music Settings:
 ```yaml
 Message Setup:
   Channel: #roles
-  Title: "
+  Title: "Choose 
