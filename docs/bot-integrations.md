@@ -68,4 +68,4 @@ Message Setup:
   Channel: #roles
   Title: "Choose Your Roles!"
   
-Reaction Role 
+Reaction Role Catego
