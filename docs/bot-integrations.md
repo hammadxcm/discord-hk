@@ -67,3 +67,5 @@ Music Settings:
 Message Setup:
   Channel: #roles
   Title: "Choose Your Roles!"
+  
+Re
