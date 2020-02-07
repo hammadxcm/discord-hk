@@ -70,4 +70,5 @@ Message Setup:
   
 Reaction Role Categories:
   🎮 Gaming Roles:
-    🔥 Valora
+    🔥 Valorant
+  
