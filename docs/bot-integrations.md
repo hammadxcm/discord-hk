@@ -71,4 +71,4 @@ Message Setup:
 Reaction Role Categories:
   🎮 Gaming Roles:
     🔥 Valorant
-    ⚡ Apex L
+    ⚡ Apex Legend
