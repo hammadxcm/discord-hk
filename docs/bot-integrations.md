@@ -69,4 +69,5 @@ Message Setup:
   Title: "Choose Your Roles!"
   
 Reaction Role Categories:
-  🎮 Gaming Role
+  🎮 Gaming Roles:
+  
