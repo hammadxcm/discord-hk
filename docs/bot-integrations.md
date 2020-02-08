@@ -75,4 +75,5 @@ Reaction Role Categories:
     🎯 CS:GO
     🏆 League of Legends
     
-  🎨 Interest 
+  🎨 Interest Roles:
+    🎵 M
