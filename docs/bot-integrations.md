@@ -73,4 +73,4 @@ Reaction Role Categories:
     🔥 Valorant
     ⚡ Apex Legends  
     🎯 CS:GO
-    🏆 League of Lege
+    🏆 League of Legends
