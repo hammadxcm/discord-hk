@@ -72,4 +72,4 @@ Reaction Role Categories:
   🎮 Gaming Roles:
     🔥 Valorant
     ⚡ Apex Legends  
-    🎯 
+    🎯 CS:GO
