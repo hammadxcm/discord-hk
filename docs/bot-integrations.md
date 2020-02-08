@@ -74,3 +74,4 @@ Reaction Role Categories:
     ⚡ Apex Legends  
     🎯 CS:GO
     🏆 League of Legends
+    
