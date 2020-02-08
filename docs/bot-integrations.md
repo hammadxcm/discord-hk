@@ -76,4 +76,5 @@ Reaction Role Categories:
     🏆 League of Legends
     
   🎨 Interest Roles:
-    🎵 M
+    🎵 Music Lover
+   
