@@ -80,4 +80,5 @@ Reaction Role Categories:
     🎬 Movie Buff
     📚 Book Worm
     🍳 Cooking
-  
+    
+  🔔
