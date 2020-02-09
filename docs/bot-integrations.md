@@ -78,3 +78,4 @@ Reaction Role Categories:
   🎨 Interest Roles:
     🎵 Music Lover
     🎬 Movie Buff
+    📚 Book Wor
