@@ -79,4 +79,4 @@ Reaction Role Categories:
     🎵 Music Lover
     🎬 Movie Buff
     📚 Book Worm
-    
+    🍳 Cook
