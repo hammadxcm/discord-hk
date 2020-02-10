@@ -83,3 +83,4 @@ Reaction Role Categories:
     
   🔔 Notification Roles:
     📢 Announcements
+    🎁 G
