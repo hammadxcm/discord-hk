@@ -83,4 +83,5 @@ Reaction Role Categories:
     
   🔔 Notification Roles:
     📢 Announcements
-    🎁 Giveawa
+    🎁 Giveaways
+   
