@@ -82,4 +82,4 @@ Reaction Role Categories:
     🍳 Cooking
     
   🔔 Notification Roles:
-    📢 An
+    📢 Announc
