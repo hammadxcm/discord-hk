@@ -81,4 +81,5 @@ Reaction Role Categories:
     📚 Book Worm
     🍳 Cooking
     
-  🔔 Notification Role
+  🔔 Notification Roles:
+   
