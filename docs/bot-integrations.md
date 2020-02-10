@@ -84,4 +84,4 @@ Reaction Role Categories:
   🔔 Notification Roles:
     📢 Announcements
     🎁 Giveaways
-   
+    🎊 Eve
