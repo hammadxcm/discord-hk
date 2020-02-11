@@ -85,4 +85,4 @@ Reaction Role Categories:
     📢 Announcements
     🎁 Giveaways
     🎊 Events
-    📺 Stream A
+    📺 Stream Alerts
