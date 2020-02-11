@@ -88,4 +88,5 @@ Reaction Role Categories:
     📺 Stream Alerts
 ```
 
-#### 🤖 Automod Configurat
+#### 🤖 Automod Configuration
+```ya
