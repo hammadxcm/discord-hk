@@ -89,4 +89,5 @@ Reaction Role Categories:
 ```
 
 #### 🤖 Automod Configuration
-```ya
+```yaml
+Automo
