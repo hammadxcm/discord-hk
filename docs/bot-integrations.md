@@ -90,4 +90,4 @@ Reaction Role Categories:
 
 #### 🤖 Automod Configuration
 ```yaml
-Automo
+Automod Rules:
