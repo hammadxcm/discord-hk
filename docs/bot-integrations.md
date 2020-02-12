@@ -91,4 +91,4 @@ Reaction Role Categories:
 #### 🤖 Automod Configuration
 ```yaml
 Automod Rules:
-  - 
+  - Links
