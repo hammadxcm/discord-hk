@@ -92,4 +92,4 @@ Reaction Role Categories:
 ```yaml
 Automod Rules:
   - Links: Delete unauthorized links
-  - Invites: Delet
+  - Invites: Delete Disc
