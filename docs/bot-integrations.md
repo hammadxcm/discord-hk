@@ -91,4 +91,5 @@ Reaction Role Categories:
 #### 🤖 Automod Configuration
 ```yaml
 Automod Rules:
-  - Links: Delete unauthorized lin
+  - Links: Delete unauthorized links
+  
