@@ -93,4 +93,4 @@ Reaction Role Categories:
 Automod Rules:
   - Links: Delete unauthorized links
   - Invites: Delete Discord invites (except partnerships)
- 
+  - Ex
