@@ -92,4 +92,4 @@ Reaction Role Categories:
 ```yaml
 Automod Rules:
   - Links: Delete unauthorized links
-  - Invites: Delete Discord invites (except part
+  - Invites: Delete Discord invites (except partnershi
