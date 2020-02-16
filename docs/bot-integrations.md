@@ -94,4 +94,5 @@ Automod Rules:
   - Links: Delete unauthorized links
   - Invites: Delete Discord invites (except partnerships)
   - Excessive emojis: Delete messages with 5+ emojis
-  - Mass mentions: Delete messages with 4+ menti
+  - Mass mentions: Delete messages with 4+ mentions
+  - Z
