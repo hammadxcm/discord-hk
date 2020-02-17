@@ -95,4 +95,5 @@ Automod Rules:
   - Invites: Delete Discord invites (except partnerships)
   - Excessive emojis: Delete messages with 5+ emojis
   - Mass mentions: Delete messages with 4+ mentions
-  - Zalgo text: Delete messages with zalgo/fanc
+  - Zalgo text: Delete messages with zalgo/fancy text
+ 
