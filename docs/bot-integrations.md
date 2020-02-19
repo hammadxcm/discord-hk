@@ -98,4 +98,4 @@ Automod Rules:
   - Zalgo text: Delete messages with zalgo/fancy text
   - Repeated characters: Delete messages with 10+ repeated chars
 
-Whitel
+Whitelist:
