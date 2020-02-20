@@ -100,4 +100,4 @@ Automod Rules:
 
 Whitelist:
   - Staff roles bypass all automod
-  - Trus
+  - Trusted 
