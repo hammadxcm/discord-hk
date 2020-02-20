@@ -100,4 +100,4 @@ Automod Rules:
 
 Whitelist:
   - Staff roles bypass all automod
-  - Trusted members bypass link 
+  - Trusted members bypass link filte
