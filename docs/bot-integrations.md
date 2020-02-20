@@ -99,4 +99,4 @@ Automod Rules:
   - Repeated characters: Delete messages with 10+ repeated chars
 
 Whitelist:
-  - Staff roles bypass al
+  - Staff roles bypass all aut
