@@ -101,4 +101,4 @@ Automod Rules:
 Whitelist:
   - Staff roles bypass all automod
   - Trusted members bypass link filter
-  - Part
+  - Partner c
