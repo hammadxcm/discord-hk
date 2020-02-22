@@ -105,4 +105,4 @@ Whitelist:
 ```
 
 #### ⭐ Starboard Setup
-```
+```yaml
