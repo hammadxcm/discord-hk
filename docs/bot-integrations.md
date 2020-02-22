@@ -104,4 +104,4 @@ Whitelist:
   - Partner channels allow invites
 ```
 
-##
+#### ⭐ S
