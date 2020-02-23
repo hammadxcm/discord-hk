@@ -108,4 +108,4 @@ Whitelist:
 ```yaml
 Starboard Config:
   Channel: #starboard
-  Emoj
+  Emoji: 
