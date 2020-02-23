@@ -106,4 +106,4 @@ Whitelist:
 
 #### ⭐ Starboard Setup
 ```yaml
-Starboard Con
+Starboard Config
