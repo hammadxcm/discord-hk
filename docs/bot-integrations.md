@@ -108,3 +108,4 @@ Whitelist:
 ```yaml
 Starboard Config:
   Channel: #starboard
+  E
