@@ -107,4 +107,4 @@ Whitelist:
 #### ⭐ Starboard Setup
 ```yaml
 Starboard Config:
-  Channel: #starboa
+  Channel: #starboard
