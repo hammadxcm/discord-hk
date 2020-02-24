@@ -109,4 +109,4 @@ Whitelist:
 Starboard Config:
   Channel: #starboard
   Emoji: ⭐
-  Required reaction
+  Required reactions: 3
