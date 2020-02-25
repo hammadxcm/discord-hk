@@ -110,4 +110,4 @@ Starboard Config:
   Channel: #starboard
   Emoji: ⭐
   Required reactions: 3
-  Self-star: Dis
+  Self-star: Disable
