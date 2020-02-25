@@ -111,4 +111,4 @@ Starboard Config:
   Emoji: ⭐
   Required reactions: 3
   Self-star: Disabled
-  Minimum message le
+  Minimum message length: 
