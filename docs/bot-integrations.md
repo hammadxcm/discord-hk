@@ -114,4 +114,4 @@ Starboard Config:
   Minimum message length: 10 characters
 ```
 
-### 3. Dyno - B
+### 3. Dyno - Backu
