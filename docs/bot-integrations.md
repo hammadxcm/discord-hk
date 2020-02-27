@@ -114,4 +114,4 @@ Starboard Config:
   Minimum message length: 10 characters
 ```
 
-### 3. Dyno - Backup Moderation & Utilit
+### 3. Dyno - Backup Moderation & Utilities
