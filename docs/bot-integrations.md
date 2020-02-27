@@ -117,4 +117,4 @@ Starboard Config:
 ### 3. Dyno - Backup Moderation & Utilities
 
 #### ⚡ Quick Setup
-1. **Inv
+1. **Invite*
