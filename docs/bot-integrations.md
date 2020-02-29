@@ -118,4 +118,4 @@ Starboard Config:
 
 #### ⚡ Quick Setup
 1. **Invite**: https://dyno.gg/ → Add to Server
-2. **Dashboard**: https://dyno.gg/das
+2. **Dashboard**: https://dyno.gg/dashboar
