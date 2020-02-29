@@ -120,4 +120,4 @@ Starboard Config:
 1. **Invite**: https://dyno.gg/ → Add to Server
 2. **Dashboard**: https://dyno.gg/dashboard
 
-#### 🔧 K
+#### 🔧 Key Configur
