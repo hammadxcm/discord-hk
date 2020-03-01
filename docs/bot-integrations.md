@@ -124,3 +124,4 @@ Starboard Config:
 ```yaml
 Auto Role:
   Role: @Member
+  
