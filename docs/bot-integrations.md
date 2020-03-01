@@ -122,4 +122,5 @@ Starboard Config:
 
 #### 🔧 Key Configurations
 ```yaml
-Auto 
+Auto Role:
+  Ro
