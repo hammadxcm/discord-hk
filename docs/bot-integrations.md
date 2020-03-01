@@ -121,4 +121,5 @@ Starboard Config:
 2. **Dashboard**: https://dyno.gg/dashboard
 
 #### 🔧 Key Configurations
-```
+```yaml
+Auto 
