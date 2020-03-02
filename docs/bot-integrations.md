@@ -125,3 +125,5 @@ Starboard Config:
 Auto Role:
   Role: @Member
   Delay: 10 minutes (prevents raid accounts)
+  
+Au
