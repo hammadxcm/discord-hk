@@ -124,4 +124,4 @@ Starboard Config:
 ```yaml
 Auto Role:
   Role: @Member
-  Delay: 10 minut
+  Delay: 10 minutes 
