@@ -124,4 +124,4 @@ Starboard Config:
 ```yaml
 Auto Role:
   Role: @Member
-  Del
+  Delay:
