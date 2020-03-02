@@ -124,4 +124,4 @@ Starboard Config:
 ```yaml
 Auto Role:
   Role: @Member
-  Delay: 10 minutes (prevents raid accou
+  Delay: 10 minutes (prevents raid accounts)
