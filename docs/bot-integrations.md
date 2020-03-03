@@ -126,4 +126,4 @@ Auto Role:
   Role: @Member
   Delay: 10 minutes (prevents raid accounts)
   
-Au
+Auto Mo
