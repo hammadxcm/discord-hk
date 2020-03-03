@@ -127,3 +127,4 @@ Auto Role:
   Delay: 10 minutes (prevents raid accounts)
   
 Auto Moderation:
+  - A
