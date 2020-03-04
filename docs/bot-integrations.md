@@ -128,4 +128,4 @@ Auto Role:
   
 Auto Moderation:
   - Anti-spam: ON
-  - Anti-rai
+  - Anti-raid: ON
