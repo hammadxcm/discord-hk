@@ -129,4 +129,5 @@ Auto Role:
 Auto Moderation:
   - Anti-spam: ON
   - Anti-raid: ON  
-  - Mass mention: 4+ mention
+  - Mass mention: 4+ mentions
+  -
