@@ -129,4 +129,4 @@ Auto Role:
 Auto Moderation:
   - Anti-spam: ON
   - Anti-raid: ON  
-  - Mass m
+  - Mass mention
