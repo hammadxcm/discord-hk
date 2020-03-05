@@ -131,3 +131,5 @@ Auto Moderation:
   - Anti-raid: ON  
   - Mass mention: 4+ mentions
   - Repeated text: 5+ repetitions
+  
+M
