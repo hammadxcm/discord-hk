@@ -130,4 +130,4 @@ Auto Moderation:
   - Anti-spam: ON
   - Anti-raid: ON  
   - Mass mention: 4+ mentions
-  - Repeated text: 5+ repeti
+  - Repeated text: 5+ repetitions
