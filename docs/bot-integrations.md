@@ -132,4 +132,4 @@ Auto Moderation:
   - Mass mention: 4+ mentions
   - Repeated text: 5+ repetitions
   
-Modera
+Moderation:
