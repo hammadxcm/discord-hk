@@ -133,4 +133,4 @@ Auto Moderation:
   - Repeated text: 5+ repetitions
   
 Moderation:
-  - Auto delet
+  - Auto delete: Bo
