@@ -133,4 +133,4 @@ Auto Moderation:
   - Repeated text: 5+ repetitions
   
 Moderation:
-  - Auto delete: Bot commands afte
+  - Auto delete: Bot commands after 5 s
