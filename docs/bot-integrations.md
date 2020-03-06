@@ -134,4 +134,4 @@ Auto Moderation:
   
 Moderation:
   - Auto delete: Bot commands after 5 seconds
-  - Mod log c
+  - Mod log channe
