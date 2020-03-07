@@ -138,4 +138,5 @@ Moderation:
   - Mute role: @Muted
 ```
 
-#### 📊 Server 
+#### 📊 Server Stats
+``
