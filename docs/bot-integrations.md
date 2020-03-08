@@ -141,4 +141,4 @@ Moderation:
 #### 📊 Server Stats
 ```yaml
 Voice Channels (Server Stats):
-  📊 Total Members: 
+  📊 Total Members: {me
