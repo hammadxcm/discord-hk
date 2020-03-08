@@ -140,4 +140,4 @@ Moderation:
 
 #### 📊 Server Stats
 ```yaml
-Voice Channels (Se
+Voice Channels (Server Sta
