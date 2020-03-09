@@ -142,4 +142,4 @@ Moderation:
 ```yaml
 Voice Channels (Server Stats):
   📊 Total Members: {membercount}
-  👤 Online Members:
+  👤 Online Members: {
