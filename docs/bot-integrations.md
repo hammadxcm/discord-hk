@@ -143,4 +143,5 @@ Moderation:
 Voice Channels (Server Stats):
   📊 Total Members: {membercount}
   👤 Online Members: {onlinecount}  
-  🤖 Total Bots: {bot
+  🤖 Total Bots: {botcount}
+  💎 
