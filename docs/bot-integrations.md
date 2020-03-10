@@ -144,4 +144,4 @@ Voice Channels (Server Stats):
   📊 Total Members: {membercount}
   👤 Online Members: {onlinecount}  
   🤖 Total Bots: {botcount}
-  💎 Boost Level: {bo
+  💎 Boost Level: {boostle
