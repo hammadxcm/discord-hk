@@ -145,4 +145,5 @@ Voice Channels (Server Stats):
   👤 Online Members: {onlinecount}  
   🤖 Total Bots: {botcount}
   💎 Boost Level: {boostlevel}
-  🎉 Server Birthday: Created {createdate
+  🎉 Server Birthday: Created {createdate}
+```
