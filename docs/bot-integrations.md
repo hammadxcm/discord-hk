@@ -148,4 +148,4 @@ Voice Channels (Server Stats):
   🎉 Server Birthday: Created {createdate}
 ```
 
-## 
+## 🎵 Mu
