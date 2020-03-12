@@ -151,3 +151,5 @@ Voice Channels (Server Stats):
 ## 🎵 Music Bots
 
 ### Jockie Music (Recommended)
+
+#### ⚡ S
