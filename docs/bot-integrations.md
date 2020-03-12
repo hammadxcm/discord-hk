@@ -150,4 +150,4 @@ Voice Channels (Server Stats):
 
 ## 🎵 Music Bots
 
-### Jockie M
+### Jockie Music 
