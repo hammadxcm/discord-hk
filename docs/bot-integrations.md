@@ -152,4 +152,5 @@ Voice Channels (Server Stats):
 
 ### Jockie Music (Recommended)
 
-#### ⚡ S
+#### ⚡ Setup
+1. *
