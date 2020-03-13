@@ -153,4 +153,4 @@ Voice Channels (Server Stats):
 ### Jockie Music (Recommended)
 
 #### ⚡ Setup
-1. **Invite**: https
+1. **Invite**: https://jockiemus
