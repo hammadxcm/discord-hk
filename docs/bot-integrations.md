@@ -154,4 +154,4 @@ Voice Channels (Server Stats):
 
 #### ⚡ Setup
 1. **Invite**: https://jockiemusic.com/
-2. **Permissions**: Connec
+2. **Permissions**: Connect, Speak, U
