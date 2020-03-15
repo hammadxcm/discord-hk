@@ -155,4 +155,6 @@ Voice Channels (Server Stats):
 #### ⚡ Setup
 1. **Invite**: https://jockiemusic.com/
 2. **Permissions**: Connect, Speak, Use Voice Activity
-3. **Commands**: `j!help` for command 
+3. **Commands**: `j!help` for command list
+
+##
