@@ -158,4 +158,5 @@ Voice Channels (Server Stats):
 3. **Commands**: `j!help` for command list
 
 #### 🎵 Configuration
-```ya
+```yaml
+Setti
