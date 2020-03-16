@@ -160,4 +160,5 @@ Voice Channels (Server Stats):
 #### 🎵 Configuration
 ```yaml
 Settings:
-  Prefix: 
+  Prefix: j!
+  DJ
