@@ -159,4 +159,5 @@ Voice Channels (Server Stats):
 
 #### 🎵 Configuration
 ```yaml
-Setti
+Settings:
+  P
