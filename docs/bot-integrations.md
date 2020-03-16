@@ -161,4 +161,4 @@ Voice Channels (Server Stats):
 ```yaml
 Settings:
   Prefix: j!
-  DJ
+  DJ Role: 
