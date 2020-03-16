@@ -157,4 +157,4 @@ Voice Channels (Server Stats):
 2. **Permissions**: Connect, Speak, Use Voice Activity
 3. **Commands**: `j!help` for command list
 
-#### 🎵 Con
+#### 🎵 Configurati
