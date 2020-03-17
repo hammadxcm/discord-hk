@@ -162,4 +162,4 @@ Voice Channels (Server Stats):
 Settings:
   Prefix: j!
   DJ Role: @DJ
-  Music Channel: 
+  Music Channel: #music-
