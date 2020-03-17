@@ -165,4 +165,5 @@ Settings:
   Music Channel: #music-commands
   Volume: 50% default
   
-Feature
+Features:
+  
