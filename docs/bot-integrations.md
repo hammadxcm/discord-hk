@@ -163,4 +163,4 @@ Settings:
   Prefix: j!
   DJ Role: @DJ
   Music Channel: #music-commands
-  Vol
+  Volume: 50
