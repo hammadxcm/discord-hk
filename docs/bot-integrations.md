@@ -167,3 +167,4 @@ Settings:
   
 Features:
   - YouTube, Spotify, SoundCloud support
+  - Queue mana
