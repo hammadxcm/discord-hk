@@ -166,4 +166,4 @@ Settings:
   Volume: 50% default
   
 Features:
-  - YouTube, Spotify, SoundCloud supp
+  - YouTube, Spotify, SoundCloud support
