@@ -169,4 +169,4 @@ Features:
   - YouTube, Spotify, SoundCloud support
   - Queue management
   - Lyrics display
-  - 24/7 mode fo
+  - 24/7 mode for VIP servers
