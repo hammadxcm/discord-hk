@@ -172,4 +172,6 @@ Features:
   - 24/7 mode for VIP servers
 ```
 
-### Alternative: H
+### Alternative: Hydra Bot
+
+#
