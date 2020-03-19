@@ -170,3 +170,6 @@ Features:
   - Queue management
   - Lyrics display
   - 24/7 mode for VIP servers
+```
+
+### Alt
