@@ -172,4 +172,4 @@ Features:
   - 24/7 mode for VIP servers
 ```
 
-### Alt
+### Alternative: H
