@@ -175,4 +175,4 @@ Features:
 ### Alternative: Hydra Bot
 
 #### ⚡ Setup
-1. **Invite**: 
+1. **Invite**: http
