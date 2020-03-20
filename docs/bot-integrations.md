@@ -174,4 +174,4 @@ Features:
 
 ### Alternative: Hydra Bot
 
-#
+#### ⚡ Setup
