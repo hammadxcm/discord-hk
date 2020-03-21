@@ -176,3 +176,4 @@ Features:
 
 #### ⚡ Setup
 1. **Invite**: https://hydrabot.co/
+2. 
