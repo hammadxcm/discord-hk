@@ -175,4 +175,4 @@ Features:
 ### Alternative: Hydra Bot
 
 #### ⚡ Setup
-1. **Invite**: https://hydrabot
+1. **Invite**: https://hydrabot.co/
