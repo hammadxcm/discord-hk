@@ -176,4 +176,4 @@ Features:
 
 #### ⚡ Setup
 1. **Invite**: https://hydrabot.co/
-2. **Premium**: Consider fo
+2. **Premium**: Consider for e
