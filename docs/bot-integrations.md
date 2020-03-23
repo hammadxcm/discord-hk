@@ -180,4 +180,4 @@ Features:
 
 ## 🎁 Giveaway Bots
 
-### Giveawa
+### GiveawayBot
