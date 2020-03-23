@@ -182,4 +182,4 @@ Features:
 
 ### GiveawayBot
 
-#### ⚡ S
+#### ⚡ Setu
