@@ -183,4 +183,4 @@ Features:
 ### GiveawayBot
 
 #### ⚡ Setup
-1. **Invite**: h
+1. **Invite**: http
