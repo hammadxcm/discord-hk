@@ -183,4 +183,4 @@ Features:
 ### GiveawayBot
 
 #### ⚡ Setup
-1. **Invite**: https://
+1. **Invite**: https://give
