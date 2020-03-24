@@ -182,4 +182,5 @@ Features:
 
 ### GiveawayBot
 
-#### ⚡ Setu
+#### ⚡ Setup
+1
