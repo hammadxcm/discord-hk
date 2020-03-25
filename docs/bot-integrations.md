@@ -184,4 +184,4 @@ Features:
 
 #### ⚡ Setup
 1. **Invite**: https://giveawaybot.party/
-2. **Channel**: C
+2. **Channel**: Creat
