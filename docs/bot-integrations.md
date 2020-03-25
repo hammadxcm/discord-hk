@@ -185,3 +185,5 @@ Features:
 #### ⚡ Setup
 1. **Invite**: https://giveawaybot.party/
 2. **Channel**: Create #giveaways
+
+##
