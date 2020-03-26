@@ -187,4 +187,5 @@ Features:
 2. **Channel**: Create #giveaways
 
 #### 🎁 Giveaway Commands
-```ba
+```bash
+#
