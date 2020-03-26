@@ -189,4 +189,4 @@ Features:
 #### 🎁 Giveaway Commands
 ```bash
 # Basic giveaway
-g!gstart #chan
+g!gstart #channel 1d 1w D
