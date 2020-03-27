@@ -192,4 +192,4 @@ Features:
 g!gstart #channel 1d 1w Discord Nitro
 
 # Advanced giveaway  
-g!
+g!gstar
