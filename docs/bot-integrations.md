@@ -189,4 +189,6 @@ Features:
 #### 🎁 Giveaway Commands
 ```bash
 # Basic giveaway
-g!gstart #channel 1d 1w Discord Nitr
+g!gstart #channel 1d 1w Discord Nitro
+
+# Advanc
