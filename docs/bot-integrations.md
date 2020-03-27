@@ -191,4 +191,4 @@ Features:
 # Basic giveaway
 g!gstart #channel 1d 1w Discord Nitro
 
-# Advanc
+# Advanced giveaway
