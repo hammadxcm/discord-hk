@@ -194,4 +194,4 @@ g!gstart #channel 1d 1w Discord Nitro
 # Advanced giveaway  
 g!gstart #giveaways 7d 3w Premium Role
 --requirement role:@Active Member
---requirement messa
+--requirement messages:50
