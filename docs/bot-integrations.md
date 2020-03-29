@@ -193,4 +193,4 @@ g!gstart #channel 1d 1w Discord Nitro
 
 # Advanced giveaway  
 g!gstart #giveaways 7d 3w Premium Role
---requirem
+--requirement
