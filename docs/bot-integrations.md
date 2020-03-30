@@ -198,4 +198,4 @@ g!gstart #giveaways 7d 3w Premium Role
 --requirement age:7d
 ```
 
-#### 🎉 Configurat
+#### 🎉 Configuration
