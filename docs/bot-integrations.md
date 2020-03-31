@@ -201,4 +201,5 @@ g!gstart #giveaways 7d 3w Premium Role
 #### 🎉 Configuration
 ```yaml
 Settings:
-  Manager Role: @Giveaway Man
+  Manager Role: @Giveaway Manager
+  Givea
