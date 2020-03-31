@@ -201,3 +201,4 @@ g!gstart #giveaways 7d 3w Premium Role
 #### 🎉 Configuration
 ```yaml
 Settings:
+  
