@@ -203,4 +203,4 @@ g!gstart #giveaways 7d 3w Premium Role
 Settings:
   Manager Role: @Giveaway Manager
   Giveaway Channel: #giveaways
-  Ping Ro
+  Ping Role: @Giv
