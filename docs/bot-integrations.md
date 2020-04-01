@@ -202,4 +202,5 @@ g!gstart #giveaways 7d 3w Premium Role
 ```yaml
 Settings:
   Manager Role: @Giveaway Manager
-  Giveaway Channel: #giveaway
+  Giveaway Channel: #giveaways
+  Ping Ro
