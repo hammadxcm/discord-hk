@@ -205,4 +205,4 @@ Settings:
   Giveaway Channel: #giveaways
   Ping Role: @Giveaway Notifications
   
-T
+Templates
