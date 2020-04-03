@@ -206,4 +206,4 @@ Settings:
   Ping Role: @Giveaway Notifications
   
 Templates:
-  Weekly Nitro: 7d dur
+  Weekly Nitro: 7d duratio
