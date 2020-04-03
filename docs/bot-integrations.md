@@ -206,4 +206,4 @@ Settings:
   Ping Role: @Giveaway Notifications
   
 Templates:
-  Weekly Nitro: 7d duration, @Active 
+  Weekly Nitro: 7d duration, @Active Me
