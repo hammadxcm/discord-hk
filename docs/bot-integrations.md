@@ -206,4 +206,4 @@ Settings:
   Ping Role: @Giveaway Notifications
   
 Templates:
-  Weekly Nitro: 7d duration, @Active Member requi
+  Weekly Nitro: 7d duration, @Active Member require
