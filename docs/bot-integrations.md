@@ -207,3 +207,4 @@ Settings:
   
 Templates:
   Weekly Nitro: 7d duration, @Active Member requirement
+ 
