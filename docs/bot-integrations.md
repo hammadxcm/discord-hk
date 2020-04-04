@@ -207,4 +207,4 @@ Settings:
   
 Templates:
   Weekly Nitro: 7d duration, @Active Member requirement
-  Monthly Boost: 30d duration, 
+  Monthly Boost: 30d duration, Level
