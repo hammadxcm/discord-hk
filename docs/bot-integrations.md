@@ -210,3 +210,5 @@ Templates:
   Monthly Boost: 30d duration, Level 15+ requirement
   Special Events: Custom requirements
 ```
+
+## 🎫 
