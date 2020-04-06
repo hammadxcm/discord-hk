@@ -215,4 +215,5 @@ Templates:
 
 ### TicketTool
 
-#### ⚡ Set
+#### ⚡ Setup
+1
