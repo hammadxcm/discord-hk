@@ -216,4 +216,4 @@ Templates:
 ### TicketTool
 
 #### ⚡ Setup
-1. **Invi
+1. **Invite**
