@@ -216,4 +216,4 @@ Templates:
 ### TicketTool
 
 #### ⚡ Setup
-1. **Invite**: ht
+1. **Invite**: https:
