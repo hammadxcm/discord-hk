@@ -216,4 +216,4 @@ Templates:
 ### TicketTool
 
 #### ⚡ Setup
-1. **Invite**: https://t
+1. **Invite**: https://tick
