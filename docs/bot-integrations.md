@@ -217,4 +217,4 @@ Templates:
 
 #### ⚡ Setup
 1. **Invite**: https://tickettool.xyz/
-2. **Configuration**: Create ticket cate
+2. **Configuration**: Create ticket categori
