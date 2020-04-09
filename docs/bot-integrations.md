@@ -219,4 +219,4 @@ Templates:
 1. **Invite**: https://tickettool.xyz/
 2. **Configuration**: Create ticket categories
 
-#### 🎫 Ticket Catego
+#### 🎫 Ticket Categories
