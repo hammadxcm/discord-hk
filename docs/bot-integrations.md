@@ -222,4 +222,4 @@ Templates:
 #### 🎫 Ticket Categories
 ```yaml
 Categories:
-  🛠️
+  🛠️ Ge
