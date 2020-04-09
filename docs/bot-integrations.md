@@ -220,4 +220,4 @@ Templates:
 2. **Configuration**: Create ticket categories
 
 #### 🎫 Ticket Categories
-```ya
+```yaml
