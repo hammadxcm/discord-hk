@@ -221,4 +221,5 @@ Templates:
 
 #### 🎫 Ticket Categories
 ```yaml
-Categorie
+Categories:
+ 
