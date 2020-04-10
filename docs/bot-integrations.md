@@ -223,4 +223,4 @@ Templates:
 ```yaml
 Categories:
   🛠️ General Support:
-   
+    - 
