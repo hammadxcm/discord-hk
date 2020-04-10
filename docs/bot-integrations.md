@@ -223,4 +223,5 @@ Templates:
 ```yaml
 Categories:
   🛠️ General Support:
-    - Staff role: @Help
+    - Staff role: @Helper
+ 
