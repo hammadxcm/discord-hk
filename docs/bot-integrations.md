@@ -222,4 +222,4 @@ Templates:
 #### 🎫 Ticket Categories
 ```yaml
 Categories:
-  🛠️ General Sup
+  🛠️ General Suppor
