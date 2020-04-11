@@ -224,4 +224,4 @@ Templates:
 Categories:
   🛠️ General Support:
     - Staff role: @Helper
-    - Auto-message: "Thanks for opening a ticket!
+    - Auto-message: "Thanks for opening a ticket! Pl
