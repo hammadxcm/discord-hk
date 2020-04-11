@@ -224,4 +224,4 @@ Templates:
 Categories:
   🛠️ General Support:
     - Staff role: @Helper
-    - Auto-message: "Thanks f
+    - Auto-message: "Thanks for o
