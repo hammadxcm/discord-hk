@@ -225,4 +225,5 @@ Categories:
   🛠️ General Support:
     - Staff role: @Helper
     - Auto-message: "Thanks for opening a ticket! Please describe your issue."
-   
+    
+  
