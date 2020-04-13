@@ -227,4 +227,5 @@ Categories:
     - Auto-message: "Thanks for opening a ticket! Please describe your issue."
     
   🎮 Gaming Help:
-    - Staff role: @Gaming St
+    - Staff role: @Gaming Staff
+ 
