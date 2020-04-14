@@ -228,4 +228,4 @@ Categories:
     
   🎮 Gaming Help:
     - Staff role: @Gaming Staff
-    - Auto-message: "What game do yo
+    - Auto-message: "What game do you nee
