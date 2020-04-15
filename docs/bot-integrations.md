@@ -231,4 +231,4 @@ Categories:
     - Auto-message: "What game do you need help with?"
     
   💎 VIP Support: 
-    - Staff r
+    - Staff role
