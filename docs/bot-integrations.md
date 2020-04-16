@@ -234,4 +234,4 @@ Categories:
     - Staff role: @Admin
     - Requirement: @VIP role
     
-  🚨 Repo
+  🚨 Report Player
