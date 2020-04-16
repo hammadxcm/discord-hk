@@ -232,4 +232,5 @@ Categories:
     
   💎 VIP Support: 
     - Staff role: @Admin
-    - Requirement: @VIP
+    - Requirement: @VIP role
+    
