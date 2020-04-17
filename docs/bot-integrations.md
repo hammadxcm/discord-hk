@@ -235,4 +235,4 @@ Categories:
     - Requirement: @VIP role
     
   🚨 Report Player:
-    - Staff role: @Modera
+    - Staff role: @Moderator
