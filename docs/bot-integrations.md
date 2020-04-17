@@ -235,4 +235,4 @@ Categories:
     - Requirement: @VIP role
     
   🚨 Report Player:
-    - S
+    - Staff role
