@@ -236,4 +236,4 @@ Categories:
     
   🚨 Report Player:
     - Staff role: @Moderator
-    - Auto-message: "Pl
+    - Auto-message: "Pleas
