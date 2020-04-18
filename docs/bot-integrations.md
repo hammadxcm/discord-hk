@@ -236,4 +236,4 @@ Categories:
     
   🚨 Report Player:
     - Staff role: @Moderator
-    - Auto-message: "Please provide evi
+    - Auto-message: "Please provide evidence 
