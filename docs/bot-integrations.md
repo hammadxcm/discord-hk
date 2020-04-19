@@ -238,3 +238,5 @@ Categories:
     - Staff role: @Moderator
     - Auto-message: "Please provide evidence and details."
 ```
+
+## 📊 
