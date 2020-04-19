@@ -241,4 +241,4 @@ Categories:
 
 ## 📊 Statistics & Analytics
 
-### Statb
+### Statbot
