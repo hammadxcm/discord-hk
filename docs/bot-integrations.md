@@ -243,4 +243,5 @@ Categories:
 
 ### Statbot
 
-#### ⚡ Setu
+#### ⚡ Setup
+1
