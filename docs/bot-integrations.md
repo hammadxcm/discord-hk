@@ -244,4 +244,4 @@ Categories:
 ### Statbot
 
 #### ⚡ Setup
-1. **In
+1. **Invit
