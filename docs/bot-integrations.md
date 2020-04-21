@@ -245,4 +245,4 @@ Categories:
 
 #### ⚡ Setup
 1. **Invite**: https://statbot.net/
-2. *
+2. **Voic
