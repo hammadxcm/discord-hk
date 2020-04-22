@@ -249,3 +249,4 @@ Categories:
 
 #### 📈 Stat Channels
 ```yaml
+Voice Channe
