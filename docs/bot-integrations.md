@@ -247,4 +247,4 @@ Categories:
 1. **Invite**: https://statbot.net/
 2. **Voice Channel Stats**: Create voice channels for live stats
 
-#### 📈 Stat
+#### 📈 Stat Chan
