@@ -245,4 +245,4 @@ Categories:
 
 #### ⚡ Setup
 1. **Invite**: https://statbot.net/
-2. **Voice Channel Stats**: Create voice channels for li
+2. **Voice Channel Stats**: Create voice channels for live sta
