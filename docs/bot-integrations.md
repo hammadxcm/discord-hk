@@ -251,4 +251,4 @@ Categories:
 ```yaml
 Voice Channels:
   📊 Members: {members}
-  👥 Online: {onli
+  👥 Online: {online
