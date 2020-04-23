@@ -250,4 +250,4 @@ Categories:
 #### 📈 Stat Channels
 ```yaml
 Voice Channels:
-  📊 Memb
+  📊 Members: {member
