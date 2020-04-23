@@ -250,4 +250,5 @@ Categories:
 #### 📈 Stat Channels
 ```yaml
 Voice Channels:
-  📊 Members: {member
+  📊 Members: {members}
+  👥 Onlin
