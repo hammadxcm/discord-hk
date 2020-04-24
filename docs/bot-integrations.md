@@ -252,4 +252,4 @@ Categories:
 Voice Channels:
   📊 Members: {members}
   👥 Online: {online}
-  🤖 
+  🤖 Bo
