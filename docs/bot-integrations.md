@@ -253,4 +253,5 @@ Voice Channels:
   📊 Members: {members}
   👥 Online: {online}
   🤖 Bots: {bots}
-  💎 Boosters: {boo
+  💎 Boosters: {boosters}
+ 
