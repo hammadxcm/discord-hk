@@ -254,4 +254,4 @@ Voice Channels:
   👥 Online: {online}
   🤖 Bots: {bots}
   💎 Boosters: {boosters}
-  🎵 In Vo
+  🎵 In Voice: {vo
