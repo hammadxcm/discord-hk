@@ -259,4 +259,4 @@ Voice Channels:
 
 ### ServerStats
 
-#### 📊
+#### 📊 Advanced A
