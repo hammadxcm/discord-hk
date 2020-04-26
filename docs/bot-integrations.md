@@ -260,4 +260,5 @@ Voice Channels:
 ### ServerStats
 
 #### 📊 Advanced Analytics
-`
+```yaml
+Feat
