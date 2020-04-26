@@ -261,4 +261,5 @@ Voice Channels:
 
 #### 📊 Advanced Analytics
 ```yaml
-Feat
+Features:
+  - D
