@@ -259,4 +259,5 @@ Voice Channels:
 
 ### ServerStats
 
-#### 📊 Advanced A
+#### 📊 Advanced Analytics
+`
