@@ -263,4 +263,4 @@ Voice Channels:
 ```yaml
 Features:
   - Daily/weekly/monthly reports
-  - 
+  - Member 
