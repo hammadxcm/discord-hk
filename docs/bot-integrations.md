@@ -262,4 +262,4 @@ Voice Channels:
 #### 📊 Advanced Analytics
 ```yaml
 Features:
-  - Daily/weekly
+  - Daily/weekly/monthly re
