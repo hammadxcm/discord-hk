@@ -263,4 +263,5 @@ Voice Channels:
 ```yaml
 Features:
   - Daily/weekly/monthly reports
-  - Member growth trackin
+  - Member growth tracking
+  - M
