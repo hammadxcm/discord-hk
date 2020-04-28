@@ -264,4 +264,4 @@ Voice Channels:
 Features:
   - Daily/weekly/monthly reports
   - Member growth tracking
-  - Message activity heatma
+  - Message activity heatmaps
