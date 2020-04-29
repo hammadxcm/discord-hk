@@ -265,4 +265,5 @@ Features:
   - Daily/weekly/monthly reports
   - Member growth tracking
   - Message activity heatmaps
-  - Voice channel usa
+  - Voice channel usage stats
+ 
