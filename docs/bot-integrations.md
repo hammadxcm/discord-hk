@@ -266,4 +266,4 @@ Features:
   - Member growth tracking
   - Message activity heatmaps
   - Voice channel usage stats
-  - Bot com
+  - Bot command usag
