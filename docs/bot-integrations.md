@@ -269,4 +269,4 @@ Features:
   - Bot command usage analytics
 ```
 
-## 🎮 Gamin
+## 🎮 Gaming Integ
