@@ -266,4 +266,7 @@ Features:
   - Member growth tracking
   - Message activity heatmaps
   - Voice channel usage stats
-  - Bot command usage analyti
+  - Bot command usage analytics
+```
+
+#
