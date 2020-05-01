@@ -271,4 +271,4 @@ Features:
 
 ## 🎮 Gaming Integration & Leaderboards
 
-### Steam Bot - Steam 
+### Steam Bot - Steam Inte
