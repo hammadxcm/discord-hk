@@ -269,4 +269,4 @@ Features:
   - Bot command usage analytics
 ```
 
-## 🎮 Gaming Integration & Leade
+## 🎮 Gaming Integration & Leaderboards
