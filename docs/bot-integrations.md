@@ -273,4 +273,4 @@ Features:
 
 ### Steam Bot - Steam Integration
 
-###
+#### ⚡
