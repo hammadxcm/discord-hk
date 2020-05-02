@@ -273,4 +273,5 @@ Features:
 
 ### Steam Bot - Steam Integration
 
-#### ⚡ Set
+#### ⚡ Setup
+1
