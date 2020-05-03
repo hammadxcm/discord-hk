@@ -274,4 +274,4 @@ Features:
 ### Steam Bot - Steam Integration
 
 #### ⚡ Setup
-1. **Invite**: htt
+1. **Invite**: https:
