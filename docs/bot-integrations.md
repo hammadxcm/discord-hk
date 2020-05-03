@@ -275,3 +275,4 @@ Features:
 
 #### ⚡ Setup
 1. **Invite**: https://steambot.me/
+2. 
