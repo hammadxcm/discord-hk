@@ -277,3 +277,4 @@ Features:
 1. **Invite**: https://steambot.me/
 2. **Features**: Steam profiles, game tracking, achievement monitoring
 3. **Commands**:
+   ```bash
