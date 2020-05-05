@@ -276,4 +276,4 @@ Features:
 #### ⚡ Setup
 1. **Invite**: https://steambot.me/
 2. **Features**: Steam profiles, game tracking, achievement monitoring
-3. **Co
+3. **Commands**:
