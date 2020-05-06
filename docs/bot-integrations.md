@@ -278,4 +278,4 @@ Features:
 2. **Features**: Steam profiles, game tracking, achievement monitoring
 3. **Commands**:
    ```bash
-   s!profile <steam_id>    # 
+   s!profile <steam_id>    # View Steam
