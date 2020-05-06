@@ -279,4 +279,4 @@ Features:
 3. **Commands**:
    ```bash
    s!profile <steam_id>    # View Steam profile
-   s!game
+   s!games <use
