@@ -280,4 +280,4 @@ Features:
    ```bash
    s!profile <steam_id>    # View Steam profile
    s!games <user>          # Show game library
- 
+   s
