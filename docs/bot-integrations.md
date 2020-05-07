@@ -279,4 +279,5 @@ Features:
 3. **Commands**:
    ```bash
    s!profile <steam_id>    # View Steam profile
-   s!games <user>          # Show game librar
+   s!games <user>          # Show game library
+ 
