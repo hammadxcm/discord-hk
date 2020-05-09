@@ -281,4 +281,4 @@ Features:
    s!profile <steam_id>    # View Steam profile
    s!games <user>          # Show game library
    s!compare <user1> <user2> # Compare profiles
-   s
+   s!re
