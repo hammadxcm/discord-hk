@@ -283,3 +283,5 @@ Features:
    s!compare <user1> <user2> # Compare profiles
    s!recent <user>         # Recent activity
    ```
+
+#
