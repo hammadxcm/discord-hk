@@ -284,4 +284,4 @@ Features:
    s!recent <user>         # Recent activity
    ```
 
-#### 🏆 Steam Lead
+#### 🏆 Steam Leaderboard
