@@ -284,4 +284,4 @@ Features:
    s!recent <user>         # Recent activity
    ```
 
-#
+###
