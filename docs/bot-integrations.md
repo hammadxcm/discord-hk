@@ -287,3 +287,4 @@ Features:
 #### 🏆 Steam Leaderboards
 ```yaml
 Configuration:
+  - Link
