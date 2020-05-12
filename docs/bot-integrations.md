@@ -289,3 +289,4 @@ Features:
 Configuration:
   - Link Steam accounts: s!link <steam_id>
   - Track playtime across games
+  - A
