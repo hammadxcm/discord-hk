@@ -288,4 +288,4 @@ Features:
 ```yaml
 Configuration:
   - Link Steam accounts: s!link <steam_id>
-  - Track playtime
+  - Track playtime across
