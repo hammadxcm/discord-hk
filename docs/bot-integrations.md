@@ -287,4 +287,4 @@ Features:
 #### 🏆 Steam Leaderboards
 ```yaml
 Configuration:
-  - Link Steam accounts: s!link 
+  - Link Steam accounts: s!link <steam_i
