@@ -291,3 +291,4 @@ Configuration:
   - Track playtime across games
   - Achievement competitions
   - Game completion races
+  
