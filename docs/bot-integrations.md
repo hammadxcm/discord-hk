@@ -292,3 +292,4 @@ Configuration:
   - Achievement competitions
   - Game completion races
   
+Lead
