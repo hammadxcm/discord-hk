@@ -290,4 +290,4 @@ Configuration:
   - Link Steam accounts: s!link <steam_id>
   - Track playtime across games
   - Achievement competitions
-  - Game completion r
+  - Game completion races
