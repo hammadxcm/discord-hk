@@ -293,4 +293,4 @@ Configuration:
   - Game completion races
   
 Leaderboard Types:
-  - Most hours played 
+  - Most hours played ove
