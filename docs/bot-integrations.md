@@ -292,4 +292,4 @@ Configuration:
   - Achievement competitions
   - Game completion races
   
-Leaderboard Ty
+Leaderboard Types
