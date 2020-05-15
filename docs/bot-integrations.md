@@ -295,4 +295,4 @@ Configuration:
 Leaderboard Types:
   - Most hours played overall
   - Game-specific playtime
-  
+  - Ac
