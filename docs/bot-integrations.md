@@ -293,4 +293,5 @@ Configuration:
   - Game completion races
   
 Leaderboard Types:
-  - Most hours played overal
+  - Most hours played overall
+ 
