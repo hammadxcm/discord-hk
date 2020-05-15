@@ -294,4 +294,4 @@ Configuration:
   
 Leaderboard Types:
   - Most hours played overall
-  - Gam
+  - Game-
