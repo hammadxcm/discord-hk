@@ -295,4 +295,5 @@ Configuration:
 Leaderboard Types:
   - Most hours played overall
   - Game-specific playtime
-  - Achievement hunter
+  - Achievement hunters
+  
