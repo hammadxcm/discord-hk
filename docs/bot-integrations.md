@@ -296,4 +296,5 @@ Leaderboard Types:
   - Most hours played overall
   - Game-specific playtime
   - Achievement hunters
-  - Recent activity lead
+  - Recent activity leaders
+`
