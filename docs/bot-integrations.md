@@ -299,4 +299,4 @@ Leaderboard Types:
   - Recent activity leaders
 ```
 
-### GameStats Bot - M
+### GameStats Bot - Multi
