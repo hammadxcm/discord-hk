@@ -301,4 +301,4 @@ Leaderboard Types:
 
 ### GameStats Bot - Multi-Platform Gaming
 
-###
+#### 🎮 
