@@ -301,4 +301,5 @@ Leaderboard Types:
 
 ### GameStats Bot - Multi-Platform Gaming
 
-#### 🎮 Setu
+#### 🎮 Setup
+1.
