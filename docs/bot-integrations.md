@@ -302,4 +302,4 @@ Leaderboard Types:
 ### GameStats Bot - Multi-Platform Gaming
 
 #### 🎮 Setup
-1. **Invite**: htt
+1. **Invite**: https:/
