@@ -303,4 +303,4 @@ Leaderboard Types:
 
 #### 🎮 Setup
 1. **Invite**: https://gamestats.gg/
-2. **Supported Pl
+2. **Supported Platf
