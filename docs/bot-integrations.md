@@ -305,3 +305,4 @@ Leaderboard Types:
 1. **Invite**: https://gamestats.gg/
 2. **Supported Platforms**:
    ```yaml
+  
