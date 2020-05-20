@@ -304,4 +304,4 @@ Leaderboard Types:
 #### 🎮 Setup
 1. **Invite**: https://gamestats.gg/
 2. **Supported Platforms**:
-   
+   ``
