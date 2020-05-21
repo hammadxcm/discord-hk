@@ -306,4 +306,4 @@ Leaderboard Types:
 2. **Supported Platforms**:
    ```yaml
    Gaming Platforms:
-     - Steam (profiles,
+     - Steam (profiles, ach
