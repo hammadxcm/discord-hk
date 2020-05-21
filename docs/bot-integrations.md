@@ -307,3 +307,4 @@ Leaderboard Types:
    ```yaml
    Gaming Platforms:
      - Steam (profiles, achievements, playtime)
+     - 
