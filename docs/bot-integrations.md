@@ -307,4 +307,5 @@ Leaderboard Types:
    ```yaml
    Gaming Platforms:
      - Steam (profiles, achievements, playtime)
-     - Epic Games (account lin
+     - Epic Games (account linking)
+ 
