@@ -308,4 +308,4 @@ Leaderboard Types:
    Gaming Platforms:
      - Steam (profiles, achievements, playtime)
      - Epic Games (account linking)
-     - Origin/EA (gam
+     - Origin/EA (game tr
