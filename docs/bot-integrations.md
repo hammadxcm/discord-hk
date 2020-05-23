@@ -309,4 +309,4 @@ Leaderboard Types:
      - Steam (profiles, achievements, playtime)
      - Epic Games (account linking)
      - Origin/EA (game tracking)
-     
+     - Ubisoft C
