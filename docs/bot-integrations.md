@@ -312,3 +312,4 @@ Leaderboard Types:
      - Ubisoft Connect (achievements)
      - Battle.net (Overwatch, WoW, etc.)
    
+   S
