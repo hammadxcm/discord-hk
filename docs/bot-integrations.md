@@ -310,3 +310,4 @@ Leaderboard Types:
      - Epic Games (account linking)
      - Origin/EA (game tracking)
      - Ubisoft Connect (achievements)
+     - Ba
