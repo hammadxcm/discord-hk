@@ -313,4 +313,4 @@ Leaderboard Types:
      - Battle.net (Overwatch, WoW, etc.)
    
    Specific Games:
-     - Valorant (rank tra
+     - Valorant (rank tracki
