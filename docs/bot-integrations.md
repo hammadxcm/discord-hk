@@ -313,4 +313,4 @@ Leaderboard Types:
      - Battle.net (Overwatch, WoW, etc.)
    
    Specific Games:
-     - Val
+     - Valora
