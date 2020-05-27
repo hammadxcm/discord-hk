@@ -314,4 +314,4 @@ Leaderboard Types:
    
    Specific Games:
      - Valorant (rank tracking, match history)
-     - League of Legends (profiles, 
+     - League of Legends (profiles, match
