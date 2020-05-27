@@ -315,4 +315,4 @@ Leaderboard Types:
    Specific Games:
      - Valorant (rank tracking, match history)
      - League of Legends (profiles, match data)
-     - CS:GO (st
+     - CS:GO (statistic
