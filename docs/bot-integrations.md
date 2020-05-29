@@ -316,4 +316,4 @@ Leaderboard Types:
      - Valorant (rank tracking, match history)
      - League of Legends (profiles, match data)
      - CS:GO (statistics, rank tracking)
-     - Apex Legends (sta
+     - Apex Legends (stats, rank 
