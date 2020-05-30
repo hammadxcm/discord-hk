@@ -317,4 +317,4 @@ Leaderboard Types:
      - League of Legends (profiles, match data)
      - CS:GO (statistics, rank tracking)
      - Apex Legends (stats, rank tracking)
-     - Fortnite (profiles, 
+     - Fortnite (profiles, match s
