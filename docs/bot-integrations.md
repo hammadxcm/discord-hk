@@ -318,4 +318,4 @@ Leaderboard Types:
      - CS:GO (statistics, rank tracking)
      - Apex Legends (stats, rank tracking)
      - Fortnite (profiles, match stats)
-     - Rocket League (rank, mat
+     - Rocket League (rank, match 
