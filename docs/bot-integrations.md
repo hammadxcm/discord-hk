@@ -319,4 +319,4 @@ Leaderboard Types:
      - Apex Legends (stats, rank tracking)
      - Fortnite (profiles, match stats)
      - Rocket League (rank, match data)
-     - Overwatch
+     - Overwatch (compe
