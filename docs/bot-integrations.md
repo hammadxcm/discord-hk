@@ -320,3 +320,4 @@ Leaderboard Types:
      - Fortnite (profiles, match stats)
      - Rocket League (rank, match data)
      - Overwatch (competitive stats)
+     - 
