@@ -321,4 +321,4 @@ Leaderboard Types:
      - Rocket League (rank, match data)
      - Overwatch (competitive stats)
      - Call of Duty (Warzone, MW2, etc.)
-   
+   ```
