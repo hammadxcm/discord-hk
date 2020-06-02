@@ -323,4 +323,4 @@ Leaderboard Types:
      - Call of Duty (Warzone, MW2, etc.)
    ```
 
-#### 📊 Leaderboard 
+#### 📊 Leaderboard Fea
