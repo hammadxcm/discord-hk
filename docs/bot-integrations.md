@@ -324,4 +324,4 @@ Leaderboard Types:
    ```
 
 #### 📊 Leaderboard Features
-```ya
+```yaml
