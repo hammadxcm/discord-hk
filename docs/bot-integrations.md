@@ -325,4 +325,4 @@ Leaderboard Types:
 
 #### 📊 Leaderboard Features
 ```yaml
-Auto-Generated Leaderb
+Auto-Generated Leaderboar
