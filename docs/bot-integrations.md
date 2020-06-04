@@ -326,4 +326,4 @@ Leaderboard Types:
 #### 📊 Leaderboard Features
 ```yaml
 Auto-Generated Leaderboards:
-  - Competitive rankings pe
+  - Competitive rankings per gam
