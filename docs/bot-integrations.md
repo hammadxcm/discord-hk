@@ -326,4 +326,4 @@ Leaderboard Types:
 #### 📊 Leaderboard Features
 ```yaml
 Auto-Generated Leaderboards:
-  - Competitive r
+  - Competitive rankin
