@@ -328,4 +328,4 @@ Leaderboard Types:
 Auto-Generated Leaderboards:
   - Competitive rankings per game
   - K/D ratios and win rates
-  - Hours
+  - Hours pla
