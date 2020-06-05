@@ -327,4 +327,4 @@ Leaderboard Types:
 ```yaml
 Auto-Generated Leaderboards:
   - Competitive rankings per game
-  - K/D ratios and win
+  - K/D ratios and win rat
