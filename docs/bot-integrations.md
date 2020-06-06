@@ -329,4 +329,4 @@ Auto-Generated Leaderboards:
   - Competitive rankings per game
   - K/D ratios and win rates
   - Hours played comparisons
-  - Achi
+  - Achievem
