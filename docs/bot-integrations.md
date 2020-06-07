@@ -332,4 +332,5 @@ Auto-Generated Leaderboards:
   - Achievement counts
   - Recent performance trends
 
-Custom Competitions
+Custom Competitions:
+  - 
