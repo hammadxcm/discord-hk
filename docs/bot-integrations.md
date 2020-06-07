@@ -333,4 +333,4 @@ Auto-Generated Leaderboards:
   - Recent performance trends
 
 Custom Competitions:
-  - 
+  - Weekly
