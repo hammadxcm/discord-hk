@@ -332,4 +332,4 @@ Auto-Generated Leaderboards:
   - Achievement counts
   - Recent performance trends
 
-Custom Co
+Custom Competi
