@@ -330,4 +330,4 @@ Auto-Generated Leaderboards:
   - K/D ratios and win rates
   - Hours played comparisons
   - Achievement counts
-  - Recent performance tr
+  - Recent performance trends
