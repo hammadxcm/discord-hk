@@ -335,4 +335,4 @@ Auto-Generated Leaderboards:
 Custom Competitions:
   - Weekly tournaments
   - Monthly challenges
-  -
+  - Seas
