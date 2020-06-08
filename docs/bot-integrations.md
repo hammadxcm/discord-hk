@@ -334,4 +334,4 @@ Auto-Generated Leaderboards:
 
 Custom Competitions:
   - Weekly tournaments
-  - Monthly
+  - Monthly chal
