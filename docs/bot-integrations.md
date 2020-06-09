@@ -336,4 +336,4 @@ Custom Competitions:
   - Weekly tournaments
   - Monthly challenges
   - Seasonal rankings
-  - Cross-game competiti
+  - Cross-game competitions
