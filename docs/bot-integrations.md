@@ -339,4 +339,4 @@ Custom Competitions:
   - Cross-game competitions
 ```
 
-### Riot G
+### Riot Games
