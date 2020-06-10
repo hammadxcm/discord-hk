@@ -339,4 +339,4 @@ Custom Competitions:
   - Cross-game competitions
 ```
 
-### Riot Games Integration - L
+### Riot Games Integration - LoL &
