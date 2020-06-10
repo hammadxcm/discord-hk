@@ -342,3 +342,4 @@ Custom Competitions:
 ### Riot Games Integration - LoL & Valorant
 
 #### ⚡ Setup
+1. 
