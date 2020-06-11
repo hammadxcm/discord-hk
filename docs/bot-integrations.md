@@ -342,4 +342,4 @@ Custom Competitions:
 ### Riot Games Integration - LoL & Valorant
 
 #### ⚡ Setup
-1. **Bot**: Riot Account
+1. **Bot**: Riot Account Bot
