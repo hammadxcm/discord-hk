@@ -343,4 +343,4 @@ Custom Competitions:
 
 #### ⚡ Setup
 1. **Bot**: Riot Account Bot
-2. **Invite**: Searc
+2. **Invite**: Search "R
