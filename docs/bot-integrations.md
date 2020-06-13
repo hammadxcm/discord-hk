@@ -343,4 +343,4 @@ Custom Competitions:
 
 #### ⚡ Setup
 1. **Bot**: Riot Account Bot
-2. **Invite**: Search "Riot Games" in Discord bo
+2. **Invite**: Search "Riot Games" in Discord bot list
