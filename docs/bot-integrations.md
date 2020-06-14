@@ -346,4 +346,4 @@ Custom Competitions:
 2. **Invite**: Search "Riot Games" in Discord bot lists
 3. **Features**:
    ```yaml
-   League of Legend
+   League of Legends:
