@@ -348,4 +348,4 @@ Custom Competitions:
    ```yaml
    League of Legends:
      - Rank tracking and updates
-     -
+     - Match hi
