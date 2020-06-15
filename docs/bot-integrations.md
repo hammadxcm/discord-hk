@@ -347,4 +347,5 @@ Custom Competitions:
 3. **Features**:
    ```yaml
    League of Legends:
-     - Rank tracking and updat
+     - Rank tracking and updates
+     -
