@@ -349,4 +349,5 @@ Custom Competitions:
    League of Legends:
      - Rank tracking and updates
      - Match history analysis
-     - Champion mastery tracki
+     - Champion mastery tracking
+  
