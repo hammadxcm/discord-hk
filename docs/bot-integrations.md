@@ -350,4 +350,5 @@ Custom Competitions:
      - Rank tracking and updates
      - Match history analysis
      - Champion mastery tracking
-     - Pro scene updat
+     - Pro scene updates
+ 
