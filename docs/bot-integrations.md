@@ -351,4 +351,4 @@ Custom Competitions:
      - Match history analysis
      - Champion mastery tracking
      - Pro scene updates
-     - Tournament not
+     - Tournament notific
