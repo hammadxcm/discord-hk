@@ -355,4 +355,4 @@ Custom Competitions:
    
    Valorant:
      - Competitive rank tracking
-     - Agen
+     - Agent stat
