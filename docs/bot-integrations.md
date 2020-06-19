@@ -355,3 +355,4 @@ Custom Competitions:
    
    Valorant:
      - Competitive rank tracking
+     
