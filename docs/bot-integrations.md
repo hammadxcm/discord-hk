@@ -354,4 +354,4 @@ Custom Competitions:
      - Tournament notifications
    
    Valorant:
-     - Competitive rank
+     - Competitive rank trac
