@@ -357,4 +357,4 @@ Custom Competitions:
      - Competitive rank tracking
      - Agent statistics
      - Match performance analysis
-     - Map 
+     - Map win r
