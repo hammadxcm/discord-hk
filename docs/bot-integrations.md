@@ -359,4 +359,6 @@ Custom Competitions:
      - Match performance analysis
      - Map win rates
      - Team formation tools
-   `
+   ```
+
+##
