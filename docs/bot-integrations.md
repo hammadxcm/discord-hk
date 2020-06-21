@@ -358,4 +358,5 @@ Custom Competitions:
      - Agent statistics
      - Match performance analysis
      - Map win rates
-     - Team formation tool
+     - Team formation tools
+   `
