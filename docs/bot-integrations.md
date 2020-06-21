@@ -358,4 +358,4 @@ Custom Competitions:
      - Agent statistics
      - Match performance analysis
      - Map win rates
-     - Tea
+     - Team for
