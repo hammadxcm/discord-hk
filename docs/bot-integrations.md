@@ -361,4 +361,4 @@ Custom Competitions:
      - Team formation tools
    ```
 
-### Steam Wish
+### Steam Wishlist T
