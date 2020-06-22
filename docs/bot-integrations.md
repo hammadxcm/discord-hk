@@ -364,4 +364,4 @@ Custom Competitions:
 ### Steam Wishlist Tracker
 
 #### 💰 Setup
-1. **Bot**
+1. **Bot**: Steam
