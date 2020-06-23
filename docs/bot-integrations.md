@@ -367,4 +367,4 @@ Custom Competitions:
 1. **Bot**: Steam Deals Bot
 2. **Features**:
    ```yaml
-   Wishlist M
+   Wishlist Monitor
