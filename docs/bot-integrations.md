@@ -365,4 +365,4 @@ Custom Competitions:
 
 #### 💰 Setup
 1. **Bot**: Steam Deals Bot
-2. 
+2. **Featu
