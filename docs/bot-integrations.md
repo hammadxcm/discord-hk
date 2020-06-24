@@ -368,4 +368,4 @@ Custom Competitions:
 2. **Features**:
    ```yaml
    Wishlist Monitoring:
-     - Track Steam sale p
+     - Track Steam sale price
