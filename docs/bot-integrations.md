@@ -371,4 +371,4 @@ Custom Competitions:
      - Track Steam sale prices
      - Notify when games go on sale
      - Price history tracking
-  
+     -
