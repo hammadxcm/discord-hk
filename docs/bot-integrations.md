@@ -369,4 +369,4 @@ Custom Competitions:
    ```yaml
    Wishlist Monitoring:
      - Track Steam sale prices
-     - Notify when games g
+     - Notify when games go o
