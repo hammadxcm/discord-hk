@@ -370,3 +370,4 @@ Custom Competitions:
    Wishlist Monitoring:
      - Track Steam sale prices
      - Notify when games go on sale
+  
