@@ -372,4 +372,4 @@ Custom Competitions:
      - Notify when games go on sale
      - Price history tracking
      - Community wishlists
-     - Group buying coordin
+     - Group buying coordinatio
