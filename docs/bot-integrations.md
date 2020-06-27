@@ -374,4 +374,5 @@ Custom Competitions:
      - Community wishlists
      - Group buying coordination
    
-   Command
+   Commands:
+  
