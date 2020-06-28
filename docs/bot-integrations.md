@@ -377,4 +377,4 @@ Custom Competitions:
    Commands:
      - !wishlist add <game>
      - !deals current
-     - !price <g
+     - !price <game_nam
