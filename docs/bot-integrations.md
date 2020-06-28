@@ -375,4 +375,4 @@ Custom Competitions:
      - Group buying coordination
    
    Commands:
-     - !wishlist add <
+     - !wishlist add <game>
