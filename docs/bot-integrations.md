@@ -378,4 +378,5 @@ Custom Competitions:
      - !wishlist add <game>
      - !deals current
      - !price <game_name>
-     - !sales notify @ro
+     - !sales notify @role
+   `
