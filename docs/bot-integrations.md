@@ -381,4 +381,4 @@ Custom Competitions:
      - !sales notify @role
    ```
 
-### Stream Notifications - Enh
+### Stream Notifications - Enhanced
