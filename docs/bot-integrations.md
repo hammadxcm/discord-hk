@@ -386,4 +386,4 @@ Custom Competitions:
 #### 📺 StreamLabs Bot
 ```yaml
 Setup:
-  1. Invite StreamL
+  1. Invite StreamLabs b
