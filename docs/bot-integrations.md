@@ -386,4 +386,4 @@ Custom Competitions:
 #### 📺 StreamLabs Bot
 ```yaml
 Setup:
-  1.
+  1. Invi
