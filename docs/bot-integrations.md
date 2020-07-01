@@ -385,4 +385,4 @@ Custom Competitions:
 
 #### 📺 StreamLabs Bot
 ```yaml
-S
+Set
