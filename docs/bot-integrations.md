@@ -384,4 +384,4 @@ Custom Competitions:
 ### Stream Notifications - Enhanced
 
 #### 📺 StreamLabs Bot
-```y
+```yaml
