@@ -387,4 +387,4 @@ Custom Competitions:
 ```yaml
 Setup:
   1. Invite StreamLabs bot
-  2. Conn
+  2. Connect 
