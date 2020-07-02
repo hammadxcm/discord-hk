@@ -387,4 +387,5 @@ Custom Competitions:
 ```yaml
 Setup:
   1. Invite StreamLabs bot
-  2. Connect Twitch/YouTube/Faceb
+  2. Connect Twitch/YouTube/Facebook Gaming
+ 
