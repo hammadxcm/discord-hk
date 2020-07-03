@@ -388,4 +388,4 @@ Custom Competitions:
 Setup:
   1. Invite StreamLabs bot
   2. Connect Twitch/YouTube/Facebook Gaming
-  3. Configure notification channel:
+  3. Configure notification channel: #str
