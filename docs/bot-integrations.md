@@ -389,4 +389,4 @@ Setup:
   1. Invite StreamLabs bot
   2. Connect Twitch/YouTube/Facebook Gaming
   3. Configure notification channel: #stream-alerts
-  4. Set up roles: @Streamer,
+  4. Set up roles: @Streamer, @St
