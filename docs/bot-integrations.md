@@ -391,4 +391,4 @@ Setup:
   3. Configure notification channel: #stream-alerts
   4. Set up roles: @Streamer, @Stream Notifications
 
-Adv
+Advanced
