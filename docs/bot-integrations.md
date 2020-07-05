@@ -392,4 +392,4 @@ Setup:
   4. Set up roles: @Streamer, @Stream Notifications
 
 Advanced Features:
-  - 
+  - Multi
