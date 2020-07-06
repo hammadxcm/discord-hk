@@ -394,4 +394,4 @@ Setup:
 Advanced Features:
   - Multi-platform support
   - Custom embed messages
-  - Thumbna
+  - Thumbnail previ
