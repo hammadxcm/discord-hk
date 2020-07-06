@@ -393,4 +393,5 @@ Setup:
 
 Advanced Features:
   - Multi-platform support
-  - Custom embed mes
+  - Custom embed messages
+  -
