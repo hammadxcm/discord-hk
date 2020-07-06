@@ -393,4 +393,4 @@ Setup:
 
 Advanced Features:
   - Multi-platform support
-  - Custom e
+  - Custom embed
