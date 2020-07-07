@@ -395,4 +395,5 @@ Advanced Features:
   - Multi-platform support
   - Custom embed messages
   - Thumbnail previews
-  - Stream categorie
+  - Stream categories
+  - Vie
