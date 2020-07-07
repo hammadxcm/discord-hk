@@ -396,4 +396,4 @@ Advanced Features:
   - Custom embed messages
   - Thumbnail previews
   - Stream categories
-  - Viewer count
+  - Viewer count tracking
