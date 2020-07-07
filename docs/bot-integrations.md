@@ -395,4 +395,4 @@ Advanced Features:
   - Multi-platform support
   - Custom embed messages
   - Thumbnail previews
-  - Stream c
+  - Stream categorie
