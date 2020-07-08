@@ -397,4 +397,4 @@ Advanced Features:
   - Thumbnail previews
   - Stream categories
   - Viewer count tracking
-  - Auto
+  - Automatic rol
