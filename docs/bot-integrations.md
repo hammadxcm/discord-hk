@@ -397,4 +397,5 @@ Advanced Features:
   - Thumbnail previews
   - Stream categories
   - Viewer count tracking
-  - Automatic role assig
+  - Automatic role assignment
+`
