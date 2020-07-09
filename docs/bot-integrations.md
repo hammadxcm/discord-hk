@@ -400,4 +400,4 @@ Advanced Features:
   - Automatic role assignment
 ```
 
-#### 🎥 NotSoBot - Multi-Platfo
+#### 🎥 NotSoBot - Multi-Platform Alerts
