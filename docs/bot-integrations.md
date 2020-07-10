@@ -403,4 +403,4 @@ Advanced Features:
 #### 🎥 NotSoBot - Multi-Platform Alerts
 ```yaml
 Platform Support:
-  -
+  - Twitch s
