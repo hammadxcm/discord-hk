@@ -402,4 +402,5 @@ Advanced Features:
 
 #### 🎥 NotSoBot - Multi-Platform Alerts
 ```yaml
-Platform Sup
+Platform Support:
+  -
