@@ -404,4 +404,4 @@ Advanced Features:
 ```yaml
 Platform Support:
   - Twitch streams
-  - YouTube uploads/st
+  - YouTube uploads/stre
