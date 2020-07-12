@@ -406,4 +406,4 @@ Platform Support:
   - Twitch streams
   - YouTube uploads/streams
   - Twitter posts
-  - Instagram
+  - Instagram p
