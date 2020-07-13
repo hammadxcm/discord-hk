@@ -407,4 +407,4 @@ Platform Support:
   - YouTube uploads/streams
   - Twitter posts
   - Instagram posts
-  - TikTok uplo
+  - TikTok uploads
