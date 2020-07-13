@@ -408,4 +408,6 @@ Platform Support:
   - Twitter posts
   - Instagram posts
   - TikTok uploads
-  - Reddit po
+  - Reddit posts
+
+C
