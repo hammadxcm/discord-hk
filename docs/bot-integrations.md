@@ -408,4 +408,4 @@ Platform Support:
   - Twitter posts
   - Instagram posts
   - TikTok uploads
-  - 
+  - Red
