@@ -410,4 +410,4 @@ Platform Support:
   - TikTok uploads
   - Reddit posts
 
-C
+Configu
