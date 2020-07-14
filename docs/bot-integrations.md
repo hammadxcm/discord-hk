@@ -412,4 +412,4 @@ Platform Support:
 
 Configuration:
   !stream add twitch <username>
-  !youtub
+  !youtube add
