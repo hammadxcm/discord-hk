@@ -411,4 +411,4 @@ Platform Support:
   - Reddit posts
 
 Configuration:
-  !stream 
+  !stream add tw
