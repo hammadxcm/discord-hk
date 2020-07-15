@@ -413,4 +413,4 @@ Platform Support:
 Configuration:
   !stream add twitch <username>
   !youtube add <channel_id>
-  !twi
+  !twitter
