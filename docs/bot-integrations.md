@@ -416,4 +416,6 @@ Configuration:
   !twitter add <username>
 ```
 
-## 🎉 Fun & Entertainment Bot
+## 🎉 Fun & Entertainment Bots
+
+##
