@@ -416,4 +416,4 @@ Configuration:
   !twitter add <username>
 ```
 
-## 🎉 Fun & En
+## 🎉 Fun & Enterta
