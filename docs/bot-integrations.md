@@ -418,4 +418,4 @@ Configuration:
 
 ## 🎉 Fun & Entertainment Bots
 
-### Dank Memer - Memes & 
+### Dank Memer - Memes & Econom
