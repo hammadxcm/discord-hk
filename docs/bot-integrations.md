@@ -423,3 +423,4 @@ Configuration:
 #### 💰 Economy & Fun
 ```yaml
 Features:
+  - V
