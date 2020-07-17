@@ -421,4 +421,4 @@ Configuration:
 ### Dank Memer - Memes & Economy
 
 #### 💰 Economy & Fun
-```
+```yaml
