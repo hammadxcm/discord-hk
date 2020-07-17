@@ -420,4 +420,5 @@ Configuration:
 
 ### Dank Memer - Memes & Economy
 
-#### 💰 Economy & Fu
+#### 💰 Economy & Fun
+```
