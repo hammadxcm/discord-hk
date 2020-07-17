@@ -422,4 +422,4 @@ Configuration:
 
 #### 💰 Economy & Fun
 ```yaml
-Featu
+Features:
