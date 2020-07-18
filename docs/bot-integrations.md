@@ -424,4 +424,4 @@ Configuration:
 ```yaml
 Features:
   - Virtual economy system
-  - Meme comm
+  - Meme commands
