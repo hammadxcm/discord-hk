@@ -423,4 +423,5 @@ Configuration:
 #### 💰 Economy & Fun
 ```yaml
 Features:
-  - Virtual economy syste
+  - Virtual economy system
+  -
