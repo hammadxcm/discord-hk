@@ -425,4 +425,4 @@ Configuration:
 Features:
   - Virtual economy system
   - Meme commands and image generation
-  - Mini
+  - Mini-games (
