@@ -426,4 +426,4 @@ Features:
   - Virtual economy system
   - Meme commands and image generation
   - Mini-games (slots, blackjack, trivia)
-  - Currency system with 
+  - Currency system with trading
