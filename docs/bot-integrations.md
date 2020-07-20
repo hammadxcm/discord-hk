@@ -427,4 +427,4 @@ Features:
   - Meme commands and image generation
   - Mini-games (slots, blackjack, trivia)
   - Currency system with trading
-  - Daily/weekly re
+  - Daily/weekly rewar
