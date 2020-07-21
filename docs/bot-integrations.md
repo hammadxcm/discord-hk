@@ -428,4 +428,4 @@ Features:
   - Mini-games (slots, blackjack, trivia)
   - Currency system with trading
   - Daily/weekly rewards
-  - Robbery and heist syste
+  - Robbery and heist systems
