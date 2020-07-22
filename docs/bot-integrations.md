@@ -432,4 +432,4 @@ Features:
 
 Commands:
   pls meme          # Random meme
-  p
+  pls bal
