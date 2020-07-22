@@ -431,4 +431,5 @@ Features:
   - Robbery and heist systems
 
 Commands:
-  pls meme          # Random m
+  pls meme          # Random meme
+  p
