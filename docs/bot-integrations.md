@@ -433,4 +433,5 @@ Features:
 Commands:
   pls meme          # Random meme
   pls balance       # Check money
-  pls daily         # Daily rew
+  pls daily         # Daily rewards
+  
