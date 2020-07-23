@@ -432,4 +432,4 @@ Features:
 
 Commands:
   pls meme          # Random meme
-  pls balance       # Check
+  pls balance       # Check money
