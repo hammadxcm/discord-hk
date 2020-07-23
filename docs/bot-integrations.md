@@ -433,3 +433,4 @@ Features:
 Commands:
   pls meme          # Random meme
   pls balance       # Check money
+  pls
