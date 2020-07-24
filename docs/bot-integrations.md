@@ -435,4 +435,4 @@ Commands:
   pls balance       # Check money
   pls daily         # Daily rewards
   pls slots         # Casino games
-  pls rob @user 
+  pls rob @user     # Ro
