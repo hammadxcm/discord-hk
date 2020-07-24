@@ -436,4 +436,6 @@ Commands:
   pls daily         # Daily rewards
   pls slots         # Casino games
   pls rob @user     # Rob other users
-``
+```
+
+### 
