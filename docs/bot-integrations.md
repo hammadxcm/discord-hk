@@ -434,4 +434,5 @@ Commands:
   pls meme          # Random meme
   pls balance       # Check money
   pls daily         # Daily rewards
-  pls slots         # Casino game
+  pls slots         # Casino games
+  pl
