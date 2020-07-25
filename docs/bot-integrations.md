@@ -438,4 +438,5 @@ Commands:
   pls rob @user     # Rob other users
 ```
 
-### Mudae - Anime & Waifu
+### Mudae - Anime & Waifu Game
+
