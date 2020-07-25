@@ -441,3 +441,4 @@ Commands:
 ### Mudae - Anime & Waifu Game
 
 #### 🎌 Setup
+1. 
