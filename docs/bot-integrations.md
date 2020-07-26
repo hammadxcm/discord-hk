@@ -441,4 +441,4 @@ Commands:
 ### Mudae - Anime & Waifu Game
 
 #### 🎌 Setup
-1. **Invite**: https://muda
+1. **Invite**: https://mudae.ne
