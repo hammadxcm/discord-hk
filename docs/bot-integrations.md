@@ -442,4 +442,4 @@ Commands:
 
 #### 🎌 Setup
 1. **Invite**: https://mudae.net/
-2. **Fe
+2. **Features
