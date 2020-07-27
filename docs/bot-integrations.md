@@ -444,4 +444,4 @@ Commands:
 1. **Invite**: https://mudae.net/
 2. **Features**:
    ```yaml
-   Anime Game
+   Anime Game Featur
