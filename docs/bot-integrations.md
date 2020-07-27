@@ -445,4 +445,4 @@ Commands:
 2. **Features**:
    ```yaml
    Anime Game Features:
-   
+     - Col
