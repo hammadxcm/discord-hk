@@ -446,4 +446,4 @@ Commands:
    ```yaml
    Anime Game Features:
      - Collect anime/manga characters
-     - Waif
+     - Waifu/husb
