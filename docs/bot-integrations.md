@@ -448,4 +448,4 @@ Commands:
      - Collect anime/manga characters
      - Waifu/husbando claiming system
      - Trading and marketplace
-    
+     - K
