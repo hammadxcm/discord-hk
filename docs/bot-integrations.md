@@ -447,4 +447,4 @@ Commands:
    Anime Game Features:
      - Collect anime/manga characters
      - Waifu/husbando claiming system
-     - Trading and market
+     - Trading and marketplace
