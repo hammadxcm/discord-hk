@@ -449,4 +449,4 @@ Commands:
      - Waifu/husbando claiming system
      - Trading and marketplace
      - Kakera currency system
-     - Custom lists 
+     - Custom lists and w
