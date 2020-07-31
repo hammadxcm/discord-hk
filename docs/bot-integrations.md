@@ -449,4 +449,5 @@ Commands:
      - Waifu/husbando claiming system
      - Trading and marketplace
      - Kakera currency system
-     - Custom lists and wishli
+     - Custom lists and wishlists
+ 
