@@ -452,4 +452,4 @@ Commands:
      - Custom lists and wishlists
    
    Commands:
-     $wa 
+     $wa / $ha
