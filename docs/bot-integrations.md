@@ -453,4 +453,4 @@ Commands:
    
    Commands:
      $wa / $ha        # Roll for characters
-     $mm / $ma        # Claim
+     $mm / $ma        # Claim char
