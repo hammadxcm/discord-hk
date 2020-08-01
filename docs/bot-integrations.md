@@ -452,4 +452,4 @@ Commands:
      - Custom lists and wishlists
    
    Commands:
-     $wa / $ha        # Roll for c
+     $wa / $ha        # Roll for charac
