@@ -454,4 +454,5 @@ Commands:
    Commands:
      $wa / $ha        # Roll for characters
      $mm / $ma        # Claim characters
-     $ls              # List collec
+     $ls              # List collection
+ 
