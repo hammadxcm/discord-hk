@@ -456,4 +456,4 @@ Commands:
      $mm / $ma        # Claim characters
      $ls              # List collection
      $trade @user     # Trade with others
- 
+   ```
