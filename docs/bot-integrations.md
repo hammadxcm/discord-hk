@@ -458,4 +458,4 @@ Commands:
      $trade @user     # Trade with others
    ```
 
-### Pokémon Bot -
+### Pokémon Bot - Pokém
