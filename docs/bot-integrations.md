@@ -461,4 +461,4 @@ Commands:
 ### Pokémon Bot - Pokémon Catching
 
 #### ⚡ Setup
-1. **Bot**
+1. **Bot**: Poké
