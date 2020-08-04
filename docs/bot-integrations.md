@@ -462,4 +462,4 @@ Commands:
 
 #### ⚡ Setup
 1. **Bot**: Pokétwo
-2. **Inv
+2. **Invite**:
