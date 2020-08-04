@@ -460,4 +460,5 @@ Commands:
 
 ### Pokémon Bot - Pokémon Catching
 
-#### ⚡ Setu
+#### ⚡ Setup
+1. *
