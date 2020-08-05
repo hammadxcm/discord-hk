@@ -462,4 +462,4 @@ Commands:
 
 #### ⚡ Setup
 1. **Bot**: Pokétwo
-2. **Invite**: https://pok
+2. **Invite**: https://poketwo.n
