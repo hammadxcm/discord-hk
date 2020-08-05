@@ -464,4 +464,5 @@ Commands:
 1. **Bot**: Pokétwo
 2. **Invite**: https://poketwo.net/
 3. **Features**:
-   ```y
+   ```yaml
+   
