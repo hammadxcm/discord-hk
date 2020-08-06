@@ -467,3 +467,4 @@ Commands:
    ```yaml
    Pokémon Features:
      - Catch wild Pokémon
+   
