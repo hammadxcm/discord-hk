@@ -466,4 +466,4 @@ Commands:
 3. **Features**:
    ```yaml
    Pokémon Features:
-     - Catch wild
+     - Catch wild Po
