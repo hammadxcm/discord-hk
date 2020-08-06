@@ -465,4 +465,5 @@ Commands:
 2. **Invite**: https://poketwo.net/
 3. **Features**:
    ```yaml
-   Pokémon Featur
+   Pokémon Features:
+   
