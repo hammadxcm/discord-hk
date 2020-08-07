@@ -467,4 +467,4 @@ Commands:
    ```yaml
    Pokémon Features:
      - Catch wild Pokémon
-     - Build your collect
+     - Build your collectio
