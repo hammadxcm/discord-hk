@@ -468,4 +468,5 @@ Commands:
    Pokémon Features:
      - Catch wild Pokémon
      - Build your collection
-     - Pokémon bat
+     - Pokémon battles
+    
