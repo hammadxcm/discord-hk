@@ -468,4 +468,4 @@ Commands:
    Pokémon Features:
      - Catch wild Pokémon
      - Build your collection
-     - Po
+     - Pokémon bat
