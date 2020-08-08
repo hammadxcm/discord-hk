@@ -469,4 +469,4 @@ Commands:
      - Catch wild Pokémon
      - Build your collection
      - Pokémon battles
-     - Tradin
+     - Trading system
