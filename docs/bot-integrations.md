@@ -472,4 +472,4 @@ Commands:
      - Trading system
      - Shiny hunting
    
-   C
+   Command
