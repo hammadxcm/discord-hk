@@ -470,4 +470,4 @@ Commands:
      - Build your collection
      - Pokémon battles
      - Trading system
-     - 
+     - Shiny hu
