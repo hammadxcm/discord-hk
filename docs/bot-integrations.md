@@ -471,4 +471,5 @@ Commands:
      - Pokémon battles
      - Trading system
      - Shiny hunting
-  
+   
+   C
