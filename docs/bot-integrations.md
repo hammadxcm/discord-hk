@@ -473,4 +473,5 @@ Commands:
      - Shiny hunting
    
    Commands:
-     p!catch <name>   # Catch Pokém
+     p!catch <name>   # Catch Pokémon
+  
