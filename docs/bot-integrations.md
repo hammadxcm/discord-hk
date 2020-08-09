@@ -474,4 +474,4 @@ Commands:
    
    Commands:
      p!catch <name>   # Catch Pokémon
-  
+     p!
