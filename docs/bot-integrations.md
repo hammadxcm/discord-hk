@@ -473,4 +473,4 @@ Commands:
      - Shiny hunting
    
    Commands:
-     p!catch <n
+     p!catch <name> 
