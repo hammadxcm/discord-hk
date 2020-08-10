@@ -474,4 +474,4 @@ Commands:
    
    Commands:
      p!catch <name>   # Catch Pokémon
-     p!info latest    # View cau
+     p!info latest    # View caught P
