@@ -475,4 +475,4 @@ Commands:
    Commands:
      p!catch <name>   # Catch Pokémon
      p!info latest    # View caught Pokémon
-     p!battle @user   # Ba
+     p!battle @user   # Battle
