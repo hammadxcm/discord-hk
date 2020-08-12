@@ -479,4 +479,4 @@ Commands:
      p!market         # Trading market
    ```
 
-### Truth or Dare 
+### Truth or Dare Bot
