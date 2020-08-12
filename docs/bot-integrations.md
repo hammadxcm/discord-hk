@@ -481,4 +481,4 @@ Commands:
 
 ### Truth or Dare Bot
 
-#### 🎲 Se
+#### 🎲 Setup
