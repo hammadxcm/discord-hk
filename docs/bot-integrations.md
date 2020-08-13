@@ -482,4 +482,4 @@ Commands:
 ### Truth or Dare Bot
 
 #### 🎲 Setup
-1. **Bot**: Truth or
+1. **Bot**: Truth or Dar
