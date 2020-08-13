@@ -483,4 +483,5 @@ Commands:
 
 #### 🎲 Setup
 1. **Bot**: Truth or Dare Bot
-2. **Features*
+2. **Features**:
+ 
