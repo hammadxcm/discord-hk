@@ -485,4 +485,5 @@ Commands:
 1. **Bot**: Truth or Dare Bot
 2. **Features**:
    ```yaml
-   Party Games
+   Party Games:
+  
