@@ -487,4 +487,4 @@ Commands:
    ```yaml
    Party Games:
      - Truth or dare questions
-  
+     - 
