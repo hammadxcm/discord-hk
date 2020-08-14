@@ -486,4 +486,4 @@ Commands:
 2. **Features**:
    ```yaml
    Party Games:
-     - Truth or da
+     - Truth or dare qu
