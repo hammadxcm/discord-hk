@@ -488,4 +488,4 @@ Commands:
    Party Games:
      - Truth or dare questions
      - Never have I ever
-     - Would you r
+     - Would you rathe
