@@ -487,4 +487,5 @@ Commands:
    ```yaml
    Party Games:
      - Truth or dare questions
-     - Never have I eve
+     - Never have I ever
+  
