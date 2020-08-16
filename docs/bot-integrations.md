@@ -490,4 +490,5 @@ Commands:
      - Never have I ever
      - Would you rather
      - Custom question sets
-     - Age-appropriate filt
+     - Age-appropriate filters
+  
