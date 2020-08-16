@@ -489,4 +489,4 @@ Commands:
      - Truth or dare questions
      - Never have I ever
      - Would you rather
-     - Custom qu
+     - Custom quest
