@@ -493,4 +493,4 @@ Commands:
      - Age-appropriate filters
    
    Commands:
-     !truth           # 
+     !truth           # Trut
