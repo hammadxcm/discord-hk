@@ -492,4 +492,4 @@ Commands:
      - Custom question sets
      - Age-appropriate filters
    
-   C
+   Command
