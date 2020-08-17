@@ -493,4 +493,5 @@ Commands:
      - Age-appropriate filters
    
    Commands:
-     !truth           # Truth questi
+     !truth           # Truth question
+ 
