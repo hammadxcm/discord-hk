@@ -494,4 +494,4 @@ Commands:
    
    Commands:
      !truth           # Truth question
-     !dare            # Dare cha
+     !dare            # Dare challeng
