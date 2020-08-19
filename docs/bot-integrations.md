@@ -495,4 +495,5 @@ Commands:
    Commands:
      !truth           # Truth question
      !dare            # Dare challenge
-     !nhie            # Never have I eve
+     !nhie            # Never have I ever
+  
