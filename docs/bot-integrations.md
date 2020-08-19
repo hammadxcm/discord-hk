@@ -496,4 +496,4 @@ Commands:
      !truth           # Truth question
      !dare            # Dare challenge
      !nhie            # Never have I ever
-     !wyr             # Wo
+     !wyr             # Would yo
