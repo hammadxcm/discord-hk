@@ -499,4 +499,6 @@ Commands:
      !wyr             # Would you rather
    ```
 
-### Counting Bot - Community Coun
+### Counting Bot - Community Counting
+
+#
