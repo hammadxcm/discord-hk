@@ -502,4 +502,4 @@ Commands:
 ### Counting Bot - Community Counting
 
 #### 🔢 Setup
-1. **Bot*
+1. **Bot**: Coun
