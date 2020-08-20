@@ -497,4 +497,6 @@ Commands:
      !dare            # Dare challenge
      !nhie            # Never have I ever
      !wyr             # Would you rather
-   
+   ```
+
+#
