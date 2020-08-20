@@ -501,4 +501,5 @@ Commands:
 
 ### Counting Bot - Community Counting
 
-#### 🔢 S
+#### 🔢 Setup
+1.
