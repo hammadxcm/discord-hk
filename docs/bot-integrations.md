@@ -503,4 +503,4 @@ Commands:
 
 #### 🔢 Setup
 1. **Bot**: Counting Bot
-2. **
+2. **Feature
