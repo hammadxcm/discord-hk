@@ -504,4 +504,5 @@ Commands:
 #### 🔢 Setup
 1. **Bot**: Counting Bot
 2. **Features**:
-   ```yam
+   ```yaml
+   Counting 
