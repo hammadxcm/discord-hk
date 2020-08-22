@@ -507,4 +507,4 @@ Commands:
    ```yaml
    Counting Game:
      - Community counting challenge
-     - Personal cou
+     - Personal counting s
