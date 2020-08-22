@@ -506,4 +506,4 @@ Commands:
 2. **Features**:
    ```yaml
    Counting Game:
-     - Community count
+     - Community counting challenge
