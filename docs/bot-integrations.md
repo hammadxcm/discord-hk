@@ -509,4 +509,4 @@ Commands:
      - Community counting challenge
      - Personal counting stats
      - Server leaderboards
-     - 
+     - Mistake 
