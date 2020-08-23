@@ -510,3 +510,4 @@ Commands:
      - Personal counting stats
      - Server leaderboards
      - Mistake tracking
+     - 
