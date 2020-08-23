@@ -508,4 +508,4 @@ Commands:
    Counting Game:
      - Community counting challenge
      - Personal counting stats
-     - Server le
+     - Server leaderbo
