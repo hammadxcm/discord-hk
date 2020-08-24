@@ -513,4 +513,4 @@ Commands:
      - Achievement system
    
    Setup:
-     c!s
+     c!setu
