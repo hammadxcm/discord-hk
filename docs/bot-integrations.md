@@ -512,4 +512,4 @@ Commands:
      - Mistake tracking
      - Achievement system
    
-   Set
+   Setup:
