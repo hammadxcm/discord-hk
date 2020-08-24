@@ -510,4 +510,5 @@ Commands:
      - Personal counting stats
      - Server leaderboards
      - Mistake tracking
-     - Achievement sys
+     - Achievement system
+   
