@@ -513,4 +513,4 @@ Commands:
      - Achievement system
    
    Setup:
-     c!setup #counting-ch
+     c!setup #counting-chan
