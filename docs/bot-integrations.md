@@ -513,4 +513,4 @@ Commands:
      - Achievement system
    
    Setup:
-     c!setup #c
+     c!setup #cou
