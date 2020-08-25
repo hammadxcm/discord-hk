@@ -513,4 +513,4 @@ Commands:
      - Achievement system
    
    Setup:
-     c!setup #count
+     c!setup #countin
