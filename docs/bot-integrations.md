@@ -514,3 +514,4 @@ Commands:
    
    Setup:
      c!setup #counting-channel
+    
