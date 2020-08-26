@@ -517,4 +517,4 @@ Commands:
      c!settings reactions true
    ```
 
-### Akinator
+### Akinator Bo
