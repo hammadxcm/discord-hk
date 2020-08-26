@@ -519,4 +519,4 @@ Commands:
 
 ### Akinator Bot - Guessing Game
 
-#
+#### 🔮
