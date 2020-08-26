@@ -514,4 +514,5 @@ Commands:
    
    Setup:
      c!setup #counting-channel
-     c!settings reactions tr
+     c!settings reactions true
+ 
