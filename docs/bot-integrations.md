@@ -517,4 +517,4 @@ Commands:
      c!settings reactions true
    ```
 
-### Akinator Bot - G
+### Akinator Bot - Guessi
