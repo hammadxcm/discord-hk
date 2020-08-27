@@ -519,4 +519,5 @@ Commands:
 
 ### Akinator Bot - Guessing Game
 
-#### 🔮 Setu
+#### 🔮 Setup
+1. 
