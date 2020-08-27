@@ -520,4 +520,4 @@ Commands:
 ### Akinator Bot - Guessing Game
 
 #### 🔮 Setup
-1. **Bot
+1. **Bot**: A
