@@ -521,4 +521,4 @@ Commands:
 
 #### 🔮 Setup
 1. **Bot**: Akinator
-2. **Featu
+2. **Features*
