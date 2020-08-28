@@ -524,4 +524,5 @@ Commands:
 2. **Features**:
    ```yaml
    Guessing Game:
-     - Think of a chara
+     - Think of a character
+     
