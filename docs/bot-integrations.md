@@ -525,4 +525,5 @@ Commands:
    ```yaml
    Guessing Game:
      - Think of a character
-     - Answer yes/no qu
+     - Answer yes/no questions
+ 
