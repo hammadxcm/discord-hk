@@ -526,4 +526,4 @@ Commands:
    Guessing Game:
      - Think of a character
      - Answer yes/no questions
-     - AI tries to guess you
+     - AI tries to guess your char
