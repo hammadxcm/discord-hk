@@ -530,4 +530,4 @@ Commands:
      - Multiplayer modes
      - Character database
    
-   Com
+   Command
