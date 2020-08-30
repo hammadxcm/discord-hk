@@ -529,4 +529,5 @@ Commands:
      - AI tries to guess your character
      - Multiplayer modes
      - Character database
+   
   
