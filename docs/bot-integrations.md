@@ -527,4 +527,4 @@ Commands:
      - Think of a character
      - Answer yes/no questions
      - AI tries to guess your character
-     
+     - Mul
