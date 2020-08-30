@@ -528,3 +528,4 @@ Commands:
      - Answer yes/no questions
      - AI tries to guess your character
      - Multiplayer modes
+     
