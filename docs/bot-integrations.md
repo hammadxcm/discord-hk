@@ -532,4 +532,4 @@ Commands:
    
    Commands:
      !akinator start
-    
+     !aki
