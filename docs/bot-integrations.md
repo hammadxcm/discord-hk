@@ -533,4 +533,5 @@ Commands:
    Commands:
      !akinator start
      !aki yes/no/idk
-   
+   ```
+
