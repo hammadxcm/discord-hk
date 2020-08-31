@@ -531,4 +531,4 @@ Commands:
      - Character database
    
    Commands:
-     !akinator st
+     !akinator start
