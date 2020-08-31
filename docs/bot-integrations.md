@@ -530,4 +530,5 @@ Commands:
      - Multiplayer modes
      - Character database
    
-   Command
+   Commands:
+ 
