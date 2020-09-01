@@ -535,4 +535,4 @@ Commands:
      !aki yes/no/idk
    ```
 
-### Trivia Bot - Quiz Ga
+### Trivia Bot - Quiz Games
