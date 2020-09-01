@@ -537,4 +537,5 @@ Commands:
 
 ### Trivia Bot - Quiz Games
 
-#### 🧠 Setu
+#### 🧠 Setup
+1. **B
