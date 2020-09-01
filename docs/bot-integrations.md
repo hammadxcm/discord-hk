@@ -537,4 +537,4 @@ Commands:
 
 ### Trivia Bot - Quiz Games
 
-#### 🧠 
+#### 🧠 Setu
