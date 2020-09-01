@@ -538,4 +538,4 @@ Commands:
 ### Trivia Bot - Quiz Games
 
 #### 🧠 Setup
-1. **Bot**: Tr
+1. **Bot**: TriviaBot
