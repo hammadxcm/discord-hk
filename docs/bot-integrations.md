@@ -539,3 +539,4 @@ Commands:
 
 #### 🧠 Setup
 1. **Bot**: TriviaBot
+2. **Fea
