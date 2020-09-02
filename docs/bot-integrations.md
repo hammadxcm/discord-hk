@@ -541,4 +541,4 @@ Commands:
 1. **Bot**: TriviaBot
 2. **Features**:
    ```yaml
-   Quiz Featur
+   Quiz Features:
