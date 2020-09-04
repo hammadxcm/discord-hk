@@ -544,4 +544,4 @@ Commands:
    Quiz Features:
      - Multiple categories
      - Difficulty levels
-   
+     - Mult
