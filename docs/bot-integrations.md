@@ -543,4 +543,4 @@ Commands:
    ```yaml
    Quiz Features:
      - Multiple categories
-     - Difficu
+     - Difficulty l
