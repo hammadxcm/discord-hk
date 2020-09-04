@@ -545,4 +545,4 @@ Commands:
      - Multiple categories
      - Difficulty levels
      - Multiplayer trivia
- 
+     - Le
