@@ -544,4 +544,5 @@ Commands:
    Quiz Features:
      - Multiple categories
      - Difficulty levels
-     - Multiplayer 
+     - Multiplayer trivia
+ 
