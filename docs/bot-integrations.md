@@ -548,4 +548,4 @@ Commands:
      - Leaderboards
      - Custom question sets
    
-   Comma
+   Commands:
