@@ -545,4 +545,5 @@ Commands:
      - Multiple categories
      - Difficulty levels
      - Multiplayer trivia
-     - Leaderboar
+     - Leaderboards
+     
