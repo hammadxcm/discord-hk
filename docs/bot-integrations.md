@@ -546,4 +546,4 @@ Commands:
      - Difficulty levels
      - Multiplayer trivia
      - Leaderboards
-     - Custom questio
+     - Custom question set
