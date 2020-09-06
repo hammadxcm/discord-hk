@@ -549,4 +549,4 @@ Commands:
      - Custom question sets
    
    Commands:
-     !trivia          # Sta
+     !trivia          # Start t
