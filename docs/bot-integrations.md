@@ -549,4 +549,5 @@ Commands:
      - Custom question sets
    
    Commands:
-     !trivia          # Start trivi
+     !trivia          # Start trivia
+  
