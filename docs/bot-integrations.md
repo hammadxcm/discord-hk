@@ -551,4 +551,4 @@ Commands:
    Commands:
      !trivia          # Start trivia
      !trivia science  # Category-specific
-     !leaderboard     # View top 
+     !leaderboard     # View top scores
