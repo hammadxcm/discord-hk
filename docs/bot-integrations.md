@@ -550,4 +550,4 @@ Commands:
    
    Commands:
      !trivia          # Start trivia
-     !trivia science  # Categ
+     !trivia science  # Category-speci
