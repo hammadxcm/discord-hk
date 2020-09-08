@@ -554,4 +554,6 @@ Commands:
      !leaderboard     # View top scores
    ```
 
-### UNO Bot - Card Ga
+### UNO Bot - Card Game
+
+##
