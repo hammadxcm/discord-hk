@@ -554,4 +554,4 @@ Commands:
      !leaderboard     # View top scores
    ```
 
-### UNO B
+### UNO Bot - C
