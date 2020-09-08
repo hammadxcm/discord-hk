@@ -556,4 +556,4 @@ Commands:
 
 ### UNO Bot - Card Game
 
-##
+#### 🃏 S
