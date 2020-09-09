@@ -557,4 +557,5 @@ Commands:
 ### UNO Bot - Card Game
 
 #### 🃏 Setup
-1. **Bot**: UNO B
+1. **Bot**: UNO Bot
+2.
