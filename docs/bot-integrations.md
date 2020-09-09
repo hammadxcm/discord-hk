@@ -558,4 +558,4 @@ Commands:
 
 #### 🃏 Setup
 1. **Bot**: UNO Bot
-2. **Feature
+2. **Features**:
