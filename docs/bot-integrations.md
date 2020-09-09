@@ -560,4 +560,4 @@ Commands:
 1. **Bot**: UNO Bot
 2. **Features**:
    ```yaml
-   UNO Ga
+   UNO Game:
