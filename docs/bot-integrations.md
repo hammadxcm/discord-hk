@@ -561,4 +561,5 @@ Commands:
 2. **Features**:
    ```yaml
    UNO Game:
-     - Multiplayer UNO gam
+     - Multiplayer UNO games
+    
