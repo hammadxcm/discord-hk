@@ -562,4 +562,4 @@ Commands:
    ```yaml
    UNO Game:
      - Multiplayer UNO games
-     - Private gam
+     - Private game rooms
