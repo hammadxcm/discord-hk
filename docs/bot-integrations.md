@@ -563,4 +563,4 @@ Commands:
    UNO Game:
      - Multiplayer UNO games
      - Private game rooms
-     - Tourna
+     - Tournament mo
