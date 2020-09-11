@@ -564,4 +564,5 @@ Commands:
      - Multiplayer UNO games
      - Private game rooms
      - Tournament modes
-     - Statistic
+     - Statistics tracking
+   
