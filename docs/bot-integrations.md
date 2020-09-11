@@ -565,4 +565,4 @@ Commands:
      - Private game rooms
      - Tournament modes
      - Statistics tracking
-   
+     - Custom rul
