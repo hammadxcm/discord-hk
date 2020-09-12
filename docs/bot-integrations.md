@@ -568,4 +568,4 @@ Commands:
      - Custom rule sets
    
    Commands:
-     un
+     uno s
