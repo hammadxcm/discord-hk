@@ -567,4 +567,5 @@ Commands:
      - Statistics tracking
      - Custom rule sets
    
-   
+   Commands:
+    
