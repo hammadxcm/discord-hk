@@ -568,4 +568,5 @@ Commands:
      - Custom rule sets
    
    Commands:
-     uno start        # Start new g
+     uno start        # Start new game
+    
