@@ -569,4 +569,4 @@ Commands:
    
    Commands:
      uno start        # Start new game
-     uno join       
+     uno join         # Join
