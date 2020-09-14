@@ -570,4 +570,4 @@ Commands:
    Commands:
      uno start        # Start new game
      uno join         # Join existing game
-     uno play <c
+     uno play <card>  # 
