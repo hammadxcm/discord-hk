@@ -573,4 +573,4 @@ Commands:
      uno play <card>  # Play a card
    ```
 
-### Social Credit Bot - Reputation 
+### Social Credit Bot - Reputation Sys
