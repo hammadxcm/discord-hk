@@ -576,4 +576,4 @@ Commands:
 ### Social Credit Bot - Reputation System
 
 #### ⭐ Setup
-1. **Bot*
+1. **Bot**: 
