@@ -577,4 +577,5 @@ Commands:
 
 #### ⭐ Setup
 1. **Bot**: Rep Bot
-2. **Features*
+2. **Features**:
+  
