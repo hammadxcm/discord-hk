@@ -580,4 +580,5 @@ Commands:
 2. **Features**:
    ```yaml
    Reputation System:
-     - Give/receive reputation po
+     - Give/receive reputation points
+ 
