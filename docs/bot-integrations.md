@@ -581,4 +581,4 @@ Commands:
    ```yaml
    Reputation System:
      - Give/receive reputation points
-     - Reputation lead
+     - Reputation leaderboa
