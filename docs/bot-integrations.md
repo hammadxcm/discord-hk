@@ -583,4 +583,4 @@ Commands:
      - Give/receive reputation points
      - Reputation leaderboards
      - Cooldown periods
-     - Re
+     - Reputa
