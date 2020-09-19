@@ -582,4 +582,5 @@ Commands:
    Reputation System:
      - Give/receive reputation points
      - Reputation leaderboards
-     - Cooldown perio
+     - Cooldown periods
+ 
