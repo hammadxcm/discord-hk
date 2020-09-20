@@ -584,4 +584,4 @@ Commands:
      - Reputation leaderboards
      - Cooldown periods
      - Reputation reasons
-     - Server-wide trac
+     - Server-wide tracking
