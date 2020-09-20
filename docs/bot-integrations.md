@@ -586,4 +586,4 @@ Commands:
      - Reputation reasons
      - Server-wide tracking
    
-   Com
+   Commands
