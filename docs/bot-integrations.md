@@ -588,3 +588,4 @@ Commands:
    
    Commands:
      +rep @user <reason>  # Give reputation
+   
