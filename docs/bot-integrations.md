@@ -588,4 +588,4 @@ Commands:
    
    Commands:
      +rep @user <reason>  # Give reputation
-     rep @user           
+     rep @user            # Che
