@@ -587,4 +587,4 @@ Commands:
      - Server-wide tracking
    
    Commands:
-     +rep @user <reason>  # Giv
+     +rep @user <reason>  # Give re
