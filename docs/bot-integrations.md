@@ -589,4 +589,4 @@ Commands:
    Commands:
      +rep @user <reason>  # Give reputation
      rep @user            # Check reputation
-     toprep               # Leader
+     toprep               # Leaderboa
