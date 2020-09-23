@@ -592,4 +592,4 @@ Commands:
      toprep               # Leaderboard
    ```
 
-### Birthday Bot - Enha
+### Birthday Bot - Enhanced Cel
