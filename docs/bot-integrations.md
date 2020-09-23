@@ -592,4 +592,4 @@ Commands:
      toprep               # Leaderboard
    ```
 
-### Birthd
+### Birthday 
