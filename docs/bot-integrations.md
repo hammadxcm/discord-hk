@@ -592,4 +592,6 @@ Commands:
      toprep               # Leaderboard
    ```
 
-### Birthday Bot - Enhanced Celebration
+### Birthday Bot - Enhanced Celebrations
+
+#### 
