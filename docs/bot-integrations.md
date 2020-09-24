@@ -597,4 +597,4 @@ Commands:
 #### 🎂 Birthday Celebrations
 ```yaml
 Advanced Setup:
-  Ch
+  Channel: #
