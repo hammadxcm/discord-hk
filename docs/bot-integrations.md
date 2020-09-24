@@ -596,4 +596,4 @@ Commands:
 
 #### 🎂 Birthday Celebrations
 ```yaml
-Adva
+Advanced Set
