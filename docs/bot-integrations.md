@@ -595,4 +595,5 @@ Commands:
 ### Birthday Bot - Enhanced Celebrations
 
 #### 🎂 Birthday Celebrations
-```ya
+```yaml
+Adva
