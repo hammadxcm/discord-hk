@@ -594,4 +594,4 @@ Commands:
 
 ### Birthday Bot - Enhanced Celebrations
 
-#### 🎂 Birthday Cele
+#### 🎂 Birthday Celebration
