@@ -598,4 +598,4 @@ Commands:
 ```yaml
 Advanced Setup:
   Channel: #birthdays
-  Role: @Birthday Star (24-hou
+  Role: @Birthday Star (24-hour role)
