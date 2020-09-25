@@ -597,4 +597,5 @@ Commands:
 #### 🎂 Birthday Celebrations
 ```yaml
 Advanced Setup:
-  Channel: #birthday
+  Channel: #birthdays
+  Role
