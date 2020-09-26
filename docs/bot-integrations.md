@@ -601,4 +601,5 @@ Advanced Setup:
   Role: @Birthday Star (24-hour role)
   Message: "🎉 Happy Birthday {user}! 🎂"
   Timezone: Server default
- 
+  
+Featu
