@@ -600,4 +600,5 @@ Advanced Setup:
   Channel: #birthdays
   Role: @Birthday Star (24-hour role)
   Message: "🎉 Happy Birthday {user}! 🎂"
-  Timezone: Server de
+  Timezone: Server default
+ 
