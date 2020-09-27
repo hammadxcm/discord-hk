@@ -603,4 +603,5 @@ Advanced Setup:
   Timezone: Server default
   
 Features:
-  - Automatic birthday detecti
+  - Automatic birthday detection
+ 
