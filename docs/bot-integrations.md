@@ -603,4 +603,4 @@ Advanced Setup:
   Timezone: Server default
   
 Features:
-  
+  - Auto
