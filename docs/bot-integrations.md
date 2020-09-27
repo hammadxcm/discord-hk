@@ -602,4 +602,5 @@ Advanced Setup:
   Message: "🎉 Happy Birthday {user}! 🎂"
   Timezone: Server default
   
-Featu
+Features:
+  
