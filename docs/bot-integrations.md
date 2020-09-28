@@ -605,4 +605,4 @@ Advanced Setup:
 Features:
   - Automatic birthday detection
   - Custom birthday messages
-  - B
+  - Birthda
