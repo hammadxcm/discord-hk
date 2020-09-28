@@ -606,3 +606,4 @@ Features:
   - Automatic birthday detection
   - Custom birthday messages
   - Birthday reminders
+  - Ag
