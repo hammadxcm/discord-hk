@@ -604,4 +604,4 @@ Advanced Setup:
   
 Features:
   - Automatic birthday detection
-  - Custom birthday messa
+  - Custom birthday messages
