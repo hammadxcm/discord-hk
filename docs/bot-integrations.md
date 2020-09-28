@@ -604,4 +604,4 @@ Advanced Setup:
   
 Features:
   - Automatic birthday detection
-  - Custo
+  - Custom bi
