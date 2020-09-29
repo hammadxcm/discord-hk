@@ -607,4 +607,4 @@ Features:
   - Custom birthday messages
   - Birthday reminders
   - Age calculation
-  - 
+  - Birthd
