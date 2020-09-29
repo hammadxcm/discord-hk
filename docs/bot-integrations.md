@@ -606,4 +606,4 @@ Features:
   - Automatic birthday detection
   - Custom birthday messages
   - Birthday reminders
-  - Age calc
+  - Age calculatio
