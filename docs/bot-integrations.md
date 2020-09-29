@@ -608,3 +608,4 @@ Features:
   - Birthday reminders
   - Age calculation
   - Birthday calendar
+  - G
