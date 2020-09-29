@@ -608,4 +608,4 @@ Features:
   - Birthday reminders
   - Age calculation
   - Birthday calendar
-  - Gift giving 
+  - Gift giving sys
