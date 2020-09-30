@@ -611,4 +611,4 @@ Features:
   - Gift giving system
 
 Commands:
-  !birthday set MM/DD     # Set bir
+  !birthday set MM/DD     # Set birthda
