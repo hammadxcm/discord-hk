@@ -611,3 +611,4 @@ Features:
   - Gift giving system
 
 Commands:
+  !
