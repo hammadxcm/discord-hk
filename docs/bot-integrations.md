@@ -610,4 +610,4 @@ Features:
   - Birthday calendar
   - Gift giving system
 
-Command
+Commands:
