@@ -611,4 +611,4 @@ Features:
   - Gift giving system
 
 Commands:
-  !bir
+  !birthd
