@@ -612,4 +612,5 @@ Features:
 
 Commands:
   !birthday set MM/DD     # Set birthday
-  !birthday list          # Upcoming birth
+  !birthday list          # Upcoming birthdays
+  !b
