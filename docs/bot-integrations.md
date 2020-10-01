@@ -612,4 +612,4 @@ Features:
 
 Commands:
   !birthday set MM/DD     # Set birthday
-  !birthday list          # Up
+  !birthday list          # Upcom
