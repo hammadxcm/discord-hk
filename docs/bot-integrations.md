@@ -613,4 +613,5 @@ Features:
 Commands:
   !birthday set MM/DD     # Set birthday
   !birthday list          # Upcoming birthdays
-  !birthday today         # Today's birt
+  !birthday today         # Today's birthdays
+``
