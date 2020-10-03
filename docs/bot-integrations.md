@@ -616,4 +616,4 @@ Commands:
   !birthday today         # Today's birthdays
 ```
 
-### Mimu Bot - Virtua
+### Mimu Bot - Virtual 
