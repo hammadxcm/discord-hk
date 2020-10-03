@@ -619,3 +619,4 @@ Commands:
 ### Mimu Bot - Virtual Pet
 
 #### 🐾 Setup
+1. **B
