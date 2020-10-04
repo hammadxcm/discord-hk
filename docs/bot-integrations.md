@@ -621,4 +621,4 @@ Commands:
 #### 🐾 Setup
 1. **Bot**: Mimu
 2. **Features**:
- 
+   ```yaml
