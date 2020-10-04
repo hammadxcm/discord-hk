@@ -620,4 +620,4 @@ Commands:
 
 #### 🐾 Setup
 1. **Bot**: Mimu
-2. *
+2. **Feat
