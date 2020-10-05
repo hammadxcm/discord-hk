@@ -623,4 +623,4 @@ Commands:
 2. **Features**:
    ```yaml
    Virtual Pet System:
-     - Adopt and car
+     - Adopt and care fo
