@@ -622,4 +622,4 @@ Commands:
 1. **Bot**: Mimu
 2. **Features**:
    ```yaml
-   Virtual Pet 
+   Virtual Pet System:
