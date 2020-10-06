@@ -624,4 +624,4 @@ Commands:
    ```yaml
    Virtual Pet System:
      - Adopt and care for pets
-     - Feed and play wi
+     - Feed and play with 
