@@ -626,4 +626,5 @@ Commands:
      - Adopt and care for pets
      - Feed and play with pets
      - Pet battles and competitions
-     - Breeding s
+     - Breeding system
+  
