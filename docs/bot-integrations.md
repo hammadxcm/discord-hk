@@ -625,4 +625,5 @@ Commands:
    Virtual Pet System:
      - Adopt and care for pets
      - Feed and play with pets
-     - Pet battles and competition
+     - Pet battles and competitions
+ 
