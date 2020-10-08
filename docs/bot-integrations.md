@@ -629,4 +629,4 @@ Commands:
      - Breeding system
      - Pet accessories and items
    
-   Com
+   Commands
