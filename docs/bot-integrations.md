@@ -627,4 +627,6 @@ Commands:
      - Feed and play with pets
      - Pet battles and competitions
      - Breeding system
-     - Pet accessories and item
+     - Pet accessories and items
+   
+ 
