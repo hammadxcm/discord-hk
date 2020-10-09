@@ -631,4 +631,5 @@ Commands:
    
    Commands:
      m!adopt          # Adopt a pet
-     m!feed           # Feed your
+     m!feed           # Feed your pet
+  
