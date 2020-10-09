@@ -630,4 +630,5 @@ Commands:
      - Pet accessories and items
    
    Commands:
-     m!adopt          # Adopt a p
+     m!adopt          # Adopt a pet
+ 
