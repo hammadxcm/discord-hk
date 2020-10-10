@@ -632,4 +632,5 @@ Commands:
    Commands:
      m!adopt          # Adopt a pet
      m!feed           # Feed your pet
-     m!play           # Play with
+     m!play           # Play with pet
+     
