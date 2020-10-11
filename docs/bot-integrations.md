@@ -635,3 +635,5 @@ Commands:
      m!play           # Play with pet
      m!battle @user   # Pet battles
    ```
+
+### Miki
