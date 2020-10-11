@@ -636,4 +636,4 @@ Commands:
      m!battle @user   # Pet battles
    ```
 
-### Miki Bot - So
+### Miki Bot - Socia
