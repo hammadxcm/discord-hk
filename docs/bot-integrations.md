@@ -633,4 +633,5 @@ Commands:
      m!adopt          # Adopt a pet
      m!feed           # Feed your pet
      m!play           # Play with pet
-     m!battle @user   # Pet battle
+     m!battle @user   # Pet battles
+   ```
