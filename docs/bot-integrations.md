@@ -636,4 +636,4 @@ Commands:
      m!battle @user   # Pet battles
    ```
 
-### Miki
+### Miki Bo
