@@ -639,3 +639,4 @@ Commands:
 ### Miki Bot - Social Features
 
 #### 💝 Setup
+1. **Bo
