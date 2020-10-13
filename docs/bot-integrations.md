@@ -640,4 +640,4 @@ Commands:
 
 #### 💝 Setup
 1. **Bot**: Miki
-2.
+2. **Fea
