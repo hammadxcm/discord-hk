@@ -639,4 +639,5 @@ Commands:
 ### Miki Bot - Social Features
 
 #### 💝 Setup
-1. **Bot**: M
+1. **Bot**: Miki
+2.
