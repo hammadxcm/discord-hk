@@ -642,4 +642,5 @@ Commands:
 1. **Bot**: Miki
 2. **Features**:
    ```yaml
-   Social Featu
+   Social Features:
+  
