@@ -643,4 +643,4 @@ Commands:
 2. **Features**:
    ```yaml
    Social Features:
-     - Re
+     - Relationshi
