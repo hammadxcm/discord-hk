@@ -644,4 +644,4 @@ Commands:
    ```yaml
    Social Features:
      - Relationship system
-     - Marriage an
+     - Marriage and dating
