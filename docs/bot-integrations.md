@@ -645,4 +645,5 @@ Commands:
    Social Features:
      - Relationship system
      - Marriage and dating
-     - Experience and le
+     - Experience and leveling
+ 
