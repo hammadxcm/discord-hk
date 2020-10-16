@@ -647,4 +647,4 @@ Commands:
      - Marriage and dating
      - Experience and leveling
      - Achievement system
-     - 
+     - Daily
