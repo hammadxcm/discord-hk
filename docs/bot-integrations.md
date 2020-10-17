@@ -650,4 +650,4 @@ Commands:
      - Daily activities
    
    Commands:
-     >daily           # Dail
+     >daily           # Daily r
