@@ -649,4 +649,5 @@ Commands:
      - Achievement system
      - Daily activities
    
-   Command
+   Commands:
+ 
