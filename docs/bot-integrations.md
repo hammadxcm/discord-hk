@@ -649,4 +649,4 @@ Commands:
      - Achievement system
      - Daily activities
    
-   Com
+   Command
