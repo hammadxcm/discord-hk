@@ -651,4 +651,4 @@ Commands:
    
    Commands:
      >daily           # Daily rewards
-     >
+     >ma
