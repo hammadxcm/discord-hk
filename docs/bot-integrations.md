@@ -650,4 +650,4 @@ Commands:
      - Daily activities
    
    Commands:
-     >daily           # Daily r
+     >daily           # Daily rewa
