@@ -652,4 +652,4 @@ Commands:
    Commands:
      >daily           # Daily rewards
      >marry @user     # Propose marriage
-     >divorce @use
+     >divorce @user   # 
