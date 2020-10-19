@@ -651,4 +651,4 @@ Commands:
    
    Commands:
      >daily           # Daily rewards
-     >marry @user     # Propose marr
+     >marry @user     # Propose marriage
