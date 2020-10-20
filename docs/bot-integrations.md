@@ -656,4 +656,4 @@ Commands:
      >profile         # View profile
    ```
 
-## 🔧 Utility & Pro
+## 🔧 Utility & Productivit
