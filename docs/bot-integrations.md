@@ -658,4 +658,4 @@ Commands:
 
 ## 🔧 Utility & Productivity Bots
 
-### YAGPDB (Yet Another 
+### YAGPDB (Yet Another Gene
