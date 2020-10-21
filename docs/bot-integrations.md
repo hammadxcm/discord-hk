@@ -658,4 +658,4 @@ Commands:
 
 ## 🔧 Utility & Productivity Bots
 
-### YAGPDB (Yet Another General 
+### YAGPDB (Yet Another General Purp
