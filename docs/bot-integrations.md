@@ -656,4 +656,5 @@ Commands:
      >profile         # View profile
    ```
 
-## 🔧 Utility & Productivit
+## 🔧 Utility & Productivity Bots
+
