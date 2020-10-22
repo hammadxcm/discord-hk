@@ -661,4 +661,5 @@ Commands:
 ### YAGPDB (Yet Another General Purpose Discord Bot)
 
 #### ⚡ Advanced Features
-`
+```yaml
+C
