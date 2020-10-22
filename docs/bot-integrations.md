@@ -660,4 +660,5 @@ Commands:
 
 ### YAGPDB (Yet Another General Purpose Discord Bot)
 
-#### ⚡ Advanced Fe
+#### ⚡ Advanced Features
+`
