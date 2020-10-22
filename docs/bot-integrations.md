@@ -658,4 +658,5 @@ Commands:
 
 ## 🔧 Utility & Productivity Bots
 
-### YAGPDB (Yet Another General Purpose Discord Bot
+### YAGPDB (Yet Another General Purpose Discord Bot)
+
