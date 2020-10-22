@@ -660,3 +660,4 @@ Commands:
 
 ### YAGPDB (Yet Another General Purpose Discord Bot)
 
+#### ⚡ Ad
