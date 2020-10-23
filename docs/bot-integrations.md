@@ -664,4 +664,4 @@ Commands:
 ```yaml
 Custom Commands:
   - Complex scripting
-  - Database i
+  - Database integration
