@@ -663,4 +663,5 @@ Commands:
 #### ⚡ Advanced Features
 ```yaml
 Custom Commands:
-  - Complex scri
+  - Complex scripting
+  - 
