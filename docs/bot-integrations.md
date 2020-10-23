@@ -662,4 +662,4 @@ Commands:
 
 #### ⚡ Advanced Features
 ```yaml
-Custom Co
+Custom Commands:
