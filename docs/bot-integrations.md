@@ -663,3 +663,4 @@ Commands:
 #### ⚡ Advanced Features
 ```yaml
 Custom Commands:
+  - Comp
