@@ -667,4 +667,4 @@ Custom Commands:
   - Database integration
   - Web dashboard
   - Advanced automod
-  - Custom A
+  - Custom APIs
