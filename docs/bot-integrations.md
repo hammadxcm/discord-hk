@@ -666,4 +666,4 @@ Custom Commands:
   - Complex scripting
   - Database integration
   - Web dashboard
-  - Advanced autom
+  - Advanced automod
