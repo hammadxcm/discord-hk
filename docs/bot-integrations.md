@@ -670,4 +670,4 @@ Custom Commands:
   - Custom APIs
 ```
 
-### Apollo Bot - Productivity 
+### Apollo Bot - Productivity Suit
