@@ -670,4 +670,4 @@ Custom Commands:
   - Custom APIs
 ```
 
-### Apollo B
+### Apollo Bot 
