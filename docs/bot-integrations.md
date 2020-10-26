@@ -672,4 +672,4 @@ Custom Commands:
 
 ### Apollo Bot - Productivity Suite
 
-#### 
+#### 📋 Se
