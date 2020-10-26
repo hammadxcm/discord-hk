@@ -673,4 +673,4 @@ Custom Commands:
 ### Apollo Bot - Productivity Suite
 
 #### 📋 Setup
-1. **Invite**: https://
+1. **Invite**: https://apo
