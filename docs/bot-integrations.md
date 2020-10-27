@@ -674,3 +674,4 @@ Custom Commands:
 
 #### 📋 Setup
 1. **Invite**: https://apollo-bot.xyz/
+2.
