@@ -676,4 +676,4 @@ Custom Commands:
 1. **Invite**: https://apollo-bot.xyz/
 2. **Features**:
    ```yaml
-   Produ
+   Productivit
