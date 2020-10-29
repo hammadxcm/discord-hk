@@ -678,4 +678,4 @@ Custom Commands:
    ```yaml
    Productivity Tools:
      - Task management system
-     - Project
+     - Project collabor
