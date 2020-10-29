@@ -677,4 +677,5 @@ Custom Commands:
 2. **Features**:
    ```yaml
    Productivity Tools:
-     - Task management syst
+     - Task management system
+     
