@@ -681,4 +681,4 @@ Custom Commands:
      - Project collaboration
      - Meeting scheduler
      - Deadline reminders
-     - Prog
+     - Progress
