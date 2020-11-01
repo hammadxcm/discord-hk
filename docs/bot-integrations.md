@@ -684,4 +684,4 @@ Custom Commands:
      - Progress tracking
    
    Commands:
-     /task cre
+     /task creat
