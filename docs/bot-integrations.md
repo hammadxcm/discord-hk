@@ -685,4 +685,4 @@ Custom Commands:
    
    Commands:
      /task create <description>
-     /pr
+     /projec
