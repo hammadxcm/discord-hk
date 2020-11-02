@@ -687,4 +687,4 @@ Custom Commands:
      /task create <description>
      /project new <name>
      /remind <time> <message>
-     /sc
+     /schedule
