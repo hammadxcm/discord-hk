@@ -685,4 +685,4 @@ Custom Commands:
    
    Commands:
      /task create <description>
-     /project ne
+     /project new <n
