@@ -690,4 +690,4 @@ Custom Commands:
      /schedule <event>
    ```
 
-#
+### Git
