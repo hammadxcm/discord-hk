@@ -690,4 +690,4 @@ Custom Commands:
      /schedule <event>
    ```
 
-### GitHub Bo
+### GitHub Bot - De
