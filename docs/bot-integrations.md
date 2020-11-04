@@ -694,4 +694,4 @@ Custom Commands:
 
 #### 💻 Setup
 1. **Invite**: GitHub Bot (official)
-2. *
+2. **Featur
