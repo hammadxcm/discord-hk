@@ -693,4 +693,5 @@ Custom Commands:
 ### GitHub Bot - Development Integration
 
 #### 💻 Setup
-1. **Invite**: GitHub Bot (officia
+1. **Invite**: GitHub Bot (official)
+2. *
