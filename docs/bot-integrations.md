@@ -692,4 +692,5 @@ Custom Commands:
 
 ### GitHub Bot - Development Integration
 
-#### 💻 Setu
+#### 💻 Setup
+1. 
