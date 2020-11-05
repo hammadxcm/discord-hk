@@ -697,4 +697,4 @@ Custom Commands:
 2. **Features**:
    ```yaml
    Repository Integration:
-     - Com
+     - Commit n
