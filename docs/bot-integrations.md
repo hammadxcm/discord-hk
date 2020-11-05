@@ -696,4 +696,4 @@ Custom Commands:
 1. **Invite**: GitHub Bot (official)
 2. **Features**:
    ```yaml
-   Repository Integrat
+   Repository Integration:
