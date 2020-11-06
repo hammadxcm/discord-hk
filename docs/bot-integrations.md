@@ -698,4 +698,5 @@ Custom Commands:
    ```yaml
    Repository Integration:
      - Commit notifications
-     - Pull request upda
+     - Pull request updates
+ 
