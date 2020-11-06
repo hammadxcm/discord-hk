@@ -697,4 +697,5 @@ Custom Commands:
 2. **Features**:
    ```yaml
    Repository Integration:
-     - Commit notificatio
+     - Commit notifications
+  
