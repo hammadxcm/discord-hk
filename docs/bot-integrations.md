@@ -700,4 +700,5 @@ Custom Commands:
      - Commit notifications
      - Pull request updates
      - Issue tracking
-     - Release announcemen
+     - Release announcements
+  
