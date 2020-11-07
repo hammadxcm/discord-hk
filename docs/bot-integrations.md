@@ -699,4 +699,4 @@ Custom Commands:
    Repository Integration:
      - Commit notifications
      - Pull request updates
-     - Iss
+     - Issue t
