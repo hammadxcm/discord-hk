@@ -703,4 +703,4 @@ Custom Commands:
      - Release announcements
      - Code review notifications
    
-   Configura
+   Configuration
