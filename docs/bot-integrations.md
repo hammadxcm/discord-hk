@@ -701,4 +701,5 @@ Custom Commands:
      - Pull request updates
      - Issue tracking
      - Release announcements
-     - Code review notification
+     - Code review notifications
+  
