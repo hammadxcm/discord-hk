@@ -704,4 +704,4 @@ Custom Commands:
      - Code review notifications
    
    Configuration:
-     /github subscribe
+     /github subscribe <re
