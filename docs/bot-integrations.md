@@ -704,4 +704,5 @@ Custom Commands:
      - Code review notifications
    
    Configuration:
-     /github subscribe <repo> issu
+     /github subscribe <repo> issues
+ 
