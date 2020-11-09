@@ -704,4 +704,4 @@ Custom Commands:
      - Code review notifications
    
    Configuration:
-     /github s
+     /github subsc
