@@ -705,4 +705,4 @@ Custom Commands:
    
    Configuration:
      /github subscribe <repo> issues
-     /github subscribe <repo>
+     /github subscribe <repo> com
