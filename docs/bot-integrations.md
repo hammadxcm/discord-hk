@@ -707,3 +707,4 @@ Custom Commands:
      /github subscribe <repo> issues
      /github subscribe <repo> commits
      /github subscribe <repo> releases
+   ``
