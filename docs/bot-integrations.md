@@ -706,4 +706,4 @@ Custom Commands:
    Configuration:
      /github subscribe <repo> issues
      /github subscribe <repo> commits
-     /github subscribe <r
+     /github subscribe <repo
