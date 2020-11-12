@@ -709,4 +709,5 @@ Custom Commands:
      /github subscribe <repo> releases
    ```
 
-### Reminder Bot - Advanced Scheduli
+### Reminder Bot - Advanced Scheduling
+
