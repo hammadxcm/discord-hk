@@ -709,4 +709,4 @@ Custom Commands:
      /github subscribe <repo> releases
    ```
 
-### Remin
+### Reminder Bo
