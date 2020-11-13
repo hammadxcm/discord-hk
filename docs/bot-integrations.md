@@ -713,4 +713,4 @@ Custom Commands:
 
 #### ⏰ Setup
 1. **Invite**: https://reminderbot.xyz/
-2. **F
+2. **Features*
