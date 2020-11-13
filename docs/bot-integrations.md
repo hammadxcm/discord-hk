@@ -712,4 +712,5 @@ Custom Commands:
 ### Reminder Bot - Advanced Scheduling
 
 #### ⏰ Setup
-1. **Invite**: https://reminderbot.xyz
+1. **Invite**: https://reminderbot.xyz/
+2. **F
