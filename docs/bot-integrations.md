@@ -717,4 +717,4 @@ Custom Commands:
    ```yaml
    Reminder Types:
      - Personal reminders
-     - Server-wide ann
+     - Server-wide announce
