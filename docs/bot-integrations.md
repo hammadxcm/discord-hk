@@ -716,4 +716,4 @@ Custom Commands:
 2. **Features**:
    ```yaml
    Reminder Types:
-     - Person
+     - Personal re
