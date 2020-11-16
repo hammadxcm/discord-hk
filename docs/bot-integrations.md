@@ -718,4 +718,4 @@ Custom Commands:
    Reminder Types:
      - Personal reminders
      - Server-wide announcements
-     - Recurri
+     - Recurring ev
