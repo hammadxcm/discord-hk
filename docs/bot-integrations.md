@@ -719,4 +719,4 @@ Custom Commands:
      - Personal reminders
      - Server-wide announcements
      - Recurring events
-     - Birthday remind
+     - Birthday reminders
