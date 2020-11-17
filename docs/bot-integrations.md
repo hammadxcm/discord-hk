@@ -720,4 +720,4 @@ Custom Commands:
      - Server-wide announcements
      - Recurring events
      - Birthday reminders
-     - Deadline trac
+     - Deadline tracking
