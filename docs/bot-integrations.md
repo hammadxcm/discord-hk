@@ -723,4 +723,5 @@ Custom Commands:
      - Deadline tracking
    
    Commands:
-     r!remind 1h Take a
+     r!remind 1h Take a break
+    
