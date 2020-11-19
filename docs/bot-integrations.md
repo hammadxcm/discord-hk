@@ -725,4 +725,4 @@ Custom Commands:
    Commands:
      r!remind 1h Take a break
      r!remind @everyone tomorrow Event starts
-     r!remind recurr
+     r!remind recurring dail
