@@ -730,4 +730,5 @@ Custom Commands:
 
 ### Translator Bot - Multi-Language Support
 
-#### 🌍 
+#### 🌍 Setup
+1. *
