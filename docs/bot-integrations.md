@@ -728,4 +728,4 @@ Custom Commands:
      r!remind recurring daily 9am Daily standup
    ```
 
-### Translator Bot -
+### Translator Bot - Mu
