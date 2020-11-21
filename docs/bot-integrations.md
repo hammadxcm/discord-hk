@@ -734,4 +734,4 @@ Custom Commands:
 1. **Bot**: Translate Bot
 2. **Features**:
    ```yaml
- 
+   Translation 
