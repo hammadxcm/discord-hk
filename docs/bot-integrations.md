@@ -731,4 +731,5 @@ Custom Commands:
 ### Translator Bot - Multi-Language Support
 
 #### 🌍 Setup
-1. **Bot**: Translate B
+1. **Bot**: Translate Bot
+2. **F
