@@ -732,4 +732,4 @@ Custom Commands:
 
 #### 🌍 Setup
 1. **Bot**: Translate Bot
-2. **F
+2. **Features**
