@@ -735,4 +735,5 @@ Custom Commands:
 2. **Features**:
    ```yaml
    Translation Features:
-     - Auto-dete
+     - Auto-detect language
+ 
