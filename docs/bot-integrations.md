@@ -736,4 +736,4 @@ Custom Commands:
    ```yaml
    Translation Features:
      - Auto-detect language
-     
+     - 10
