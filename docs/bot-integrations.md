@@ -736,4 +736,5 @@ Custom Commands:
    ```yaml
    Translation Features:
      - Auto-detect language
-     - 100+ languages support
+     - 100+ languages supported
+ 
