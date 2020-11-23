@@ -737,4 +737,4 @@ Custom Commands:
    Translation Features:
      - Auto-detect language
      - 100+ languages supported
-     - Reaction-b
+     - Reaction-based
