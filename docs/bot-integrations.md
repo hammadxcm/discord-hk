@@ -738,4 +738,4 @@ Custom Commands:
      - Auto-detect language
      - 100+ languages supported
      - Reaction-based translation
-     - Channel auto-tran
+     - Channel auto-translati
