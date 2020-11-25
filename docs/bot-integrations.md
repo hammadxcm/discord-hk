@@ -739,4 +739,4 @@ Custom Commands:
      - 100+ languages supported
      - Reaction-based translation
      - Channel auto-translation
-     - Language l
+     - Language learni
