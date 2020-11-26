@@ -743,4 +743,4 @@ Custom Commands:
    
    Commands:
      !translate <text>
-     !tra
+     !translate <from
