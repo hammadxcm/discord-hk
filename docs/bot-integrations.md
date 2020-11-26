@@ -742,4 +742,4 @@ Custom Commands:
      - Language learning tools
    
    Commands:
-     !transl
+     !translate 
