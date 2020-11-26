@@ -741,4 +741,4 @@ Custom Commands:
      - Channel auto-translation
      - Language learning tools
    
-   Co
+   Comman
