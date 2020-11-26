@@ -742,4 +742,5 @@ Custom Commands:
      - Language learning tools
    
    Commands:
-     !translate <tex
+     !translate <text>
+     !tra
