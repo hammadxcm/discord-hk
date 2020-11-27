@@ -744,4 +744,4 @@ Custom Commands:
    Commands:
      !translate <text>
      !translate <from> <to> <text>
-     !re
+     !react-transla
