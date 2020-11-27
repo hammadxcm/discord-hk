@@ -743,4 +743,5 @@ Custom Commands:
    
    Commands:
      !translate <text>
-     !translate <from> <to> <tex
+     !translate <from> <to> <text>
+     !re
