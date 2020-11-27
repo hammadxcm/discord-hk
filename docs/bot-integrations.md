@@ -745,4 +745,6 @@ Custom Commands:
      !translate <text>
      !translate <from> <to> <text>
      !react-translate #channel
-   `
+   ```
+
+### 
