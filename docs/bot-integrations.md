@@ -750,4 +750,4 @@ Custom Commands:
 ### Poll Bot - Advanced Polling
 
 #### 📊 Setup
-1. **Bot*
+1. **Bot**: Simple 
