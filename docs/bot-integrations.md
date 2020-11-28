@@ -747,4 +747,5 @@ Custom Commands:
      !react-translate #channel
    ```
 
-### Poll Bot - Advanced Po
+### Poll Bot - Advanced Polling
+
