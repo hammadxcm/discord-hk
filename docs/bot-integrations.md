@@ -747,4 +747,4 @@ Custom Commands:
      !react-translate #channel
    ```
 
-### Poll Bot - Adva
+### Poll Bot - Advanced Po
