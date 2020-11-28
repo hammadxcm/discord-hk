@@ -749,4 +749,5 @@ Custom Commands:
 
 ### Poll Bot - Advanced Polling
 
-#### 📊 Setu
+#### 📊 Setup
+1. **Bot*
