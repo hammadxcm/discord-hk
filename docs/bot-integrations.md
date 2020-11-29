@@ -751,4 +751,5 @@ Custom Commands:
 
 #### 📊 Setup
 1. **Bot**: Simple Poll Bot
-2. **Featur
+2. **Features**:
+  
