@@ -753,4 +753,4 @@ Custom Commands:
 1. **Bot**: Simple Poll Bot
 2. **Features**:
    ```yaml
-   Poll
+   Poll Types:
