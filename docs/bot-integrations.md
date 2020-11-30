@@ -754,4 +754,4 @@ Custom Commands:
 2. **Features**:
    ```yaml
    Poll Types:
-     - M
+     - Multiple 
