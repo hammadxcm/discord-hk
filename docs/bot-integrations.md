@@ -755,4 +755,4 @@ Custom Commands:
    ```yaml
    Poll Types:
      - Multiple choice polls
-     - Yes/No 
+     - Yes/No quest
