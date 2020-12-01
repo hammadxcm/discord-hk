@@ -757,4 +757,5 @@ Custom Commands:
      - Multiple choice polls
      - Yes/No questions
      - Anonymous voting
-     - Time-limited pol
+     - Time-limited polls
+   
