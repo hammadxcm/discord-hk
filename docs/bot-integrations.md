@@ -756,4 +756,5 @@ Custom Commands:
    Poll Types:
      - Multiple choice polls
      - Yes/No questions
-     - Anonymous voti
+     - Anonymous voting
+ 
