@@ -761,4 +761,4 @@ Custom Commands:
      - Results analytics
    
    Commands:
-     /poll create "Questio
+     /poll create "Question?" "Opti
