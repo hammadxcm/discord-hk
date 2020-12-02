@@ -758,4 +758,4 @@ Custom Commands:
      - Yes/No questions
      - Anonymous voting
      - Time-limited polls
-     - Results 
+     - Results analyt
