@@ -760,4 +760,5 @@ Custom Commands:
      - Time-limited polls
      - Results analytics
    
-   Command
+   Commands:
+  
