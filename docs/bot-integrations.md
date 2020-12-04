@@ -763,4 +763,4 @@ Custom Commands:
    Commands:
      /poll create "Question?" "Option1" "Option2"
      /poll anonymous "Anonymous poll?"
-     
+     /poll
