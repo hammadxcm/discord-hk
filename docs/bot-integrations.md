@@ -768,4 +768,5 @@ Custom Commands:
 
 ### Ticket Bot - Support System
 
-#### 🎫 Setu
+#### 🎫 Setup
+1. **Bo
