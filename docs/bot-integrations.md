@@ -766,4 +766,4 @@ Custom Commands:
      /poll timed 1h "Quick decision?"
    ```
 
-### Ticket Bot - Support Syst
+### Ticket Bot - Support System
