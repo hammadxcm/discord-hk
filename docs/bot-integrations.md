@@ -772,4 +772,5 @@ Custom Commands:
 1. **Bot**: Ticket Bot (enhanced)
 2. **Features**:
    ```yaml
-   Ticket Feature
+   Ticket Features:
+   
