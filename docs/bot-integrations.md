@@ -769,4 +769,4 @@ Custom Commands:
 ### Ticket Bot - Support System
 
 #### 🎫 Setup
-1. **Bot**: Ticket Bot (e
+1. **Bot**: Ticket Bot (enhanced)
