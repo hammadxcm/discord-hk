@@ -773,4 +773,4 @@ Custom Commands:
 2. **Features**:
    ```yaml
    Ticket Features:
-     - Category
+     - Category-based
