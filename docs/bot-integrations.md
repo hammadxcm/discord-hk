@@ -774,4 +774,5 @@ Custom Commands:
    ```yaml
    Ticket Features:
      - Category-based tickets
-     - Auto-assignmen
+     - Auto-assignment
+ 
