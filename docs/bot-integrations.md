@@ -773,4 +773,5 @@ Custom Commands:
 2. **Features**:
    ```yaml
    Ticket Features:
-     - Category-based ticke
+     - Category-based tickets
+  
