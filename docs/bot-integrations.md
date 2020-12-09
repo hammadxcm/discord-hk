@@ -776,4 +776,5 @@ Custom Commands:
      - Category-based tickets
      - Auto-assignment
      - Ticket transcripts
-     - Rating syste
+     - Rating system
+     - Q
