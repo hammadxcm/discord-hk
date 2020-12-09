@@ -775,4 +775,4 @@ Custom Commands:
    Ticket Features:
      - Category-based tickets
      - Auto-assignment
-     - Ticket
+     - Ticket t
