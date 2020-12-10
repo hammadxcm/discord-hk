@@ -779,4 +779,5 @@ Custom Commands:
      - Rating system
      - Queue management
    
-   Setup
+   Setup:
+   
