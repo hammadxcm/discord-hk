@@ -780,4 +780,4 @@ Custom Commands:
      - Queue management
    
    Setup:
-     !ti
+     !ticket
