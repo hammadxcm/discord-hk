@@ -777,4 +777,4 @@ Custom Commands:
      - Auto-assignment
      - Ticket transcripts
      - Rating system
-     - Q
+     - Queue mana
