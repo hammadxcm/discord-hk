@@ -781,4 +781,4 @@ Custom Commands:
    
    Setup:
      !ticket setup
-     !ticket category
+     !ticket category <na
