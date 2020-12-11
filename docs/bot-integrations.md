@@ -782,4 +782,5 @@ Custom Commands:
    Setup:
      !ticket setup
      !ticket category <name>
-     !ticket role <@
+     !ticket role <@role>
+   `
