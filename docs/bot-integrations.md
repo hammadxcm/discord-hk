@@ -783,4 +783,6 @@ Custom Commands:
      !ticket setup
      !ticket category <name>
      !ticket role <@role>
-   `
+   ```
+
+### We
