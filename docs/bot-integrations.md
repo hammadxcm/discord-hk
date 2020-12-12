@@ -785,4 +785,4 @@ Custom Commands:
      !ticket role <@role>
    ```
 
-### Webhook Manager - En
+### Webhook Manager - Enhanc
