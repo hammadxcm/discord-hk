@@ -787,4 +787,4 @@ Custom Commands:
 
 ### Webhook Manager - Enhanced Integration
 
-#### 🔗 Cross
+#### 🔗 Cross-Pla
