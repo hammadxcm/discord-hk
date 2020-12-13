@@ -788,4 +788,4 @@ Custom Commands:
 ### Webhook Manager - Enhanced Integration
 
 #### 🔗 Cross-Platform Integration
-``
+```yam
