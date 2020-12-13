@@ -785,4 +785,5 @@ Custom Commands:
      !ticket role <@role>
    ```
 
-### Webhook Manager - Enhanced Integrati
+### Webhook Manager - Enhanced Integration
+
