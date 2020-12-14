@@ -789,4 +789,4 @@ Custom Commands:
 
 #### 🔗 Cross-Platform Integration
 ```yaml
-So
+Social
