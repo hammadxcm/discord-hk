@@ -790,4 +790,4 @@ Custom Commands:
 #### 🔗 Cross-Platform Integration
 ```yaml
 Social Media:
-  - Twitter posts → #socia
+  - Twitter posts → #social-f
