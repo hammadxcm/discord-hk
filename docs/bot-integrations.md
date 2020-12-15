@@ -791,4 +791,4 @@ Custom Commands:
 ```yaml
 Social Media:
   - Twitter posts → #social-feed
-  - I
+  - Inst
