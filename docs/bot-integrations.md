@@ -792,4 +792,5 @@ Custom Commands:
 Social Media:
   - Twitter posts → #social-feed
   - Instagram posts → #media-share
-  - YouTube uploads →
+  - YouTube uploads → #videos
+  
