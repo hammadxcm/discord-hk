@@ -795,4 +795,4 @@ Social Media:
   - YouTube uploads → #videos
   - TikTok content → #entertainment
 
-Developme
+Development:
