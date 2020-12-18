@@ -796,4 +796,5 @@ Social Media:
   - TikTok content → #entertainment
 
 Development:
-  - GitHub commits → #dev-updat
+  - GitHub commits → #dev-updates
+  
