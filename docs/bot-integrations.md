@@ -798,4 +798,5 @@ Social Media:
 Development:
   - GitHub commits → #dev-updates
   - GitLab merges → #development
-  - Docker builds → #deployme
+  - Docker builds → #deployments
+  -
