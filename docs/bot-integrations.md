@@ -797,4 +797,4 @@ Social Media:
 
 Development:
   - GitHub commits → #dev-updates
-  - GitLab merges → #d
+  - GitLab merges → #develo
