@@ -802,4 +802,5 @@ Development:
   - CI/CD pipelines → #automation
 
 Business:
-  - Google Calendar → #event
+  - Google Calendar → #events
+  - 
