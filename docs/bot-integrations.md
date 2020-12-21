@@ -804,4 +804,4 @@ Development:
 Business:
   - Google Calendar → #events
   - Trello updates → #project-mgmt
-  - Slack integrat
+  - Slack integration → 
