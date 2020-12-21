@@ -803,4 +803,4 @@ Development:
 
 Business:
   - Google Calendar → #events
-  - Trello updates → #pr
+  - Trello updates → #project
