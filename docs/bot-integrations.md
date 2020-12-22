@@ -805,4 +805,5 @@ Business:
   - Google Calendar → #events
   - Trello updates → #project-mgmt
   - Slack integration → #cross-chat
-  - Email notifications → #al
+  - Email notifications → #alerts
+`
