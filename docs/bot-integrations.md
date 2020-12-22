@@ -808,4 +808,4 @@ Business:
   - Email notifications → #alerts
 ```
 
-### Weat
+### Weather Bo
