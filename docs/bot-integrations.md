@@ -805,3 +805,4 @@ Business:
   - Google Calendar → #events
   - Trello updates → #project-mgmt
   - Slack integration → #cross-chat
+  - Em
