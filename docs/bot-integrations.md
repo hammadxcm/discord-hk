@@ -810,4 +810,4 @@ Business:
 
 ### Weather Bot - Location Services
 
-#### 🌤️ Se
+#### 🌤️ Setup
