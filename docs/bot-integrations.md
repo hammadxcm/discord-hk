@@ -811,4 +811,4 @@ Business:
 ### Weather Bot - Location Services
 
 #### 🌤️ Setup
-1. **Bot**: 
+1. **Bot**: Weat
