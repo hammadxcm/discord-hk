@@ -812,3 +812,4 @@ Business:
 
 #### 🌤️ Setup
 1. **Bot**: Weather Bot
+2. 
