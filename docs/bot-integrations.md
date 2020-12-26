@@ -816,4 +816,4 @@ Business:
    ```yaml
    Weather Services:
      - Current conditions
-    
+     - 7-da
