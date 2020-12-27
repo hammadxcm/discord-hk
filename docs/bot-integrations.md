@@ -817,4 +817,5 @@ Business:
    Weather Services:
      - Current conditions
      - 7-day forecasts
-     - Severe weather
+     - Severe weather alerts
+   
