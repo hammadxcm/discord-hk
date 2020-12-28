@@ -818,4 +818,5 @@ Business:
      - Current conditions
      - 7-day forecasts
      - Severe weather alerts
-     - Location-based upd
+     - Location-based updates
+     -
