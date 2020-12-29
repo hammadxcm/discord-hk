@@ -822,4 +822,4 @@ Business:
      - Air quality index
    
    Commands:
-     !
+     !wea
