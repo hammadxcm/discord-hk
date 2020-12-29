@@ -822,4 +822,5 @@ Business:
      - Air quality index
    
    Commands:
-     !weather <locat
+     !weather <location>
+   
