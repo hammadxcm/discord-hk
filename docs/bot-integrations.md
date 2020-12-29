@@ -823,4 +823,4 @@ Business:
    
    Commands:
      !weather <location>
-   
+     !forec
