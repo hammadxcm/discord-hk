@@ -823,4 +823,4 @@ Business:
    
    Commands:
      !weather <location>
-     !forecast <lo
+     !forecast <location>
