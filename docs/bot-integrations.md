@@ -824,4 +824,5 @@ Business:
    Commands:
      !weather <location>
      !forecast <location>
-     !alerts <locati
+     !alerts <location>
+ 
