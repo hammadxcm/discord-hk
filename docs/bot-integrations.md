@@ -825,4 +825,4 @@ Business:
      !weather <location>
      !forecast <location>
      !alerts <location>
-     !weather set <d
+     !weather set <defau
