@@ -1,1 +1,1 @@
-# 🤖 Discord Server Automation
+# 🤖 Discord Server Automation Gu
