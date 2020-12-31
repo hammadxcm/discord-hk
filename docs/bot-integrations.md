@@ -828,4 +828,4 @@ Business:
      !weather set <default_location>
    ```
 
-### Time Zo
+### Time Zone B
