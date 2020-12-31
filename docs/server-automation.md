@@ -1,1 +1,1 @@
-# 🤖 Discord Server Auto
+# 🤖 Discord Server Automat
