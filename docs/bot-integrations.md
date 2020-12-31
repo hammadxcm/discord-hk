@@ -828,4 +828,4 @@ Business:
      !weather set <default_location>
    ```
 
-### Tim
+### Time Zo
