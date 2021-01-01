@@ -1,1 +1,1 @@
-# 🤖 Discord Serv
+# 🤖 Discord Server A
