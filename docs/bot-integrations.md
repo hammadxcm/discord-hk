@@ -828,4 +828,4 @@ Business:
      !weather set <default_location>
    ```
 
-### Time Zone Bot - Global Coordinat
+### Time Zone Bot - Global Coordination
