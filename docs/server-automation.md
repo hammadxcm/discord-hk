@@ -1,1 +1,1 @@
-# 🤖 Disc
+# 🤖 Discord 
