@@ -831,4 +831,4 @@ Business:
 ### Time Zone Bot - Global Coordination
 
 #### 🕐 Setup
-1. **B
+1. **Bot**:
