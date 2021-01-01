@@ -1,3 +1,3 @@
 # 🤖 Discord Server Automation Guide
 
-This guide shows you how to automatically set up your Discord s
+This guide shows you how to automatically set up your Discord serve
