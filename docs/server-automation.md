@@ -1,3 +1,3 @@
 # 🤖 Discord Server Automation Guide
 
-This guide shows you how to automatically set up your D
+This guide shows you how to automatically set up your Disco
