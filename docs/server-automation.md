@@ -1,3 +1,3 @@
 # 🤖 Discord Server Automation Guide
 
-This guide shows you how to automatically set up your Discord server with channels, roles, and permissi
+This guide shows you how to automatically set up your Discord server with channels, roles, and permissions 
