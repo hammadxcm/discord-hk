@@ -1,3 +1,3 @@
 # 🤖 Discord Server Automation Guide
 
-This guide show
+This guide shows you
