@@ -832,4 +832,4 @@ Business:
 
 #### 🕐 Setup
 1. **Bot**: Time Zone Bot
-2. **Fea
+2. **Feature
