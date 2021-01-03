@@ -834,4 +834,4 @@ Business:
 1. **Bot**: Time Zone Bot
 2. **Features**:
    ```yaml
-   Time Ma
+   Time Manag
