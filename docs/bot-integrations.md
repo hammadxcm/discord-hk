@@ -836,4 +836,5 @@ Business:
    ```yaml
    Time Management:
      - Time zone conversions
-     - Meeting schedu
+     - Meeting scheduler
+ 
