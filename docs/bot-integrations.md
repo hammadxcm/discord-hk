@@ -837,4 +837,5 @@ Business:
    Time Management:
      - Time zone conversions
      - Meeting scheduler
-     - World clock di
+     - World clock display
+     
