@@ -6,4 +6,5 @@ This guide shows you how to automatically set up your Discord server with channe
 
 ### 1. **Prerequisites**
 ```bash
-# Make sure you have your bot token and guild ID in .
+# Make sure you have your bot token and guild ID in .env
+D
