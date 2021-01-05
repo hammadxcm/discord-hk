@@ -838,4 +838,5 @@ Business:
      - Time zone conversions
      - Meeting scheduler
      - World clock display
-     - Event time coordinat
+     - Event time coordination
+     - 
