@@ -5,4 +5,5 @@ This guide shows you how to automatically set up your Discord server with channe
 ## 🚀 Quick Setup
 
 ### 1. **Prerequisites**
-```b
+```bash
+# 
