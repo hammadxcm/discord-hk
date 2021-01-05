@@ -839,4 +839,5 @@ Business:
      - Meeting scheduler
      - World clock display
      - Event time coordination
-     - Auto-timezone detect
+     - Auto-timezone detection
+  
