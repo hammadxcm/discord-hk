@@ -839,4 +839,4 @@ Business:
      - Meeting scheduler
      - World clock display
      - Event time coordination
-     - Auto-timez
+     - Auto-timezone detect
