@@ -842,4 +842,4 @@ Business:
      - Auto-timezone detection
    
    Commands:
-     !time <tim
+     !time <timezone
