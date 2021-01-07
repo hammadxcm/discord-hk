@@ -844,4 +844,4 @@ Business:
    Commands:
      !time <timezone>
      !convert <time> <from> <to>
-     !schedule <time> <
+     !schedule <time> <timezo
