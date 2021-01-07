@@ -9,4 +9,4 @@ This guide shows you how to automatically set up your Discord server with channe
 # Make sure you have your bot token and guild ID in .env
 DISCORD_TOKEN=your_bot_token_here
 DISCORD_CLIENT_ID=your_client_id_here
-DISCORD_GUILD_ID=your_
+DISCORD_GUILD_ID=your_guild
