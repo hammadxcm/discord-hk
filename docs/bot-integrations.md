@@ -843,4 +843,5 @@ Business:
    
    Commands:
      !time <timezone>
-     !convert <time> <from> <t
+     !convert <time> <from> <to>
+ 
