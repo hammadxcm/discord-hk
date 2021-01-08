@@ -11,3 +11,5 @@ DISCORD_TOKEN=your_bot_token_here
 DISCORD_CLIENT_ID=your_client_id_here
 DISCORD_GUILD_ID=your_guild_id_here
 ```
+
+##
