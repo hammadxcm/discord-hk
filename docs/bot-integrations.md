@@ -847,4 +847,4 @@ Business:
      !schedule <time> <timezone>
    ```
 
-## 🛡️ Security & Verificat
+## 🛡️ Security & Verification
