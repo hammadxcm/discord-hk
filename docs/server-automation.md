@@ -12,4 +12,4 @@ DISCORD_CLIENT_ID=your_client_id_here
 DISCORD_GUILD_ID=your_guild_id_here
 ```
 
-### 2. **Run the
+### 2. **Run the S
