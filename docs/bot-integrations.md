@@ -849,4 +849,4 @@ Business:
 
 ## 🛡️ Security & Verification
 
-### Wick B
+### Wick Bot
