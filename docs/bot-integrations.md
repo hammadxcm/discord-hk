@@ -851,4 +851,4 @@ Business:
 
 ### Wick Bot
 
-#### 🔒 Advanced Secu
+#### 🔒 Advanced Security
