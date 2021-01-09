@@ -849,4 +849,4 @@ Business:
 
 ## 🛡️ Security & Verification
 
-### Wi
+### Wick
