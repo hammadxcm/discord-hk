@@ -14,4 +14,4 @@ DISCORD_GUILD_ID=your_guild_id_here
 
 ### 2. **Run the Setup Script**
 ```bash
-# Opti
+# Option 1:
