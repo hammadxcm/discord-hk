@@ -852,4 +852,4 @@ Business:
 ### Wick Bot
 
 #### 🔒 Advanced Security
-```
+```yaml
