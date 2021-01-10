@@ -15,4 +15,6 @@ DISCORD_GUILD_ID=your_guild_id_here
 ### 2. **Run the Setup Script**
 ```bash
 # Option 1: JavaScript version
-npm run setup-serv
+npm run setup-server
+
+# 
