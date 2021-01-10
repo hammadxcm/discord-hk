@@ -17,4 +17,4 @@ DISCORD_GUILD_ID=your_guild_id_here
 # Option 1: JavaScript version
 npm run setup-server
 
-# Option 2: TypeSc
+# Option 2: TypeScript 
