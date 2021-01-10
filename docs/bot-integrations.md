@@ -854,4 +854,4 @@ Business:
 #### 🔒 Advanced Security
 ```yaml
 Features:
-  - Anti-nuke protect
+  - Anti-nuke protection
