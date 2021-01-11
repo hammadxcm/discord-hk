@@ -856,4 +856,4 @@ Business:
 Features:
   - Anti-nuke protection
   - Advanced raid detection
-  - Account age verifi
+  - Account age verificat
