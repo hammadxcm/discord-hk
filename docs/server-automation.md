@@ -19,4 +19,5 @@ npm run setup-server
 
 # Option 2: TypeScript version  
 npm run setup-server-ts
-`
+```
+
