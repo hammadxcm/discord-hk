@@ -855,4 +855,4 @@ Business:
 ```yaml
 Features:
   - Anti-nuke protection
-  - Advanced raid de
+  - Advanced raid detect
