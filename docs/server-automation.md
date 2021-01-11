@@ -18,4 +18,5 @@ DISCORD_GUILD_ID=your_guild_id_here
 npm run setup-server
 
 # Option 2: TypeScript version  
-npm run setup-server
+npm run setup-server-ts
+`
