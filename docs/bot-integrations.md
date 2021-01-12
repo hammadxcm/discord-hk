@@ -858,4 +858,4 @@ Features:
   - Advanced raid detection
   - Account age verification
   - Mass ban protection
-  - Backup system integra
+  - Backup system integration
