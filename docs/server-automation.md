@@ -23,4 +23,4 @@ npm run setup-server-ts
 
 ### 3. **What Gets Created**
 The script will automatically create:
-- ✅ **10 R
+- ✅ **10 Role
