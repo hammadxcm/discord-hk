@@ -858,3 +858,4 @@ Features:
   - Advanced raid detection
   - Account age verification
   - Mass ban protection
+  - B
