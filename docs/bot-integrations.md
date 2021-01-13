@@ -861,4 +861,4 @@ Features:
   - Backup system integration
 ```
 
-### Captch
+### Captcha Bot
