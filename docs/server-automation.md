@@ -22,4 +22,4 @@ npm run setup-server-ts
 ```
 
 ### 3. **What Gets Created**
-The script will automatical
+The script will automatically 
