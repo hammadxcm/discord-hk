@@ -866,4 +866,4 @@ Features:
 #### ✅ Verification System
 ```yaml
 Setup:
-  1. Create #verification 
+  1. Create #verification chan
