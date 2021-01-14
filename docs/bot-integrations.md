@@ -864,4 +864,4 @@ Features:
 ### Captcha Bot
 
 #### ✅ Verification System
-``
+```yaml
