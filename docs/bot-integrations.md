@@ -867,4 +867,4 @@ Features:
 ```yaml
 Setup:
   1. Create #verification channel
-  2. Set unv
+  2. Set unverif
