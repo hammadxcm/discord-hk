@@ -867,3 +867,4 @@ Features:
 ```yaml
 Setup:
   1. Create #verification channel
+  2.
