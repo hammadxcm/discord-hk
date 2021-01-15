@@ -868,4 +868,4 @@ Features:
 Setup:
   1. Create #verification channel
   2. Set unverified role: @Unverified
- 
+  3. Co
