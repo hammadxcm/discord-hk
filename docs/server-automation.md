@@ -25,4 +25,4 @@ npm run setup-server-ts
 The script will automatically create:
 - ✅ **10 Roles** with proper hierarchy and permissions
 - ✅ **32 Channels** organized in 6 categories
-- ✅ **Proper permissions** for staff and member chan
+- ✅ **Proper permissions** for staff and member channels
