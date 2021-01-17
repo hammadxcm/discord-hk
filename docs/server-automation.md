@@ -28,4 +28,6 @@ The script will automatically create:
 - ✅ **Proper permissions** for staff and member channels
 - ✅ **Read-only channels** for rules and announcements
 
-## 🎭 Roles Create
+## 🎭 Roles Created
+
+#
