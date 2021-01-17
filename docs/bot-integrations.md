@@ -872,4 +872,4 @@ Setup:
   4. Set timeout duration: 10 minutes
 ```
 
-## 📱 Mobile-O
+## 📱 Mobile-Optimiz
