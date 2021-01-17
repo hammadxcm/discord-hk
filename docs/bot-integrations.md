@@ -874,4 +874,4 @@ Setup:
 
 ## 📱 Mobile-Optimized Bots
 
-### Mobile-F
+### Mobile-Friendly
