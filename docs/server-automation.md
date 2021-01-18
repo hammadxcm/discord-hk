@@ -26,4 +26,4 @@ The script will automatically create:
 - ✅ **10 Roles** with proper hierarchy and permissions
 - ✅ **32 Channels** organized in 6 categories
 - ✅ **Proper permissions** for staff and member channels
-- ✅ **Read-only channels** for rules and announce
+- ✅ **Read-only channels** for rules and announcement
