@@ -877,4 +877,4 @@ Setup:
 ### Mobile-Friendly Features
 ```yaml
 Considerations:
-  - Short comm
+  - Short command 
