@@ -876,4 +876,5 @@ Setup:
 
 ### Mobile-Friendly Features
 ```yaml
-Considerations
+Considerations:
+  - 
