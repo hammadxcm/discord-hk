@@ -875,4 +875,5 @@ Setup:
 ## 📱 Mobile-Optimized Bots
 
 ### Mobile-Friendly Features
-```y
+```yaml
+Co
