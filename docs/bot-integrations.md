@@ -880,4 +880,4 @@ Considerations:
   - Short command names
   - Clear button interfaces  
   - Minimal text walls
-  -
+  - Voice-fr
