@@ -879,4 +879,5 @@ Setup:
 Considerations:
   - Short command names
   - Clear button interfaces  
-  - Minimal text 
+  - Minimal text walls
+  -
