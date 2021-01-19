@@ -30,4 +30,4 @@ The script will automatically create:
 
 ## 🎭 Roles Created
 
-### **Role Hierarch
+### **Role Hierarchy (Top to 
