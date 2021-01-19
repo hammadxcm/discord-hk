@@ -879,4 +879,4 @@ Setup:
 Considerations:
   - Short command names
   - Clear button interfaces  
-  - Mini
+  - Minimal text 
