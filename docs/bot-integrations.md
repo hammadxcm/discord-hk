@@ -878,4 +878,4 @@ Setup:
 ```yaml
 Considerations:
   - Short command names
-  - Clear button i
+  - Clear button inter
