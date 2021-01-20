@@ -880,4 +880,5 @@ Considerations:
   - Short command names
   - Clear button interfaces  
   - Minimal text walls
-  - Voice-friendly co
+  - Voice-friendly commands
+  
