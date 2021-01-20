@@ -881,4 +881,5 @@ Considerations:
   - Clear button interfaces  
   - Minimal text walls
   - Voice-friendly commands
-  - Touch-friendly reaction
+  - Touch-friendly reactions
+`
