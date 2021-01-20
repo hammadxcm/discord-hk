@@ -34,4 +34,6 @@ The script will automatically create:
 ```yaml
 👑 Server Owner (Green)
   - Administrator permissions
-  - Position: 1
+  - Position: 10
+
+🛡️
