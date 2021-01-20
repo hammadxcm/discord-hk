@@ -33,4 +33,4 @@ The script will automatically create:
 ### **Role Hierarchy (Top to Bottom):**
 ```yaml
 👑 Server Owner (Green)
-  - Adminis
+  - Administrator
