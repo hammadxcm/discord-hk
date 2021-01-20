@@ -32,4 +32,4 @@ The script will automatically create:
 
 ### **Role Hierarchy (Top to Bottom):**
 ```yaml
-👑 Server O
+👑 Server Owner (
