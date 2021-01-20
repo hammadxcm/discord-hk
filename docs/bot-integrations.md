@@ -882,4 +882,4 @@ Considerations:
   - Minimal text walls
   - Voice-friendly commands
   - Touch-friendly reactions
-`
+```
