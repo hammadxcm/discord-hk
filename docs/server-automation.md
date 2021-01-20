@@ -37,4 +37,4 @@ The script will automatically create:
   - Position: 10
 
 🛡️ Administrator (Red) 
-  - Full ser
+  - Full server ma
