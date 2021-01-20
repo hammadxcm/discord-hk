@@ -37,3 +37,4 @@ The script will automatically create:
   - Position: 10
 
 🛡️ Administrator (Red) 
+  - Fu
