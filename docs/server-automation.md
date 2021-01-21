@@ -41,4 +41,4 @@ The script will automatically create:
   - Position: 9
 
 🔨 Moderator (Blue)
-  - 
+  - Kick, b
