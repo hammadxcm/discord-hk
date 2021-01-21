@@ -884,4 +884,4 @@ Considerations:
   - Touch-friendly reactions
 ```
 
-## 🔄 Bot Management Best Prac
+## 🔄 Bot Management Best Practic
