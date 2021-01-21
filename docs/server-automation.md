@@ -36,4 +36,4 @@ The script will automatically create:
   - Administrator permissions
   - Position: 10
 
-🛡️
+🛡️ Admini
