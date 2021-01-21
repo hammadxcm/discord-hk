@@ -40,4 +40,5 @@ The script will automatically create:
   - Full server management
   - Position: 9
 
-🔨 Moderator (Blu
+🔨 Moderator (Blue)
+  - 
