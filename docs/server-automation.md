@@ -37,4 +37,5 @@ The script will automatically create:
   - Position: 10
 
 🛡️ Administrator (Red) 
-  - Full server manageme
+  - Full server management
+  -
