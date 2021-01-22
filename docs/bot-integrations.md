@@ -886,4 +886,4 @@ Considerations:
 
 ## 🔄 Bot Management Best Practices
 
-### Permission Mana
+### Permission Manage
