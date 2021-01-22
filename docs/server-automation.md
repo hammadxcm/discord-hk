@@ -43,3 +43,5 @@ The script will automatically create:
 🔨 Moderator (Blue)
   - Kick, ban, manage messages
   - Position: 8
+
+👮 H
