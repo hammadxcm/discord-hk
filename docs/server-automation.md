@@ -44,4 +44,4 @@ The script will automatically create:
   - Kick, ban, manage messages
   - Position: 8
 
-👮 H
+👮 Helpe
