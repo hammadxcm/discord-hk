@@ -38,4 +38,4 @@ The script will automatically create:
 
 🛡️ Administrator (Red) 
   - Full server management
-  -
+  - Positio
