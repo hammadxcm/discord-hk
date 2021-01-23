@@ -888,4 +888,4 @@ Considerations:
 
 ### Permission Management
 ```yaml
-Bot Hierar
+Bot Hierarchy
