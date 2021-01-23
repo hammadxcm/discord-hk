@@ -889,4 +889,4 @@ Considerations:
 ### Permission Management
 ```yaml
 Bot Hierarchy:
-  1. Sec
+  1. Security bots
