@@ -889,4 +889,5 @@ Considerations:
 ### Permission Management
 ```yaml
 Bot Hierarchy:
-  1. Security bots (Wick) - 
+  1. Security bots (Wick) - Highest
+  
