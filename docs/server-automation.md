@@ -42,4 +42,4 @@ The script will automatically create:
 
 🔨 Moderator (Blue)
   - Kick, ban, manage messages
-  - Pos
+  - Position
