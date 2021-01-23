@@ -45,4 +45,4 @@ The script will automatically create:
   - Position: 8
 
 👮 Helper (Cyan)
-  - Manage messa
+  - Manage messages,
