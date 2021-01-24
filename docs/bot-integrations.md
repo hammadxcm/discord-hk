@@ -890,4 +890,4 @@ Considerations:
 ```yaml
 Bot Hierarchy:
   1. Security bots (Wick) - Highest
-  
+  2. Moderat
