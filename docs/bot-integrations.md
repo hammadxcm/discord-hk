@@ -890,4 +890,5 @@ Considerations:
 ```yaml
 Bot Hierarchy:
   1. Security bots (Wick) - Highest
-  2. Moderation bots (MEE6, Carl-bot
+  2. Moderation bots (MEE6, Carl-bot)
+  3.
