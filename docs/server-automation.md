@@ -46,4 +46,5 @@ The script will automatically create:
 
 👮 Helper (Cyan)
   - Manage messages, timeout members
-  - Position: 
+  - Position: 7
+
