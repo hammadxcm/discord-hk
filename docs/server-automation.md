@@ -49,4 +49,4 @@ The script will automatically create:
   - Position: 7
 
 🎖️ VIP (Gold)
-  - Enhanced
+  - Enhanced permissio
