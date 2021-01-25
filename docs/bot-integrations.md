@@ -891,4 +891,5 @@ Considerations:
 Bot Hierarchy:
   1. Security bots (Wick) - Highest
   2. Moderation bots (MEE6, Carl-bot)
-  3. Utility bots (Dyno, YAG
+  3. Utility bots (Dyno, YAGPDB)
+ 
