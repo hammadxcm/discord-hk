@@ -50,4 +50,5 @@ The script will automatically create:
 
 🎖️ VIP (Gold)
   - Enhanced permissions
-  - Pos
+  - Position: 6
+
