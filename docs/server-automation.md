@@ -52,4 +52,5 @@ The script will automatically create:
   - Enhanced permissions
   - Position: 6
 
-⭐ Nitro Booster (Pi
+⭐ Nitro Booster (Pink)
+  - S
