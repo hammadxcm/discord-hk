@@ -896,4 +896,5 @@ Bot Hierarchy:
   5. Specialty bots (Lowest)
 ```
 
-### Performance Mon
+### Performance Monitoring
+```
