@@ -893,4 +893,5 @@ Bot Hierarchy:
   2. Moderation bots (MEE6, Carl-bot)
   3. Utility bots (Dyno, YAGPDB)
   4. Entertainment bots (Dank Memer, Music)
-  5. Specialty bots (Lowes
+  5. Specialty bots (Lowest)
+`
