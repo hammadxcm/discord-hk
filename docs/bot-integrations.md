@@ -894,4 +894,5 @@ Bot Hierarchy:
   3. Utility bots (Dyno, YAGPDB)
   4. Entertainment bots (Dank Memer, Music)
   5. Specialty bots (Lowest)
-`
+```
+
