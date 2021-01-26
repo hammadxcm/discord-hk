@@ -54,4 +54,6 @@ The script will automatically create:
 
 ⭐ Nitro Booster (Pink)
   - Special booster perks
-  - Position: 
+  - Position: 5
+
+🎵
