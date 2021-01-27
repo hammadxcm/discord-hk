@@ -900,4 +900,4 @@ Bot Hierarchy:
 ```yaml
 Regular Checks:
   - Bot response times
-  - Command succe
+  - Command success rate
