@@ -61,4 +61,5 @@ The script will automatically create:
   - Position: 4
 
 🎮 Gamer (Green)
-  - Gaming-focuse
+  - Gaming-focused role
+ 
