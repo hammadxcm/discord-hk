@@ -58,4 +58,4 @@ The script will automatically create:
 
 🎵 DJ (Purple)
   - Music bot permissions
-  - Pos
+  - Position: 4
