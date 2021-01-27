@@ -56,4 +56,4 @@ The script will automatically create:
   - Special booster perks
   - Position: 5
 
-🎵 DJ 
+🎵 DJ (Pur
