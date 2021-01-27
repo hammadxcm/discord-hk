@@ -57,4 +57,4 @@ The script will automatically create:
   - Position: 5
 
 🎵 DJ (Purple)
-  -
+  - Mus
