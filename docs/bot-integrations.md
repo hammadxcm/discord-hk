@@ -899,4 +899,5 @@ Bot Hierarchy:
 ### Performance Monitoring
 ```yaml
 Regular Checks:
-  - Bot response ti
+  - Bot response times
+  -
