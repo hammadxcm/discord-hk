@@ -53,4 +53,4 @@ The script will automatically create:
   - Position: 6
 
 ⭐ Nitro Booster (Pink)
-  - Special boo
+  - Special booster 
