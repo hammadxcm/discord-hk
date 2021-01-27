@@ -57,4 +57,5 @@ The script will automatically create:
   - Position: 5
 
 🎵 DJ (Purple)
-  - Music bot permission
+  - Music bot permissions
+  - Pos
