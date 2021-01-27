@@ -60,4 +60,5 @@ The script will automatically create:
   - Music bot permissions
   - Position: 4
 
-🎮 Gamer 
+🎮 Gamer (Green)
+ 
