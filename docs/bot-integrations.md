@@ -902,4 +902,4 @@ Regular Checks:
   - Bot response times
   - Command success rates
   - Error log reviews
-  - Permiss
+  - Permission aud
