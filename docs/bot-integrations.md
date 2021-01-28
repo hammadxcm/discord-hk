@@ -901,4 +901,4 @@ Bot Hierarchy:
 Regular Checks:
   - Bot response times
   - Command success rates
-  - Error lo
+  - Error log revie
