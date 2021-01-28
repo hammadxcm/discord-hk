@@ -61,4 +61,4 @@ The script will automatically create:
   - Position: 4
 
 🎮 Gamer (Green)
-  - Gamin
+  - Gaming-focuse
