@@ -62,4 +62,4 @@ The script will automatically create:
 
 🎮 Gamer (Green)
   - Gaming-focused role
-  - Positio
+  - Position:
