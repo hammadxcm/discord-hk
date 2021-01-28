@@ -59,3 +59,5 @@ The script will automatically create:
 🎵 DJ (Purple)
   - Music bot permissions
   - Position: 4
+
+🎮 Gamer 
