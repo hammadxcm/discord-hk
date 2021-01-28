@@ -902,4 +902,5 @@ Regular Checks:
   - Bot response times
   - Command success rates
   - Error log reviews
-  - Permission aud
+  - Permission audits
+  - 
