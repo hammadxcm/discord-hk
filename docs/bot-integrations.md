@@ -908,4 +908,5 @@ Regular Checks:
 
 ### Backup Strategies
 ```yaml
-Redundan
+Redundancy:
+  
