@@ -66,4 +66,5 @@ The script will automatically create:
 
 👤 Member (Discord Blue)
   - Basic member permissions
-  - Positi
+  - Position: 2
+
