@@ -906,4 +906,4 @@ Regular Checks:
   - Feature usage analytics
 ```
 
-### Backup St
+### Backup Strategie
