@@ -64,4 +64,4 @@ The script will automatically create:
   - Gaming-focused role
   - Position: 3
 
-👤 Member
+👤 Member (
