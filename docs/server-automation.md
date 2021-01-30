@@ -64,4 +64,5 @@ The script will automatically create:
   - Gaming-focused role
   - Position: 3
 
-👤 Member (Discord Blu
+👤 Member (Discord Blue)
+  - 
