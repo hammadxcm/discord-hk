@@ -68,4 +68,4 @@ The script will automatically create:
   - Basic member permissions
   - Position: 2
 
-🔇 Mute
+🔇 Muted (
