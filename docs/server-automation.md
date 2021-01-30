@@ -69,4 +69,4 @@ The script will automatically create:
   - Position: 2
 
 🔇 Muted (Gray)
-  - Restricted
+  - Restricted p
