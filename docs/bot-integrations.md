@@ -909,4 +909,4 @@ Regular Checks:
 ### Backup Strategies
 ```yaml
 Redundancy:
-  - Multiple m
+  - Multiple moderat
