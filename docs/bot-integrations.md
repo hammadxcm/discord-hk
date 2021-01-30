@@ -910,4 +910,5 @@ Regular Checks:
 ```yaml
 Redundancy:
   - Multiple moderation bots
-  - Backup music 
+  - Backup music bots
+  - Al
