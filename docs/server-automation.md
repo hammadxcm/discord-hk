@@ -65,4 +65,4 @@ The script will automatically create:
   - Position: 3
 
 👤 Member (Discord Blue)
-  - Basic m
+  - Basic member p
