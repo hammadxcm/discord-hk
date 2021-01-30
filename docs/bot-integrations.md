@@ -911,4 +911,4 @@ Regular Checks:
 Redundancy:
   - Multiple moderation bots
   - Backup music bots
-  - Al
+  - Alternative 
