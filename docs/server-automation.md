@@ -73,4 +73,4 @@ The script will automatically create:
   - Position: 1
 ```
 
-## 📁 Channel Str
+## 📁 Channel Structu
