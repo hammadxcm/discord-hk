@@ -912,4 +912,4 @@ Redundancy:
   - Multiple moderation bots
   - Backup music bots
   - Alternative welcome systems
-  - 
+  - Manual ove
