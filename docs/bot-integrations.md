@@ -911,4 +911,5 @@ Regular Checks:
 Redundancy:
   - Multiple moderation bots
   - Backup music bots
-  - Alternative welcome sy
+  - Alternative welcome systems
+  - 
