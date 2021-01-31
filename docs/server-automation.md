@@ -70,4 +70,5 @@ The script will automatically create:
 
 🔇 Muted (Gray)
   - Restricted permissions
-  - Position:
+  - Position: 1
+`
