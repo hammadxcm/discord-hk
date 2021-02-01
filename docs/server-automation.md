@@ -75,4 +75,4 @@ The script will automatically create:
 
 ## 📁 Channel Structure Created
 
-### **📋 INF
+### **📋 INFORMAT
