@@ -915,4 +915,4 @@ Redundancy:
   - Manual override procedures
 ```
 
-## 🚀 Advance
+## 🚀 Advanced Int
