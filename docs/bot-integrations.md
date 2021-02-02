@@ -917,4 +917,4 @@ Redundancy:
 
 ## 🚀 Advanced Integration Tips
 
-### Cross
+### Cross-Bot
