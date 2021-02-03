@@ -921,4 +921,4 @@ Redundancy:
 ```yaml
 Examples:
   - MEE6 levels → Carl-bot reaction roles
-  - Dyno auto-role
+  - Dyno auto-role → V
