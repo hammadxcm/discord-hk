@@ -76,4 +76,5 @@ The script will automatically create:
 ## 📁 Channel Structure Created
 
 ### **📋 INFORMATION Category**
-- `📜-rules` (Read-only for member
+- `📜-rules` (Read-only for members)
+- `
