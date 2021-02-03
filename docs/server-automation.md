@@ -77,4 +77,4 @@ The script will automatically create:
 
 ### **📋 INFORMATION Category**
 - `📜-rules` (Read-only for members)
-- `📢-announcements` (Read-only 
+- `📢-announcements` (Read-only for m
