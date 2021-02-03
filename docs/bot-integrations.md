@@ -920,4 +920,4 @@ Redundancy:
 ### Cross-Bot Synergy
 ```yaml
 Examples:
-  - MEE6 levels → Carl-bot reaction 
+  - MEE6 levels → Carl-bot reaction role
