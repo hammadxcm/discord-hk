@@ -80,4 +80,4 @@ The script will automatically create:
 - `📢-announcements` (Read-only for members)
 - `🎉-welcome`
 - `📊-server-stats`
-- `🔗-useful-lin
+- `🔗-useful-links`
