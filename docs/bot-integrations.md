@@ -922,4 +922,4 @@ Redundancy:
 Examples:
   - MEE6 levels → Carl-bot reaction roles
   - Dyno auto-role → Verification system
-  - Music bot DJ ro
+  - Music bot DJ role → Levelin
