@@ -79,4 +79,4 @@ The script will automatically create:
 - `📜-rules` (Read-only for members)
 - `📢-announcements` (Read-only for members)
 - `🎉-welcome`
-- `📊-server-stat
+- `📊-server-stats`
