@@ -83,4 +83,5 @@ The script will automatically create:
 - `🔗-useful-links`
 
 ### **💬 GENERAL CHAT Category**
-- `💬-general
+- `💬-general`
+-
