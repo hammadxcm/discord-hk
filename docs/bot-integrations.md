@@ -927,4 +927,4 @@ Examples:
 ```
 
 ### Custom Bot Development
-For fea
+For features not c
