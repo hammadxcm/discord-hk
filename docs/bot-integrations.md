@@ -927,4 +927,4 @@ Examples:
 ```
 
 ### Custom Bot Development
-For features not cove
+For features not covered
