@@ -926,4 +926,5 @@ Examples:
   - Giveaway requirements → Activity tracking
 ```
 
-### Custom Bot Developm
+### Custom Bot Development
+For fea
