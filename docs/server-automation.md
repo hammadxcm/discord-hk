@@ -86,4 +86,4 @@ The script will automatically create:
 - `💬-general`
 - `🎮-gaming`
 - `🎵-music-chat`
-- `🤖-bot-comm
+- `🤖-bot-commands`
