@@ -89,4 +89,4 @@ The script will automatically create:
 - `🤖-bot-commands`
 - `🗑️-spam`
 
-### **🎮 GAMI
+### **🎮 GAMING Catego
