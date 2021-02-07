@@ -927,4 +927,4 @@ Examples:
 ```
 
 ### Custom Bot Development
-For features not covered by existing bots, c
+For features not covered by existing bots, con
