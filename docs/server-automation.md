@@ -87,4 +87,6 @@ The script will automatically create:
 - `🎮-gaming`
 - `🎵-music-chat`
 - `🤖-bot-commands`
-- `🗑️-s
+- `🗑️-spam`
+
+###
