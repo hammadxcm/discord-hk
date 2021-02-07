@@ -85,4 +85,4 @@ The script will automatically create:
 ### **💬 GENERAL CHAT Category**
 - `💬-general`
 - `🎮-gaming`
-- `🎵-
+- `🎵-music
