@@ -927,4 +927,4 @@ Examples:
 ```
 
 ### Custom Bot Development
-For features not covered by existing bots, consider developing a custom bot usi
+For features not covered by existing bots, consider developing a custom bot using th
