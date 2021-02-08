@@ -89,4 +89,5 @@ The script will automatically create:
 - `🤖-bot-commands`
 - `🗑️-spam`
 
-### **🎮 GAMING Catego
+### **🎮 GAMING Category**
+- `🎯
