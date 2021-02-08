@@ -92,4 +92,6 @@ The script will automatically create:
 ### **🎮 GAMING Category**
 - `🎯-looking-for-group`
 - `🏆-achievements`
-- `📺-stream
+- `📺-streams`
+
+##
