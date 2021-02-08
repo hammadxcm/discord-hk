@@ -90,4 +90,5 @@ The script will automatically create:
 - `🗑️-spam`
 
 ### **🎮 GAMING Category**
-- `🎯-looking-for-group
+- `🎯-looking-for-group`
+- `🏆-a
