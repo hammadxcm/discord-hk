@@ -96,4 +96,4 @@ The script will automatically create:
 
 ### **🔊 VOICE CHANNELS Category**
 - `🎵 Music Room`
-- `🎮 Gaming Loung
+- `🎮 Gaming Lounge`
