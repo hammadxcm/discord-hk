@@ -96,3 +96,4 @@ The script will automatically create:
 
 ### **🔊 VOICE CHANNELS Category**
 - `🎵 Music Room`
+- `
