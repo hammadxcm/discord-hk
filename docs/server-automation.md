@@ -95,4 +95,4 @@ The script will automatically create:
 - `📺-streams`
 
 ### **🔊 VOICE CHANNELS Category**
-- 
+- `🎵 
