@@ -99,4 +99,4 @@ The script will automatically create:
 - `🎮 Gaming Lounge`
 - `📞 General Voice`
 - `🔒 Private Room 1`
-- `🔒 
+- `🔒 Private R
