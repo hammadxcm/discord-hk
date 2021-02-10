@@ -929,4 +929,4 @@ Examples:
 ### Custom Bot Development
 For features not covered by existing bots, consider developing a custom bot using the TypeScript framework in this repository.
 
-## ⚙️ Enhanced Configuration Templ
+## ⚙️ Enhanced Configuration Templat
