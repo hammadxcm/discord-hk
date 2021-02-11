@@ -933,4 +933,4 @@ For features not covered by existing bots, consider developing a custom bot usin
 
 ### Small Server (< 100 members)
 ```yaml
-Es
+Essential
