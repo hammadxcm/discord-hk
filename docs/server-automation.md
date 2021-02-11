@@ -101,3 +101,4 @@ The script will automatically create:
 - `🔒 Private Room 1`
 - `🔒 Private Room 2`
 
+### **
