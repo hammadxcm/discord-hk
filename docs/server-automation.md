@@ -98,4 +98,4 @@ The script will automatically create:
 - `🎵 Music Room`
 - `🎮 Gaming Lounge`
 - `📞 General Voice`
-- `🔒 Pri
+- `🔒 Private Room
