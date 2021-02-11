@@ -931,4 +931,5 @@ For features not covered by existing bots, consider developing a custom bot usin
 
 ## ⚙️ Enhanced Configuration Templates
 
-### Small Server (< 100 membe
+### Small Server (< 100 members)
+```
