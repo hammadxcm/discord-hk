@@ -935,4 +935,4 @@ For features not covered by existing bots, consider developing a custom bot usin
 ```yaml
 Essential Bots (5-8 bots):
   Core:
-    - MEE6 (leveling + basic mo
+    - MEE6 (leveling + basic moderat
