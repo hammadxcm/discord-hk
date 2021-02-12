@@ -102,4 +102,4 @@ The script will automatically create:
 - `🔒 Private Room 2`
 
 ### **🎭 COMMUNITY Category**
--
+- `🎨-me
