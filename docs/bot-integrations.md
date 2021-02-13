@@ -937,4 +937,5 @@ Essential Bots (5-8 bots):
   Core:
     - MEE6 (leveling + basic moderation)
     - Carl-bot (reaction roles + automod)
-    - Jockie Music (music streamin
+    - Jockie Music (music streaming)
+  
