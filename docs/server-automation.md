@@ -104,4 +104,5 @@ The script will automatically create:
 ### **🎭 COMMUNITY Category**
 - `🎨-media-sharing`
 - `💡-suggestions`
-- `🎁-giveaway
+- `🎁-giveaways`
+- `🎊
