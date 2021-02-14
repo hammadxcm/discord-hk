@@ -940,3 +940,4 @@ Essential Bots (5-8 bots):
     - Jockie Music (music streaming)
     - GiveawayBot (community engagement)
   
+  Optional
