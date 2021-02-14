@@ -938,4 +938,4 @@ Essential Bots (5-8 bots):
     - MEE6 (leveling + basic moderation)
     - Carl-bot (reaction roles + automod)
     - Jockie Music (music streaming)
-    - GiveawayBot
+    - GiveawayBot (com
