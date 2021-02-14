@@ -108,4 +108,4 @@ The script will automatically create:
 - `🎊-events`
 
 ### **🛠️ MODERATION Category** (Staff Only)
-- `📝-mod-
+- `📝-mod-logs` 
