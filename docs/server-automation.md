@@ -105,4 +105,4 @@ The script will automatically create:
 - `🎨-media-sharing`
 - `💡-suggestions`
 - `🎁-giveaways`
-- `🎊
+- `🎊-events
