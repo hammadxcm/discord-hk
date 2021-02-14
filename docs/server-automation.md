@@ -107,4 +107,5 @@ The script will automatically create:
 - `🎁-giveaways`
 - `🎊-events`
 
-### **🛠️ MODERATION Category** (Staff Onl
+### **🛠️ MODERATION Category** (Staff Only)
+- `
