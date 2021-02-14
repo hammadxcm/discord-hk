@@ -939,3 +939,4 @@ Essential Bots (5-8 bots):
     - Carl-bot (reaction roles + automod)
     - Jockie Music (music streaming)
     - GiveawayBot (community engagement)
+  
