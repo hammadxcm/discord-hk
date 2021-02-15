@@ -111,4 +111,4 @@ The script will automatically create:
 - `📝-mod-logs` (Staff only)
 - `🚨-reports` (Staff only)
 - `🎫-tickets`
-- `👮-staff-
+- `👮-staff-chat` 
