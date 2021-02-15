@@ -941,4 +941,5 @@ Essential Bots (5-8 bots):
     - GiveawayBot (community engagement)
   
   Optional:
-    - Dank Memer (fun + ec
+    - Dank Memer (fun + economy)
+  
