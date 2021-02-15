@@ -942,4 +942,4 @@ Essential Bots (5-8 bots):
   
   Optional:
     - Dank Memer (fun + economy)
-    - Steam
+    - Steam Bot (gamin
