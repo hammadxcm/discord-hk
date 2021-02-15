@@ -110,4 +110,4 @@ The script will automatically create:
 ### **🛠️ MODERATION Category** (Staff Only)
 - `📝-mod-logs` (Staff only)
 - `🚨-reports` (Staff only)
--
+- `🎫-ti
