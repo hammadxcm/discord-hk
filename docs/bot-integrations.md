@@ -943,4 +943,5 @@ Essential Bots (5-8 bots):
   Optional:
     - Dank Memer (fun + economy)
     - Steam Bot (gaming integration)
-    - Reminder Bot (scheduli
+    - Reminder Bot (scheduling)
+    
