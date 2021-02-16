@@ -112,3 +112,5 @@ The script will automatically create:
 - `🚨-reports` (Staff only)
 - `🎫-tickets`
 - `👮-staff-chat` (Staff only)
+
+## 🔒
