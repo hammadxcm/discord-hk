@@ -947,4 +947,4 @@ Essential Bots (5-8 bots):
     - Weather Bot (utility)
 ```
 
-##
+### Mediu
