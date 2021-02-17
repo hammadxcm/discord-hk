@@ -113,4 +113,4 @@ The script will automatically create:
 - `🎫-tickets`
 - `👮-staff-chat` (Staff only)
 
-## 🔒 Permissions
+## 🔒 Permissions Setup
