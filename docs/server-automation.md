@@ -116,4 +116,5 @@ The script will automatically create:
 ## 🔒 Permissions Setup
 
 ### **Staff Channels (Moderator+ Only):**
-- `📝-mod-log
+- `📝-mod-logs`
+- 
