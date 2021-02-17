@@ -115,4 +115,4 @@ The script will automatically create:
 
 ## 🔒 Permissions Setup
 
-### **Staff Channels (Mo
+### **Staff Channels (Moderat
