@@ -114,3 +114,5 @@ The script will automatically create:
 - `👮-staff-chat` (Staff only)
 
 ## 🔒 Permissions Setup
+
+### 
