@@ -117,4 +117,4 @@ The script will automatically create:
 
 ### **Staff Channels (Moderator+ Only):**
 - `📝-mod-logs`
-- 
+- `🚨-re
