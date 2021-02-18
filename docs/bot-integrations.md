@@ -950,4 +950,5 @@ Essential Bots (5-8 bots):
 ### Medium Server (100-1000 members)  
 ```yaml
 Recommended Bots (10-15 bots):
-  Core Modera
+  Core Moderation:
+ 
