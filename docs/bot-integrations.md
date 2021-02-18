@@ -949,4 +949,4 @@ Essential Bots (5-8 bots):
 
 ### Medium Server (100-1000 members)  
 ```yaml
-Recommended Bot
+Recommended Bots (
