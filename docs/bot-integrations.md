@@ -951,4 +951,4 @@ Essential Bots (5-8 bots):
 ```yaml
 Recommended Bots (10-15 bots):
   Core Moderation:
- 
+    - ME
