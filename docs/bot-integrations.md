@@ -953,4 +953,4 @@ Recommended Bots (10-15 bots):
   Core Moderation:
     - MEE6 + Carl-bot + Dyno
     - Wick Bot (security)
- 
+    - Tic
