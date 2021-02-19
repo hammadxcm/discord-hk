@@ -120,4 +120,4 @@ The script will automatically create:
 - `🚨-reports`
 - `👮-staff-chat`
 
-### **Re
+### **Read-Only Cha
