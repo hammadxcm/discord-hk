@@ -121,4 +121,4 @@ The script will automatically create:
 - `👮-staff-chat`
 
 ### **Read-Only Channels:**
-- `📜-rules` (
+- `📜-rules` (Members can
