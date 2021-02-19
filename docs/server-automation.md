@@ -118,4 +118,6 @@ The script will automatically create:
 ### **Staff Channels (Moderator+ Only):**
 - `📝-mod-logs`
 - `🚨-reports`
-- `👮-staff-chat
+- `👮-staff-chat`
+
+### **Re
