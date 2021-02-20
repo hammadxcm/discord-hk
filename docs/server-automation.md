@@ -122,4 +122,4 @@ The script will automatically create:
 
 ### **Read-Only Channels:**
 - `📜-rules` (Members can read/react only)
-- `📢-announcements` (Members c
+- `📢-announcements` (Members can rea
