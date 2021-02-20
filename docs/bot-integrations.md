@@ -956,4 +956,4 @@ Recommended Bots (10-15 bots):
     - TicketTool (support)
   
   Entertainment:
-    - Mus
+    - Music b
