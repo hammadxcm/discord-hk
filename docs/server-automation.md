@@ -124,4 +124,4 @@ The script will automatically create:
 - `📜-rules` (Members can read/react only)
 - `📢-announcements` (Members can read/react only)
 
-### **Role Perm
+### **Role Permission
