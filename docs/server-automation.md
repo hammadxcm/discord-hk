@@ -126,4 +126,4 @@ The script will automatically create:
 
 ### **Role Permissions:**
 - **Server Owner**: Administrator
-- *
+- **Ad
