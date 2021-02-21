@@ -957,4 +957,4 @@ Recommended Bots (10-15 bots):
   
   Entertainment:
     - Music bot + Dank Memer
-    - Pokétwo or Mudae (g
+    - Pokétwo or Mudae (games)
