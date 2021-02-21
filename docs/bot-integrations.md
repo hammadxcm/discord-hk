@@ -956,4 +956,4 @@ Recommended Bots (10-15 bots):
     - TicketTool (support)
   
   Entertainment:
-    - Music bot + Dank
+    - Music bot + Dank Me
