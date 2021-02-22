@@ -959,4 +959,4 @@ Recommended Bots (10-15 bots):
     - Music bot + Dank Memer
     - Pokétwo or Mudae (games)
     - Trivia Bot (engagement)
-    - UNO 
+    - UNO Bot (multi
