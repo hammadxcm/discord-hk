@@ -125,4 +125,4 @@ The script will automatically create:
 - `📢-announcements` (Members can read/react only)
 
 ### **Role Permissions:**
-- **Server Owner**: Admin
+- **Server Owner**: Administr
