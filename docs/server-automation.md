@@ -126,4 +126,5 @@ The script will automatically create:
 
 ### **Role Permissions:**
 - **Server Owner**: Administrator
-- **Administrator**: Full management except owner transf
+- **Administrator**: Full management except owner transfer
+-
