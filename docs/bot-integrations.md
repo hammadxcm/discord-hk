@@ -961,4 +961,5 @@ Recommended Bots (10-15 bots):
     - Trivia Bot (engagement)
     - UNO Bot (multiplayer fun)
   
-  Uti
+  Utility:
+   
