@@ -962,4 +962,4 @@ Recommended Bots (10-15 bots):
     - UNO Bot (multiplayer fun)
   
   Utility:
-    - GitHub Bot (dev
+    - GitHub Bot (development)
