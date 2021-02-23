@@ -127,4 +127,4 @@ The script will automatically create:
 ### **Role Permissions:**
 - **Server Owner**: Administrator
 - **Administrator**: Full management except owner transfer
-- **Moderator**: Kick, ban, man
+- **Moderator**: Kick, ban, manage
