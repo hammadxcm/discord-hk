@@ -964,4 +964,5 @@ Recommended Bots (10-15 bots):
   Utility:
     - GitHub Bot (development)
     - Translator Bot (international)
-    - Poll Bot (d
+    - Poll Bot (decisions)
+  
