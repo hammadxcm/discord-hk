@@ -967,4 +967,5 @@ Recommended Bots (10-15 bots):
     - Poll Bot (decisions)
     - Time Zone Bot (coordination)
   
-  Gamin
+  Gaming:
+  
