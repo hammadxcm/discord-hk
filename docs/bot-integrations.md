@@ -965,4 +965,4 @@ Recommended Bots (10-15 bots):
     - GitHub Bot (development)
     - Translator Bot (international)
     - Poll Bot (decisions)
-    - Time Zon
+    - Time Zone Bot (coor
