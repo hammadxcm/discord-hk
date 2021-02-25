@@ -128,4 +128,4 @@ The script will automatically create:
 - **Server Owner**: Administrator
 - **Administrator**: Full management except owner transfer
 - **Moderator**: Kick, ban, manage messages, view audit log
-- **Helper**: Manage messages, time
+- **Helper**: Manage messages, timeout me
