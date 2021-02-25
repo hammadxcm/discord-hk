@@ -129,4 +129,4 @@ The script will automatically create:
 - **Administrator**: Full management except owner transfer
 - **Moderator**: Kick, ban, manage messages, view audit log
 - **Helper**: Manage messages, timeout members
-- **VI
+- **VIP**
