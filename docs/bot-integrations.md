@@ -969,3 +969,4 @@ Recommended Bots (10-15 bots):
   
   Gaming:
     - Steam Bot + GameStats
+    
