@@ -968,4 +968,4 @@ Recommended Bots (10-15 bots):
     - Time Zone Bot (coordination)
   
   Gaming:
-    - Steam Bot 
+    - Steam Bot + Ga
