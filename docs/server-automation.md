@@ -130,4 +130,4 @@ The script will automatically create:
 - **Moderator**: Kick, ban, manage messages, view audit log
 - **Helper**: Manage messages, timeout members
 - **VIP**: Enhanced chat and voice permissions
-- **Member**: Standard Discor
+- **Member**: Standard Discord permissions
