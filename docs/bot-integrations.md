@@ -973,4 +973,4 @@ Recommended Bots (10-15 bots):
     - Stream notifications
 ```
 
-### Larg
+### Large Serv
