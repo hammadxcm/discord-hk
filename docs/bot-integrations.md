@@ -971,4 +971,4 @@ Recommended Bots (10-15 bots):
     - Steam Bot + GameStats
     - Riot Games integration
     - Stream notifications
-`
+```
