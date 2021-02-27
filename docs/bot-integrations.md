@@ -973,4 +973,4 @@ Recommended Bots (10-15 bots):
     - Stream notifications
 ```
 
-### Large Server (10
+### Large Server (1000+ me
