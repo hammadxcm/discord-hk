@@ -131,4 +131,5 @@ The script will automatically create:
 - **Helper**: Manage messages, timeout members
 - **VIP**: Enhanced chat and voice permissions
 - **Member**: Standard Discord permissions
-- **Muted**: View and read 
+- **Muted**: View and read only
+
