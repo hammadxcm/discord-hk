@@ -136,4 +136,4 @@ The script will automatically create:
 ## 🛠️ Customization
 
 ### **Modify Roles:**
-Edit `scripts/setup-s
+Edit `scripts/setup-serve
