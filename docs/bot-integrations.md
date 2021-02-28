@@ -974,4 +974,5 @@ Recommended Bots (10-15 bots):
 ```
 
 ### Large Server (1000+ members)
-```ya
+```yaml
+Fu
