@@ -133,4 +133,4 @@ The script will automatically create:
 - **Member**: Standard Discord permissions
 - **Muted**: View and read only
 
-## 🛠️ Custom
+## 🛠️ Customizatio
