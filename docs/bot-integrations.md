@@ -975,4 +975,4 @@ Recommended Bots (10-15 bots):
 
 ### Large Server (1000+ members)
 ```yaml
-Full Setup (15-25
+Full Setup (15-25 bots
