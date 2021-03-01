@@ -977,4 +977,4 @@ Recommended Bots (10-15 bots):
 ```yaml
 Full Setup (15-25 bots):
   Advanced Moderation:
-    - M
+    - MEE6 + Carl-
