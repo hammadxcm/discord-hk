@@ -136,4 +136,4 @@ The script will automatically create:
 ## 🛠️ Customization
 
 ### **Modify Roles:**
-Edit `scripts/setup-server.js` and change the `ROLES` a
+Edit `scripts/setup-server.js` and change the `ROLES` arra
