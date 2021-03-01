@@ -138,4 +138,4 @@ The script will automatically create:
 ### **Modify Roles:**
 Edit `scripts/setup-server.js` and change the `ROLES` array:
 
-``
+```ja
