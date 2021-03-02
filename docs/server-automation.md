@@ -139,3 +139,4 @@ The script will automatically create:
 Edit `scripts/setup-server.js` and change the `ROLES` array:
 
 ```javascript
+{
