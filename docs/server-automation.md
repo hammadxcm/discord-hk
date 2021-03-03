@@ -140,4 +140,4 @@ Edit `scripts/setup-server.js` and change the `ROLES` array:
 
 ```javascript
 {
-    name: "Your Cu
+    name: "Your Custom
