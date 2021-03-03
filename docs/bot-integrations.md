@@ -979,4 +979,4 @@ Full Setup (15-25 bots):
   Advanced Moderation:
     - MEE6 + Carl-bot + Dyno (triple redundancy)
     - Wick Bot + Anti-raid systems
-    - Multiple tick
+    - Multiple ticket sy
