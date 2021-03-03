@@ -980,4 +980,4 @@ Full Setup (15-25 bots):
     - MEE6 + Carl-bot + Dyno (triple redundancy)
     - Wick Bot + Anti-raid systems
     - Multiple ticket systems
-    
+    - Adv
