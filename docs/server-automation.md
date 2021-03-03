@@ -141,4 +141,4 @@ Edit `scripts/setup-server.js` and change the `ROLES` array:
 ```javascript
 {
     name: "Your Custom Role",
-    color: 0xff0000,  /
+    color: 0xff0000,  // Hex col
