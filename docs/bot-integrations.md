@@ -982,4 +982,4 @@ Full Setup (15-25 bots):
     - Multiple ticket systems
     - Advanced logging
   
- 
+  Enterta
