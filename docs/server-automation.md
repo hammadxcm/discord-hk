@@ -143,4 +143,5 @@ Edit `scripts/setup-server.js` and change the `ROLES` array:
     name: "Your Custom Role",
     color: 0xff0000,  // Hex color
     permissions: [PermissionFlagsBits.SendMessages],
-    position:
+    position: 5,
+  
