@@ -983,4 +983,5 @@ Full Setup (15-25 bots):
     - Advanced logging
   
   Entertainment Suite:
-    - Multiple mu
+    - Multiple music bots
+ 
