@@ -982,4 +982,5 @@ Full Setup (15-25 bots):
     - Multiple ticket systems
     - Advanced logging
   
-  Entertainment S
+  Entertainment Suite:
+  
