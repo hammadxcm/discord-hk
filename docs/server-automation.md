@@ -145,4 +145,4 @@ Edit `scripts/setup-server.js` and change the `ROLES` array:
     permissions: [PermissionFlagsBits.SendMessages],
     position: 5,
     hoist: true,      // Show separately in member list
-   
+    mentionab
