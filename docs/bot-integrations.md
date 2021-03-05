@@ -984,4 +984,4 @@ Full Setup (15-25 bots):
   
   Entertainment Suite:
     - Multiple music bots
-    - Gaming bots (Po
+    - Gaming bots (Pokétwo, Mud
