@@ -986,3 +986,4 @@ Full Setup (15-25 bots):
     - Multiple music bots
     - Gaming bots (Pokétwo, Mudae, UNO)
     - Social bots (Mimu, Miki, Rep system)
+   
