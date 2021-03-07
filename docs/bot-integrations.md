@@ -990,3 +990,4 @@ Full Setup (15-25 bots):
   
   Productivity:
     - GitHub + Apollo Bot
+    - Advance
