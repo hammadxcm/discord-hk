@@ -152,4 +152,6 @@ Edit `scripts/setup-server.js` and change the `ROLES` array:
 ### **Modify Channels:**
 Edit the `CHANNELS` array:
 
-```javasc
+```javascript
+{
+ 
