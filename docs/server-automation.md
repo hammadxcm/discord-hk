@@ -146,3 +146,5 @@ Edit `scripts/setup-server.js` and change the `ROLES` array:
     position: 5,
     hoist: true,      // Show separately in member list
     mentionable: true // Can be mentioned by @role
+}
+```
