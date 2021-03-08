@@ -155,4 +155,4 @@ Edit the `CHANNELS` array:
 ```javascript
 {
     name: "your-channel-name",
-    type: Ch
+    type: ChannelTyp
