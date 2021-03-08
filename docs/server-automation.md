@@ -155,4 +155,4 @@ Edit the `CHANNELS` array:
 ```javascript
 {
     name: "your-channel-name",
-    type: ChannelTyp
+    type: ChannelType.GuildT
