@@ -155,4 +155,4 @@ Edit the `CHANNELS` array:
 ```javascript
 {
     name: "your-channel-name",
-    type: ChannelType.GuildText,     // or GuildVoice, Guild
+    type: ChannelType.GuildText,     // or GuildVoice, GuildCatego
