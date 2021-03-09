@@ -995,4 +995,4 @@ Full Setup (15-25 bots):
     - Cross-platform integrations
   
   Gaming Ecosystem:
-    - Steam + multiple game 
+    - Steam + multiple game inte
