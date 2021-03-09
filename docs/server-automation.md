@@ -154,4 +154,5 @@ Edit the `CHANNELS` array:
 
 ```javascript
 {
-    name: "your-channel-n
+    name: "your-channel-name",
+   
