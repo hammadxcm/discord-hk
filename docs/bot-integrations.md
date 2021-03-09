@@ -994,4 +994,4 @@ Full Setup (15-25 bots):
     - Multi-language support
     - Cross-platform integrations
   
-  Gamin
+  Gaming Eco
