@@ -157,4 +157,4 @@ Edit the `CHANNELS` array:
     name: "your-channel-name",
     type: ChannelType.GuildText,     // or GuildVoice, GuildCategory
     parent: "CATEGORY NAME",         // Category to put channel in
-    p
+    position
