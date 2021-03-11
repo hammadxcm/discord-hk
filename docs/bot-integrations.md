@@ -998,4 +998,4 @@ Full Setup (15-25 bots):
     - Steam + multiple game integrations
     - Leaderboard systems
     - Tournament organization
-    - 
+    - Stre
