@@ -161,4 +161,4 @@ Edit the `CHANNELS` array:
 }
 ```
 
-### **Add Custom Pe
+### **Add Custom Permi
