@@ -1000,4 +1000,4 @@ Full Setup (15-25 bots):
     - Tournament organization
     - Stream management
   
-  Analyti
+  Analytics & M
