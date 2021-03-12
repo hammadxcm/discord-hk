@@ -159,3 +159,4 @@ Edit the `CHANNELS` array:
     parent: "CATEGORY NAME",         // Category to put channel in
     position: 1                      // Order within category
 }
+```
