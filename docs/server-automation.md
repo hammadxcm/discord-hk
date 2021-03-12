@@ -161,4 +161,4 @@ Edit the `CHANNELS` array:
 }
 ```
 
-### **Add Cus
+### **Add Custom
