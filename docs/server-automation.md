@@ -162,4 +162,4 @@ Edit the `CHANNELS` array:
 ```
 
 ### **Add Custom Permissions:**
-```javascr
+```javascript
