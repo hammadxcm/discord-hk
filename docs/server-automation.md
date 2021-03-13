@@ -161,4 +161,4 @@ Edit the `CHANNELS` array:
 }
 ```
 
-### **Add Custom Permissio
+### **Add Custom Permissions:*
