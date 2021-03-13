@@ -158,3 +158,4 @@ Edit the `CHANNELS` array:
     type: ChannelType.GuildText,     // or GuildVoice, GuildCategory
     parent: "CATEGORY NAME",         // Category to put channel in
     position: 1                      // Order within category
+}
