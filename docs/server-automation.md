@@ -165,4 +165,4 @@ Edit the `CHANNELS` array:
 ```javascript
 // In channel config, add permissions array:
 permissions: [
-  
+    {
