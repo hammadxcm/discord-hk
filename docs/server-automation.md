@@ -163,3 +163,4 @@ Edit the `CHANNELS` array:
 
 ### **Add Custom Permissions:**
 ```javascript
+// I
