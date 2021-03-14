@@ -1003,4 +1003,4 @@ Full Setup (15-25 bots):
   Analytics & Monitoring:
     - Custom bot integration
     - Advanced statistics
-    - Performance monit
+    - Performance monitoring
