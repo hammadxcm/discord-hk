@@ -163,4 +163,4 @@ Edit the `CHANNELS` array:
 
 ### **Add Custom Permissions:**
 ```javascript
-// In channel config, add perm
+// In channel config, add permissi
