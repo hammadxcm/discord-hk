@@ -1005,3 +1005,4 @@ Full Setup (15-25 bots):
     - Advanced statistics
     - Performance monitoring
     - Community insights
+```
