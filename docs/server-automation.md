@@ -167,4 +167,4 @@ Edit the `CHANNELS` array:
 permissions: [
     {
         id: 'roleId',
-        type: OverwriteType.Ro
+        type: OverwriteType.Role,
