@@ -1004,4 +1004,4 @@ Full Setup (15-25 bots):
     - Custom bot integration
     - Advanced statistics
     - Performance monitoring
-    - Communit
+    - Community ins
