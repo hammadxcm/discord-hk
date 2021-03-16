@@ -168,3 +168,4 @@ permissions: [
     {
         id: 'roleId',
         type: OverwriteType.Role,
+    
