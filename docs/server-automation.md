@@ -166,4 +166,5 @@ Edit the `CHANNELS` array:
 // In channel config, add permissions array:
 permissions: [
     {
-        id: 'roleI
+        id: 'roleId',
+ 
