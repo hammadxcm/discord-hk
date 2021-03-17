@@ -168,4 +168,4 @@ permissions: [
     {
         id: 'roleId',
         type: OverwriteType.Role,
-        allow: [PermissionFlagsBits.Send
+        allow: [PermissionFlagsBits.SendMess
