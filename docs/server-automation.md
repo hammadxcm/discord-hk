@@ -170,3 +170,4 @@ permissions: [
         type: OverwriteType.Role,
         allow: [PermissionFlagsBits.SendMessages],
         deny: [PermissionFlagsBits.AttachFiles]
+    }
