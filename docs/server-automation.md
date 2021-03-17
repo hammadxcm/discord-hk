@@ -169,4 +169,4 @@ permissions: [
         id: 'roleId',
         type: OverwriteType.Role,
         allow: [PermissionFlagsBits.SendMessages],
-        
+        deny:
