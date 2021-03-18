@@ -171,3 +171,5 @@ permissions: [
         allow: [PermissionFlagsBits.SendMessages],
         deny: [PermissionFlagsBits.AttachFiles]
     }
+]
+``
