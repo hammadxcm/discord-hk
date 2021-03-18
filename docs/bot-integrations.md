@@ -1010,4 +1010,5 @@ Full Setup (15-25 bots):
 ## 📊 Complete Bot Categories Summary
 
 ### 🛡️ **Moderation & Security (Essential)**
-1. **MEE6** - Primary leveling and basic moderatio
+1. **MEE6** - Primary leveling and basic moderation
+2
