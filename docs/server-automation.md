@@ -174,4 +174,4 @@ permissions: [
 ]
 ```
 
-## 🚨 Troublesho
+## 🚨 Troubleshooting
