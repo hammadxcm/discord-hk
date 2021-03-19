@@ -180,4 +180,4 @@ permissions: [
 
 #### **Bot Missing Permissions**
 ```
-Er
+Error: Mi
