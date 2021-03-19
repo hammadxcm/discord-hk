@@ -178,4 +178,4 @@ permissions: [
 
 ### **Common Issues:**
 
-#### **Bot Missing Permis
+#### **Bot Missing Permissions**
