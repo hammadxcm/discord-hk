@@ -1011,4 +1011,5 @@ Full Setup (15-25 bots):
 
 ### 🛡️ **Moderation & Security (Essential)**
 1. **MEE6** - Primary leveling and basic moderation
-2. **Carl-bot** - Advanced automod and reaction ro
+2. **Carl-bot** - Advanced automod and reaction roles  
+3
