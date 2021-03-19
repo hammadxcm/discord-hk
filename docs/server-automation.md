@@ -176,4 +176,6 @@ permissions: [
 
 ## 🚨 Troubleshooting
 
-### **Common Issues:*
+### **Common Issues:**
+
+##
