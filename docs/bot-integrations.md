@@ -1013,4 +1013,4 @@ Full Setup (15-25 bots):
 1. **MEE6** - Primary leveling and basic moderation
 2. **Carl-bot** - Advanced automod and reaction roles  
 3. **Dyno** - Backup moderation and server stats
-4
+4. **Wick Bot**
