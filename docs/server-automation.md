@@ -182,4 +182,4 @@ permissions: [
 ```
 Error: Missing Access
 ```
-**Solution:** Make sure your bot has `Administra
+**Solution:** Make sure your bot has `Administrator` 
