@@ -182,4 +182,4 @@ permissions: [
 ```
 Error: Missing Access
 ```
-**Solution:** Make su
+**Solution:** Make sure you
