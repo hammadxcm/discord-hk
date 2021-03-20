@@ -179,3 +179,5 @@ permissions: [
 ### **Common Issues:**
 
 #### **Bot Missing Permissions**
+```
+Er
