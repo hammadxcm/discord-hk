@@ -1014,4 +1014,4 @@ Full Setup (15-25 bots):
 2. **Carl-bot** - Advanced automod and reaction roles  
 3. **Dyno** - Backup moderation and server stats
 4. **Wick Bot** - Advanced security and anti-nuke
-5. **Captcha Bot** - V
+5. **Captcha Bot** - Verif
