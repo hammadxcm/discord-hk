@@ -1015,3 +1015,5 @@ Full Setup (15-25 bots):
 3. **Dyno** - Backup moderation and server stats
 4. **Wick Bot** - Advanced security and anti-nuke
 5. **Captcha Bot** - Verification system
+
+### 
