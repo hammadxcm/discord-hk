@@ -189,4 +189,4 @@ Error: Missing Access
 
 #### **Rate Limited**
 ```
-Error: You 
+Error: You are b
