@@ -189,4 +189,5 @@ Error: Missing Access
 
 #### **Rate Limited**
 ```
-Error: You are being rate limit
+Error: You are being rate limited
+``
