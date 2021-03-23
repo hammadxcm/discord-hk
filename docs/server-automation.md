@@ -191,4 +191,4 @@ Error: Missing Access
 ```
 Error: You are being rate limited
 ```
-**Solution:** The script inc
+**Solution:** The script includes
