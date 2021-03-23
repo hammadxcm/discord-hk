@@ -185,4 +185,4 @@ Error: Missing Access
 **Solution:** Make sure your bot has `Administrator` permissions or at least:
 - Manage Channels
 - Manage Roles
-- View
+- View Chann
