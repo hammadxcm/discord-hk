@@ -1017,4 +1017,5 @@ Full Setup (15-25 bots):
 5. **Captcha Bot** - Verification system
 
 ### 🎮 **Gaming & Leaderboards (High Value)**
-6. **Steam Bot** - Steam integration and leaderboa
+6. **Steam Bot** - Steam integration and leaderboards
+7
