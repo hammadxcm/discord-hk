@@ -1018,4 +1018,5 @@ Full Setup (15-25 bots):
 
 ### 🎮 **Gaming & Leaderboards (High Value)**
 6. **Steam Bot** - Steam integration and leaderboards
-7. **GameStats Bot** - Multi-platform gaming statistic
+7. **GameStats Bot** - Multi-platform gaming statistics
+8. 
