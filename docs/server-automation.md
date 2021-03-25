@@ -191,4 +191,4 @@ Error: Missing Access
 ```
 Error: You are being rate limited
 ```
-**Solution:** The script includes 1-second delays. For larger servers, incre
+**Solution:** The script includes 1-second delays. For larger servers, increase de
