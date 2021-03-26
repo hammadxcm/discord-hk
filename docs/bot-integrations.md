@@ -1020,4 +1020,4 @@ Full Setup (15-25 bots):
 6. **Steam Bot** - Steam integration and leaderboards
 7. **GameStats Bot** - Multi-platform gaming statistics
 8. **Riot Games Bot** - LoL/Valorant integration
-9. **Steam Deals Bot** - Wishlist and price t
+9. **Steam Deals Bot** - Wishlist and price track
