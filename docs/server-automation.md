@@ -193,4 +193,4 @@ Error: You are being rate limited
 ```
 **Solution:** The script includes 1-second delays. For larger servers, increase delays:
 ```javascript
-await new Promise(resolve => setTimeout(resolve, 2
+await new Promise(resolve => setTimeout(resolve, 2000
