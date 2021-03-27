@@ -1023,4 +1023,4 @@ Full Setup (15-25 bots):
 9. **Steam Deals Bot** - Wishlist and price tracking
 
 ### 🎵 **Music & Entertainment (Popular)**
-10. **Jocki
+10. **Jockie Mu
