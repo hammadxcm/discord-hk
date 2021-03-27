@@ -196,4 +196,4 @@ Error: You are being rate limited
 await new Promise(resolve => setTimeout(resolve, 2000)); // 2 seconds
 ```
 
-#### **Role Position Er
+#### **Role Position Errors**
