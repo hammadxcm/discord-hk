@@ -198,4 +198,4 @@ await new Promise(resolve => setTimeout(resolve, 2000)); // 2 seconds
 
 #### **Role Position Errors**
 ```
-Error: Invalid rol
+Error: Invalid role pos
