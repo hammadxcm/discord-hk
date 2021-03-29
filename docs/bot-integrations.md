@@ -1026,4 +1026,4 @@ Full Setup (15-25 bots):
 10. **Jockie Music** - High-quality music streaming
 11. **Dank Memer** - Memes and economy system
 12. **Pokétwo** - Pokémon catching game
-13. **Mu
+13. **Mudae
