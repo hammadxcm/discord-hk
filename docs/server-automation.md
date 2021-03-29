@@ -200,4 +200,4 @@ await new Promise(resolve => setTimeout(resolve, 2000)); // 2 seconds
 ```
 Error: Invalid role position
 ```
-**Solution:** Make sure your bot's 
+**Solution:** Make sure your bot's rol
