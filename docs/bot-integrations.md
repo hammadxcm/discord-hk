@@ -1027,4 +1027,4 @@ Full Setup (15-25 bots):
 11. **Dank Memer** - Memes and economy system
 12. **Pokétwo** - Pokémon catching game
 13. **Mudae** - Anime character collection
-14. **UNO
+14. **UNO Bot** - Ca
