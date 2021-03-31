@@ -1028,4 +1028,4 @@ Full Setup (15-25 bots):
 12. **Pokétwo** - Pokémon catching game
 13. **Mudae** - Anime character collection
 14. **UNO Bot** - Card games
-15
+15. **Trivia 
