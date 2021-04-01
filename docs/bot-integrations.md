@@ -1030,4 +1030,4 @@ Full Setup (15-25 bots):
 14. **UNO Bot** - Card games
 15. **Trivia Bot** - Quiz competitions
 16. **Akinator** - Guessing game
-17. 
+17. **Tr
