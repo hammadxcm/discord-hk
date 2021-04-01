@@ -1029,4 +1029,4 @@ Full Setup (15-25 bots):
 13. **Mudae** - Anime character collection
 14. **UNO Bot** - Card games
 15. **Trivia Bot** - Quiz competitions
-16. **Akinato
+16. **Akinator** 
