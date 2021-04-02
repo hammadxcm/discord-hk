@@ -205,4 +205,6 @@ Error: Invalid role position
 #### **Channel Already Exists**
 The script checks for existing channels/roles and skips them, so it's safe to run multiple times.
 
-## 🔧 Advanced Configuratio
+## 🔧 Advanced Configuration
+
+#
