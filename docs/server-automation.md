@@ -207,4 +207,6 @@ The script checks for existing channels/roles and skips them, so it's safe to ru
 
 ## 🔧 Advanced Configuration
 
-### **Server Settings to Configure After Setup:*
+### **Server Settings to Configure After Setup:**
+
+`
