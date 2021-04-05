@@ -212,4 +212,4 @@ The script checks for existing channels/roles and skips them, so it's safe to ru
 ```yaml
 Server Settings:
   Verification Level: Medium
-  Content Filter: Scan media
+  Content Filter: Scan media from
