@@ -215,3 +215,4 @@ Server Settings:
   Content Filter: Scan media from members without roles
   Default Notifications: Only @mentions
   
+Community F
