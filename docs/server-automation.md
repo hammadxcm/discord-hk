@@ -213,4 +213,5 @@ The script checks for existing channels/roles and skips them, so it's safe to ru
 Server Settings:
   Verification Level: Medium
   Content Filter: Scan media from members without roles
-  Default Notifications: Only 
+  Default Notifications: Only @mentions
+  
