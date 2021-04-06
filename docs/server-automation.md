@@ -217,4 +217,4 @@ Server Settings:
   
 Community Features:
   ✅ Enable Community Server
-  ✅ Set u
+  ✅ Set up W
