@@ -217,4 +217,4 @@ Server Settings:
   
 Community Features:
   ✅ Enable Community Server
-  ✅ Set up Welcome
+  ✅ Set up Welcome Sc
