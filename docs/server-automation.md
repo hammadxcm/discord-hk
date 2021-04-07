@@ -216,4 +216,4 @@ Server Settings:
   Default Notifications: Only @mentions
   
 Community Features:
-  ✅ Enable Community S
+  ✅ Enable Community Serv
