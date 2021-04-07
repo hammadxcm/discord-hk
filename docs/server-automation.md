@@ -220,4 +220,4 @@ Community Features:
   ✅ Set up Welcome Screen
   ✅ Configure Server Insights
   
-Moderat
+Moderation:
