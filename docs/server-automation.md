@@ -221,3 +221,4 @@ Community Features:
   ✅ Configure Server Insights
   
 Moderation:
+  ✅ S
