@@ -218,3 +218,4 @@ Server Settings:
 Community Features:
   ✅ Enable Community Server
   ✅ Set up Welcome Screen
+  ✅ C
