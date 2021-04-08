@@ -221,4 +221,4 @@ Community Features:
   ✅ Configure Server Insights
   
 Moderation:
-  ✅ S
+  ✅ Set u
