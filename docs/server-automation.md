@@ -221,4 +221,4 @@ Community Features:
   ✅ Configure Server Insights
   
 Moderation:
-  ✅ Set up Au
+  ✅ Set up AutoMo
