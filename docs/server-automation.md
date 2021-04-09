@@ -222,3 +222,4 @@ Community Features:
   
 Moderation:
   ✅ Set up AutoMod (if available)
+  ✅
