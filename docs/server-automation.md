@@ -222,4 +222,4 @@ Community Features:
   
 Moderation:
   ✅ Set up AutoMod (if available)
-  ✅ Configure Explicit Con
+  ✅ Configure Explicit Content
