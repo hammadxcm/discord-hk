@@ -226,4 +226,4 @@ Moderation:
   ✅ Set Default Message Notifications
 ```
 
-### **Additional Setup Ste
+### **Additional Setup Steps:*
