@@ -1042,4 +1042,5 @@ Full Setup (15-25 bots):
 24. **Apollo Bot** - Productivity suite
 
 ### 🎁 **Community & Social (Engagement)**
-25. **GiveawayBot** - Giveaway m
+25. **GiveawayBot** - Giveaway management
+26.
