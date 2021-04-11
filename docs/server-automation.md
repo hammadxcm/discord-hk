@@ -228,4 +228,4 @@ Moderation:
 
 ### **Additional Setup Steps:**
 
-1. **Invit
+1. **Invite Cor
