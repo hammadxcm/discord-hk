@@ -229,4 +229,4 @@ Moderation:
 ### **Additional Setup Steps:**
 
 1. **Invite Core Bots:**
-   - MEE6 (
+   - MEE6 (leve
