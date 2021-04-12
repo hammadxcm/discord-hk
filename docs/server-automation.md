@@ -229,4 +229,5 @@ Moderation:
 ### **Additional Setup Steps:**
 
 1. **Invite Core Bots:**
-   - MEE6 (leveling
+   - MEE6 (leveling)
+   - Carl-
