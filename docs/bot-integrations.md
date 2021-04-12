@@ -1045,4 +1045,4 @@ Full Setup (15-25 bots):
 25. **GiveawayBot** - Giveaway management
 26. **TicketTool** - Support system
 27. **Birthday Bot** - Birthday celebrations
-28. **R
+28. **Rep B
