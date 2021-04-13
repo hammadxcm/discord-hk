@@ -230,4 +230,4 @@ Moderation:
 
 1. **Invite Core Bots:**
    - MEE6 (leveling)
-   - Carl-
+   - Carl-bot (moderat
