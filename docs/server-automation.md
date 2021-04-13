@@ -233,4 +233,4 @@ Moderation:
    - Carl-bot (moderation)
    - Music bot
 
-2. **Configure B
+2. **Configure Bot 
