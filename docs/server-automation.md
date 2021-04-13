@@ -234,3 +234,4 @@ Moderation:
    - Music bot
 
 2. **Configure Bot Permissions:**
+   
