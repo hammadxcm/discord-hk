@@ -234,4 +234,4 @@ Moderation:
    - Music bot
 
 2. **Configure Bot Permissions:**
-   - Assign bots t
+   - Assign bots to a
