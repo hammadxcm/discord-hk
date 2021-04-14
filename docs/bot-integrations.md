@@ -1047,4 +1047,5 @@ Full Setup (15-25 bots):
 27. **Birthday Bot** - Birthday celebrations
 28. **Rep Bot** - Reputation system
 29. **Mimu Bot** - Virtual pets
-30. **Miki Bot** - Social feature
+30. **Miki Bot** - Social features
+31. *
