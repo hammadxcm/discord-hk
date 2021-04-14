@@ -1048,4 +1048,4 @@ Full Setup (15-25 bots):
 28. **Rep Bot** - Reputation system
 29. **Mimu Bot** - Virtual pets
 30. **Miki Bot** - Social features
-31. *
+31. **Count
