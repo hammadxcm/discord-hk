@@ -235,4 +235,4 @@ Moderation:
 
 2. **Configure Bot Permissions:**
    - Assign bots to appropriate roles
-   - Set cha
+   - Set chann
