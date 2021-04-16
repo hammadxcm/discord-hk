@@ -1052,4 +1052,4 @@ Full Setup (15-25 bots):
 
 ### 📺 **Integration & Notifications (Modern)**
 32. **StreamLabs Bot** - Multi-platform streams
-33. **NotSoBot
+33. **NotSoBot** - Socia
