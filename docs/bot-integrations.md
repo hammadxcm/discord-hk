@@ -1051,4 +1051,4 @@ Full Setup (15-25 bots):
 31. **Counting Bot** - Community counting
 
 ### 📺 **Integration & Notifications (Modern)**
-32. **StreamLabs Bot*
+32. **StreamLabs Bot** - 
