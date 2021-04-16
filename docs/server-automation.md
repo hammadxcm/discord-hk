@@ -237,4 +237,4 @@ Moderation:
    - Assign bots to appropriate roles
    - Set channel-specific permissions
 
-3. **Create Serve
+3. **Create Server Rules
