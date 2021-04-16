@@ -235,4 +235,6 @@ Moderation:
 
 2. **Configure Bot Permissions:**
    - Assign bots to appropriate roles
-   - Set channel-specific permissi
+   - Set channel-specific permissions
+
+3. 
