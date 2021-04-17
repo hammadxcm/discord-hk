@@ -239,4 +239,6 @@ Moderation:
 
 3. **Create Server Rules:**
    - Post rules in `📜-rules` channel
-   - Pin important mes
+   - Pin important messages
+
+4. **Se
