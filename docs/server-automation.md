@@ -241,4 +241,5 @@ Moderation:
    - Post rules in `📜-rules` channel
    - Pin important messages
 
-4. **Set Up Welcome 
+4. **Set Up Welcome System:**
+   
