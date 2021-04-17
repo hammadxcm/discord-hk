@@ -242,4 +242,4 @@ Moderation:
    - Pin important messages
 
 4. **Set Up Welcome System:**
-   
+   - Configure w
