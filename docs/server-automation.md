@@ -238,4 +238,4 @@ Moderation:
    - Set channel-specific permissions
 
 3. **Create Server Rules:**
-   - Post rules in `📜-rules
+   - Post rules in `📜-rules` chan
