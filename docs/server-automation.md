@@ -243,4 +243,6 @@ Moderation:
 
 4. **Set Up Welcome System:**
    - Configure welcome messages
-   - Set up verification if ne
+   - Set up verification if needed
+
+#
