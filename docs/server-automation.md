@@ -245,4 +245,4 @@ Moderation:
    - Configure welcome messages
    - Set up verification if needed
 
-## 📊 Scr
+## 📊 Script Out
