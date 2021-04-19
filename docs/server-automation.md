@@ -245,4 +245,6 @@ Moderation:
    - Configure welcome messages
    - Set up verification if needed
 
-## 📊 Script Out
+## 📊 Script Output
+
+When yo
