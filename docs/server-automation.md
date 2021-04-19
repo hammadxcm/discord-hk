@@ -247,4 +247,4 @@ Moderation:
 
 ## 📊 Script Output
 
-When yo
+When you run the sc
