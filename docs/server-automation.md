@@ -247,4 +247,7 @@ Moderation:
 
 ## 📊 Script Output
 
-When you run the script, you'll
+When you run the script, you'll see:
+
+```
+🚀
