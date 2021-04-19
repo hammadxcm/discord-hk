@@ -243,4 +243,4 @@ Moderation:
 
 4. **Set Up Welcome System:**
    - Configure welcome messages
-   - Set up veri
+   - Set up verificatio
