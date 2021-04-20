@@ -1060,3 +1060,4 @@ Full Setup (15-25 bots):
 ### **Gaming-Focused Server**
 ```yaml
 Priority Bots:
+  - 
