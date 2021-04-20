@@ -250,4 +250,4 @@ Moderation:
 When you run the script, you'll see:
 
 ```
-🚀 Starting Discord server se
+🚀 Starting Discord server setup..
