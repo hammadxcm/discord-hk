@@ -1060,4 +1060,5 @@ Full Setup (15-25 bots):
 ### **Gaming-Focused Server**
 ```yaml
 Priority Bots:
-  - MEE6 + Carl-bot (moderatio
+  - MEE6 + Carl-bot (moderation)
+ 
