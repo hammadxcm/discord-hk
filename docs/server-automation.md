@@ -251,4 +251,4 @@ When you run the script, you'll see:
 
 ```
 🚀 Starting Discord server setup...
-📋 Settin
+📋 Setting up 
