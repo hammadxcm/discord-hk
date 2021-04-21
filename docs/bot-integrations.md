@@ -1061,4 +1061,5 @@ Full Setup (15-25 bots):
 ```yaml
 Priority Bots:
   - MEE6 + Carl-bot (moderation)
-  - Steam Bot + GameStats (gam
+  - Steam Bot + GameStats (gaming stats)
+  
