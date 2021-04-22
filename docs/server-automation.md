@@ -254,4 +254,4 @@ When you run the script, you'll see:
 📋 Setting up server: Your Server Name
 🎭 Creating roles...
 ✅ Created role: Server Owner
-✅ Created ro
+✅ Created role: A
