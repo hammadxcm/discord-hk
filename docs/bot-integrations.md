@@ -1062,4 +1062,5 @@ Full Setup (15-25 bots):
 Priority Bots:
   - MEE6 + Carl-bot (moderation)
   - Steam Bot + GameStats (gaming stats)
-  - Jockie Music (background
+  - Jockie Music (background music)
+  - 
