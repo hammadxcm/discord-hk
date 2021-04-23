@@ -1064,4 +1064,5 @@ Priority Bots:
   - Steam Bot + GameStats (gaming stats)
   - Jockie Music (background music)
   - Pokétwo or Mudae (entertainment)
-  - Stream notifications (content
+  - Stream notifications (content)
+ 
