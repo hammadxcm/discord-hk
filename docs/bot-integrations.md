@@ -1063,4 +1063,5 @@ Priority Bots:
   - MEE6 + Carl-bot (moderation)
   - Steam Bot + GameStats (gaming stats)
   - Jockie Music (background music)
-  - Pokétwo or Mudae (entertainmen
+  - Pokétwo or Mudae (entertainment)
+  
