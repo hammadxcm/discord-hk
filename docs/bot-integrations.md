@@ -1068,4 +1068,4 @@ Priority Bots:
   - Tournament/leaderboard bots
 ```
 
-### **Social & Com
+### **Social & Communit
