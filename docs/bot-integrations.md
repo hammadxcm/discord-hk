@@ -1065,4 +1065,4 @@ Priority Bots:
   - Jockie Music (background music)
   - Pokétwo or Mudae (entertainment)
   - Stream notifications (content)
-  - Tournament/leaderb
+  - Tournament/leaderboar
