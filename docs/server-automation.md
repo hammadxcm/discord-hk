@@ -257,4 +257,4 @@ When you run the script, you'll see:
 ✅ Created role: Administrator
 ... (continues for all roles)
 📁 Creating channels...
-✅ Created cha
+✅ Created channel:
