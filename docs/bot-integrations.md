@@ -1070,4 +1070,5 @@ Priority Bots:
 
 ### **Social & Community Server**
 ```yaml
-Priority Bo
+Priority Bots:
+ 
