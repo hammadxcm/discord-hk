@@ -256,4 +256,4 @@ When you run the script, you'll see:
 ✅ Created role: Server Owner
 ✅ Created role: Administrator
 ... (continues for all roles)
-📁 Creating 
+📁 Creating chann
