@@ -259,4 +259,4 @@ When you run the script, you'll see:
 📁 Creating channels...
 ✅ Created channel: 📋 INFORMATION
 ✅ Created channel: 📜-rules
-... (contin
+... (continues for 
