@@ -1072,4 +1072,5 @@ Priority Bots:
 ```yaml
 Priority Bots:
   - MEE6 + Carl-bot (community management)
-  - Dank Memer (economy fun
+  - Dank Memer (economy fun)
+ 
