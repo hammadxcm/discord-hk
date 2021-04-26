@@ -259,4 +259,5 @@ When you run the script, you'll see:
 📁 Creating channels...
 ✅ Created channel: 📋 INFORMATION
 ✅ Created channel: 📜-rules
-... (continues for all chan
+... (continues for all channels)
+🔒 
