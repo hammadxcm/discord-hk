@@ -258,4 +258,4 @@ When you run the script, you'll see:
 ... (continues for all roles)
 📁 Creating channels...
 ✅ Created channel: 📋 INFORMATION
-✅ Created channel
+✅ Created channel: 📜
