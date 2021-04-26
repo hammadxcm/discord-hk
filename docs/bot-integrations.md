@@ -1071,4 +1071,4 @@ Priority Bots:
 ### **Social & Community Server**
 ```yaml
 Priority Bots:
-  - MEE6 + Carl-bot (community man
+  - MEE6 + Carl-bot (community manage
