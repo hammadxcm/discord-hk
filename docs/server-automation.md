@@ -260,4 +260,5 @@ When you run the script, you'll see:
 ✅ Created channel: 📋 INFORMATION
 ✅ Created channel: 📜-rules
 ... (continues for all channels)
-🔒 Setting up channel permissions
+🔒 Setting up channel permissions...
+🔒 S
