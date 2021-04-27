@@ -1073,4 +1073,5 @@ Priority Bots:
 Priority Bots:
   - MEE6 + Carl-bot (community management)
   - Dank Memer (economy fun)
-  - Birthday Bot (celebration
+  - Birthday Bot (celebrations)
+ 
