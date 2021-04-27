@@ -261,4 +261,4 @@ When you run the script, you'll see:
 ✅ Created channel: 📜-rules
 ... (continues for all channels)
 🔒 Setting up channel permissions...
-🔒 S
+🔒 Set perm
