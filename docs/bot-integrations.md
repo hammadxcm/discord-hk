@@ -1075,4 +1075,4 @@ Priority Bots:
   - Dank Memer (economy fun)
   - Birthday Bot (celebrations)
   - Rep Bot (social credit)
-  - Tra
+  - Transl
