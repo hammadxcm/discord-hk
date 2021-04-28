@@ -263,4 +263,4 @@ When you run the script, you'll see:
 🔒 Setting up channel permissions...
 🔒 Set permissions for 📝-mod-logs
 🔒 Set read-only permissions for rules channel
-🔒 Set r
+🔒 Set read-o
