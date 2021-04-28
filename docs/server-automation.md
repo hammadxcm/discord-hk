@@ -261,4 +261,5 @@ When you run the script, you'll see:
 ✅ Created channel: 📜-rules
 ... (continues for all channels)
 🔒 Setting up channel permissions...
-🔒 Set permissions for 📝-mod-lo
+🔒 Set permissions for 📝-mod-logs
+🔒 S
