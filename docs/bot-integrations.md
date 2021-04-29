@@ -1076,4 +1076,4 @@ Priority Bots:
   - Birthday Bot (celebrations)
   - Rep Bot (social credit)
   - Translator Bot (inclusivity)
-  - Event
+  - Event and giv
