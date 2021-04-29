@@ -1079,4 +1079,4 @@ Priority Bots:
   - Event and giveaway bots
 ```
 
-### **Developer/Te
+### **Developer/Tech 
