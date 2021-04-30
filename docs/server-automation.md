@@ -263,4 +263,5 @@ When you run the script, you'll see:
 🔒 Setting up channel permissions...
 🔒 Set permissions for 📝-mod-logs
 🔒 Set read-only permissions for rules channel
-🔒 Set read-only permissions for announcements cha
+🔒 Set read-only permissions for announcements channel
+🎉
