@@ -265,4 +265,4 @@ When you run the script, you'll see:
 🔒 Set read-only permissions for rules channel
 🔒 Set read-only permissions for announcements channel
 🎉 Server setup completed successfully!
-📊 Created 1
+📊 Created 10 roles
