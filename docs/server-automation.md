@@ -266,4 +266,4 @@ When you run the script, you'll see:
 🔒 Set read-only permissions for announcements channel
 🎉 Server setup completed successfully!
 📊 Created 10 roles and 32 channels
-🔌 Di
+🔌 Disconnec
