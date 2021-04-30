@@ -1081,4 +1081,4 @@ Priority Bots:
 
 ### **Developer/Tech Server**
 ```yaml
-P
+Prio
