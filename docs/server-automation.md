@@ -269,4 +269,4 @@ When you run the script, you'll see:
 🔌 Disconnecting...
 ```
 
-## 🎯 Next
+## 🎯 Next Step
