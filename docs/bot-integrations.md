@@ -1082,4 +1082,4 @@ Priority Bots:
 ### **Developer/Tech Server**
 ```yaml
 Priority Bots:
-  - MEE6 + Carl-bot (orga
+  - MEE6 + Carl-bot (organiz
