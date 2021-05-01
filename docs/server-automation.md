@@ -264,4 +264,4 @@ When you run the script, you'll see:
 🔒 Set permissions for 📝-mod-logs
 🔒 Set read-only permissions for rules channel
 🔒 Set read-only permissions for announcements channel
-🎉 Server setup completed succ
+🎉 Server setup completed successfull
