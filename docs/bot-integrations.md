@@ -1083,4 +1083,5 @@ Priority Bots:
 ```yaml
 Priority Bots:
   - MEE6 + Carl-bot (organization)
-  - GitHub Bot (developmen
+  - GitHub Bot (development)
+  
