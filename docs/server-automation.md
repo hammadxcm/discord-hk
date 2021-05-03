@@ -271,4 +271,4 @@ When you run the script, you'll see:
 
 ## 🎯 Next Steps After Automation
 
-1. **Confi
+1. **Configure 
