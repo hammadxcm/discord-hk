@@ -269,4 +269,5 @@ When you run the script, you'll see:
 🔌 Disconnecting...
 ```
 
-## 🎯 Next Steps After Automat
+## 🎯 Next Steps After Automation
+
