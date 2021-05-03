@@ -1085,4 +1085,4 @@ Priority Bots:
   - MEE6 + Carl-bot (organization)
   - GitHub Bot (development)
   - Apollo Bot (productivity)
-  - Reminder Bo
+  - Reminder Bot (de
