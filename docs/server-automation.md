@@ -272,4 +272,4 @@ When you run the script, you'll see:
 ## 🎯 Next Steps After Automation
 
 1. **Configure MEE6**: Set up leveling and role rewards
-2. **Add Bot Permissions**: Assign proper roles 
+2. **Add Bot Permissions**: Assign proper roles to b
