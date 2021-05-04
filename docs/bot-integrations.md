@@ -1086,4 +1086,4 @@ Priority Bots:
   - GitHub Bot (development)
   - Apollo Bot (productivity)
   - Reminder Bot (deadlines)
-  - Ti
+  - Time Zo
