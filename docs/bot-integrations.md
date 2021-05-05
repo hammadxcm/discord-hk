@@ -1090,4 +1090,4 @@ Priority Bots:
   - Technical utility bots
 ```
 
-### **International/
+### **International/Global
