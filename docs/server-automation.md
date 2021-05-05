@@ -273,4 +273,4 @@ When you run the script, you'll see:
 
 1. **Configure MEE6**: Set up leveling and role rewards
 2. **Add Bot Permissions**: Assign proper roles to bots
-3. **Test E
+3. **Test Ever
