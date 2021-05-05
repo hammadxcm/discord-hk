@@ -1087,4 +1087,4 @@ Priority Bots:
   - Apollo Bot (productivity)
   - Reminder Bot (deadlines)
   - Time Zone Bot (global teams)
-  - Technical util
+  - Technical utility bots
