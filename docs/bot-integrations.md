@@ -1093,4 +1093,5 @@ Priority Bots:
 ### **International/Global Server**
 ```yaml
 Priority Bots:
-  - MEE6 + Carl-bot (managem
+  - MEE6 + Carl-bot (management)
+ 
