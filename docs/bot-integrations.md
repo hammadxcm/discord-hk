@@ -1092,4 +1092,4 @@ Priority Bots:
 
 ### **International/Global Server**
 ```yaml
-Priority
+Priority Bots
