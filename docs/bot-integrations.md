@@ -1094,4 +1094,4 @@ Priority Bots:
 ```yaml
 Priority Bots:
   - MEE6 + Carl-bot (management)
-  - Tra
+  - Translat
