@@ -274,4 +274,4 @@ When you run the script, you'll see:
 1. **Configure MEE6**: Set up leveling and role rewards
 2. **Add Bot Permissions**: Assign proper roles to bots
 3. **Test Everything**: Verify all channels and permissions work
-4. **Customize Content**: Add server rul
+4. **Customize Content**: Add server rules, wel
