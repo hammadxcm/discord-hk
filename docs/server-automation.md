@@ -275,4 +275,4 @@ When you run the script, you'll see:
 2. **Add Bot Permissions**: Assign proper roles to bots
 3. **Test Everything**: Verify all channels and permissions work
 4. **Customize Content**: Add server rules, welcome messages, etc.
-5. **Invite 
+5. **Invite Memb
