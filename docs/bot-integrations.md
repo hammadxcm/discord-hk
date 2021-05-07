@@ -1095,4 +1095,4 @@ Priority Bots:
 Priority Bots:
   - MEE6 + Carl-bot (management)
   - Translator Bot (communication)
-  - Time Zone Bot (coo
+  - Time Zone Bot (coordina
