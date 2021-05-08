@@ -1097,4 +1097,4 @@ Priority Bots:
   - Translator Bot (communication)
   - Time Zone Bot (coordination)
   - Weather Bot (local info)
-  - Multi-l
+  - Multi-lang
