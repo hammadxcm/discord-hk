@@ -1096,4 +1096,4 @@ Priority Bots:
   - MEE6 + Carl-bot (management)
   - Translator Bot (communication)
   - Time Zone Bot (coordination)
-  - Weath
+  - Weather Bo
