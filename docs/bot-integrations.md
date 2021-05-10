@@ -1101,4 +1101,4 @@ Priority Bots:
   - Cultural celebration bots
 ```
 
-## 🎤 **Voice Channe
+## 🎤 **Voice Channel Man
