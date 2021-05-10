@@ -1103,4 +1103,4 @@ Priority Bots:
 
 ## 🎤 **Voice Channel Management Bots**
 
-### Voic
+### Voice Master 
