@@ -1104,3 +1104,5 @@ Priority Bots:
 ## 🎤 **Voice Channel Management Bots**
 
 ### Voice Master - Dynamic Voice Channels
+
+#### 🔊 
