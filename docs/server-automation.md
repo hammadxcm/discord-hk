@@ -277,4 +277,4 @@ When you run the script, you'll see:
 4. **Customize Content**: Add server rules, welcome messages, etc.
 5. **Invite Members**: Start with trusted friends to test
 
-**Time Saved:** Instead of 2-3 hours manual setup, this completes in under 5 minut
+**Time Saved:** Instead of 2-3 hours manual setup, this completes in under 5 minutes
