@@ -1107,4 +1107,4 @@ Priority Bots:
 
 #### 🔊 Setup
 1. **Invite**: https://voicemaster.xyz/
-2. **Fe
+2. **Featu
