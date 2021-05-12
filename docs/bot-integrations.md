@@ -1106,4 +1106,5 @@ Priority Bots:
 ### Voice Master - Dynamic Voice Channels
 
 #### 🔊 Setup
-1. **Invite**: https://voicemaster.x
+1. **Invite**: https://voicemaster.xyz/
+2. *
