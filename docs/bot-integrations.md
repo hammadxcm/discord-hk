@@ -1109,4 +1109,5 @@ Priority Bots:
 1. **Invite**: https://voicemaster.xyz/
 2. **Features**:
    ```yaml
-   Dynamic V
+   Dynamic VCs:
+  
