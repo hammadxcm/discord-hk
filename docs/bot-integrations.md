@@ -1110,4 +1110,4 @@ Priority Bots:
 2. **Features**:
    ```yaml
    Dynamic VCs:
-     - Auto-create voice channels whe
+     - Auto-create voice channels when use
