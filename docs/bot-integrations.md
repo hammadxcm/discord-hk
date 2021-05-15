@@ -1111,4 +1111,5 @@ Priority Bots:
    ```yaml
    Dynamic VCs:
      - Auto-create voice channels when users join
-     - Customizable channel name
+     - Customizable channel names
+  
