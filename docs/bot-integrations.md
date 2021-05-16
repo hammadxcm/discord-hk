@@ -1112,4 +1112,4 @@ Priority Bots:
    Dynamic VCs:
      - Auto-create voice channels when users join
      - Customizable channel names
-     - Auto-delete when em
+     - Auto-delete when empty
