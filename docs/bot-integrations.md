@@ -1113,4 +1113,4 @@ Priority Bots:
      - Auto-create voice channels when users join
      - Customizable channel names
      - Auto-delete when empty
-     - User permissions 
+     - User permissions con
