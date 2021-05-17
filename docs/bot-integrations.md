@@ -1114,4 +1114,4 @@ Priority Bots:
      - Customizable channel names
      - Auto-delete when empty
      - User permissions control
-     - Channel limits and
+     - Channel limits and settin
