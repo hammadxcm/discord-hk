@@ -1117,4 +1117,4 @@ Priority Bots:
      - Channel limits and settings
    
    Commands:
-     vm!setup         
+     vm!setup              
