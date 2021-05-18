@@ -1116,4 +1116,4 @@ Priority Bots:
      - User permissions control
      - Channel limits and settings
    
-   Comm
+   Commands:
