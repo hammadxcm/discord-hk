@@ -1118,4 +1118,5 @@ Priority Bots:
    
    Commands:
      vm!setup                    # Initial setup
-     vm!create <name>           # Create VC templat
+     vm!create <name>           # Create VC template
+     
