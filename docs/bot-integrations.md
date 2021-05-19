@@ -1118,3 +1118,4 @@ Priority Bots:
    
    Commands:
      vm!setup                    # Initial setup
+    
