@@ -1118,4 +1118,4 @@ Priority Bots:
    
    Commands:
      vm!setup                    # Initial setup
-     vm!create <name>           # Cr
+     vm!create <name>           # Create VC 
