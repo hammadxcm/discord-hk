@@ -1119,4 +1119,5 @@ Priority Bots:
    Commands:
      vm!setup                    # Initial setup
      vm!create <name>           # Create VC template
-     vm!limit <number>          # Set user lim
+     vm!limit <number>          # Set user limit
+     vm!n
