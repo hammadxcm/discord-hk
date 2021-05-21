@@ -1120,4 +1120,4 @@ Priority Bots:
      vm!setup                    # Initial setup
      vm!create <name>           # Create VC template
      vm!limit <number>          # Set user limit
-     vm!name <new_nam
+     vm!name <new_name>         #
