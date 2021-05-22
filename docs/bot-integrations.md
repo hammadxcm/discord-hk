@@ -1121,4 +1121,4 @@ Priority Bots:
      vm!create <name>           # Create VC template
      vm!limit <number>          # Set user limit
      vm!name <new_name>         # Rename your VC
-     vm!lock              
+     vm!lock                    # Lo
