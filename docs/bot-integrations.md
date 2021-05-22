@@ -1122,4 +1122,4 @@ Priority Bots:
      vm!limit <number>          # Set user limit
      vm!name <new_name>         # Rename your VC
      vm!lock                    # Lock your VC
-     vm!unlock                  # 
+     vm!unlock                  # Unl
