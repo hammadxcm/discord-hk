@@ -1123,4 +1123,4 @@ Priority Bots:
      vm!name <new_name>         # Rename your VC
      vm!lock                    # Lock your VC
      vm!unlock                  # Unlock your VC
-     vm!kick @user              #
+     vm!kick @user              # Kick f
