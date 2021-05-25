@@ -1125,4 +1125,6 @@ Priority Bots:
      vm!unlock                  # Unlock your VC
      vm!kick @user              # Kick from your VC
      vm!ban @user               # Ban from your VC
-   `
+   ```
+
+##
