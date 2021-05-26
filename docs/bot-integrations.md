@@ -1128,4 +1128,5 @@ Priority Bots:
    ```
 
 #### 📝 Configuration
-```ya
+```yaml
+Setup P
