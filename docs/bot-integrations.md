@@ -1130,4 +1130,4 @@ Priority Bots:
 #### 📝 Configuration
 ```yaml
 Setup Process:
-  
+  1. Run vm!
