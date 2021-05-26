@@ -1127,4 +1127,4 @@ Priority Bots:
      vm!ban @user               # Ban from your VC
    ```
 
-#### 📝 C
+#### 📝 Configu
