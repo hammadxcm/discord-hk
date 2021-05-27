@@ -1131,4 +1131,4 @@ Priority Bots:
 ```yaml
 Setup Process:
   1. Run vm!setup in your server
-  2. Create a "Join to Cre
+  2. Create a "Join to Create" 
