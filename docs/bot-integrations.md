@@ -1130,4 +1130,5 @@ Priority Bots:
 #### 📝 Configuration
 ```yaml
 Setup Process:
-  1. Run vm!setup in your serv
+  1. Run vm!setup in your server
+  2. C
