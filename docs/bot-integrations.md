@@ -1132,4 +1132,4 @@ Priority Bots:
 Setup Process:
   1. Run vm!setup in your server
   2. Create a "Join to Create" channel
-  3. Users join this channe
+  3. Users join this channel to 
