@@ -1136,4 +1136,4 @@ Setup Process:
   4. Channels auto-delete when empty
   
 Custom Settings:
-  - Default channel names: "{user}'s Cha
+  - Default channel names: "{user}'s Channel
