@@ -1135,4 +1135,5 @@ Setup Process:
   3. Users join this channel to auto-create their own VC
   4. Channels auto-delete when empty
   
-Custom Setting
+Custom Settings:
+  
