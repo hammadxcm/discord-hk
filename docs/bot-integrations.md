@@ -1136,4 +1136,4 @@ Setup Process:
   4. Channels auto-delete when empty
   
 Custom Settings:
-  - Default chann
+  - Default channel na
