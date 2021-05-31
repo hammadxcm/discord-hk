@@ -1137,4 +1137,4 @@ Setup Process:
   
 Custom Settings:
   - Default channel names: "{user}'s Channel"
-  - Auto-delete t
+  - Auto-delete time
