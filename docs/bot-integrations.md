@@ -1139,4 +1139,4 @@ Custom Settings:
   - Default channel names: "{user}'s Channel"
   - Auto-delete timer: Instant when empty
   - User limit: 10 (customizable per channel)
-  - Permis
+  - Permission
