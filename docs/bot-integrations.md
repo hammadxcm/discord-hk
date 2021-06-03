@@ -1142,4 +1142,4 @@ Custom Settings:
   - Permissions: Channel owner has full control
 ```
 
-### Auto Voice Channels - Alternat
+### Auto Voice Channels - Alternative Op
