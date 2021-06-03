@@ -1144,4 +1144,4 @@ Custom Settings:
 
 ### Auto Voice Channels - Alternative Option
 
-#### 🎵
+#### 🎵 Setup
