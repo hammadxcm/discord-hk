@@ -1145,4 +1145,4 @@ Custom Settings:
 ### Auto Voice Channels - Alternative Option
 
 #### 🎵 Setup
-1. **Invite**:
+1. **Invite**: Sear
