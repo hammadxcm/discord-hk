@@ -1145,4 +1145,4 @@ Custom Settings:
 ### Auto Voice Channels - Alternative Option
 
 #### 🎵 Setup
-1. **Invite**: Search "Auto Voice Chann
+1. **Invite**: Search "Auto Voice Channels" in D
