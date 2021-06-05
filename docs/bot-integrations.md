@@ -1146,3 +1146,4 @@ Custom Settings:
 
 #### 🎵 Setup
 1. **Invite**: Search "Auto Voice Channels" in Discord bot lists
+2. **Fe
