@@ -1149,4 +1149,5 @@ Custom Settings:
 2. **Features**:
    ```yaml
    Features:
-     - Create temporary voice channel
+     - Create temporary voice channels
+  
