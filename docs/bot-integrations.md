@@ -1149,4 +1149,4 @@ Custom Settings:
 2. **Features**:
    ```yaml
    Features:
-     - Create temporary voice
+     - Create temporary voice cha
