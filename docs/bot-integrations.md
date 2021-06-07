@@ -1150,4 +1150,4 @@ Custom Settings:
    ```yaml
    Features:
      - Create temporary voice channels
-     - Auto
+     - Auto-na
