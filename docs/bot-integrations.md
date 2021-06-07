@@ -1151,3 +1151,4 @@ Custom Settings:
    Features:
      - Create temporary voice channels
      - Auto-naming with custom templates
+    
