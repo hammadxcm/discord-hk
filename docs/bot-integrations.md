@@ -1152,4 +1152,4 @@ Custom Settings:
      - Create temporary voice channels
      - Auto-naming with custom templates
      - Channel categories for organization
-     - Bitrate and user limit con
+     - Bitrate and user limit controls
