@@ -1151,4 +1151,5 @@ Custom Settings:
    Features:
      - Create temporary voice channels
      - Auto-naming with custom templates
-     - Channel categories for organizat
+     - Channel categories for organization
+ 
