@@ -1153,4 +1153,4 @@ Custom Settings:
      - Auto-naming with custom templates
      - Channel categories for organization
      - Bitrate and user limit controls
-     - Permission inheri
+     - Permission inheritance
