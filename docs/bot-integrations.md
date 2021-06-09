@@ -1155,4 +1155,4 @@ Custom Settings:
      - Bitrate and user limit controls
      - Permission inheritance
    
-   Template
+   Templates:
