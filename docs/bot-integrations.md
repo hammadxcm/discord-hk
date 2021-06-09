@@ -1156,4 +1156,4 @@ Custom Settings:
      - Permission inheritance
    
    Templates:
-     -
+     - "{
