@@ -1157,4 +1157,5 @@ Custom Settings:
    
    Templates:
      - "{user}'s Room"
-     - "🎮 {user}'s Ga
+     - "🎮 {user}'s Gaming"
+     -
