@@ -1156,4 +1156,5 @@ Custom Settings:
      - Permission inheritance
    
    Templates:
-     - "{user}'s Room
+     - "{user}'s Room"
+ 
