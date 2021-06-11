@@ -1160,3 +1160,4 @@ Custom Settings:
      - "🎮 {user}'s Gaming"
      - "🎵 {user}'s Music Room"
      - "📞 {user}'s Chat"
+   `
