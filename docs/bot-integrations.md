@@ -1164,4 +1164,5 @@ Custom Settings:
 
 ### Craig Bot - Voice Recording
 
-#### 
+#### 📹 Setup
+1.
