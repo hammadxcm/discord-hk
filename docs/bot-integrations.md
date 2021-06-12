@@ -1162,4 +1162,4 @@ Custom Settings:
      - "📞 {user}'s Chat"
    ```
 
-### Craig
+### Craig Bo
