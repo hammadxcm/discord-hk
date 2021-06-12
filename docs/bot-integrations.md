@@ -1162,4 +1162,6 @@ Custom Settings:
      - "📞 {user}'s Chat"
    ```
 
-### Craig Bot - Voice Record
+### Craig Bot - Voice Recording
+
+#### 
