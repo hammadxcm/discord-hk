@@ -1166,4 +1166,4 @@ Custom Settings:
 
 #### 📹 Setup
 1. **Invite**: https://craig.chat/
-2. **Feat
+2. **Features
