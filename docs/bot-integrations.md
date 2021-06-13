@@ -1165,4 +1165,4 @@ Custom Settings:
 ### Craig Bot - Voice Recording
 
 #### 📹 Setup
-1.
+1. **Invite*
