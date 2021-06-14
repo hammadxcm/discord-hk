@@ -1168,4 +1168,4 @@ Custom Settings:
 1. **Invite**: https://craig.chat/
 2. **Features**:
    ```yaml
-   Record
+   Recording 
