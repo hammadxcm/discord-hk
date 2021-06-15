@@ -1169,4 +1169,4 @@ Custom Settings:
 2. **Features**:
    ```yaml
    Recording Features:
-     - Multi-t
+     - Multi-track 
