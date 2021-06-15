@@ -1170,3 +1170,4 @@ Custom Settings:
    ```yaml
    Recording Features:
      - Multi-track voice recording
+    
