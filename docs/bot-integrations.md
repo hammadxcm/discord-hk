@@ -1171,4 +1171,5 @@ Custom Settings:
    Recording Features:
      - Multi-track voice recording
      - Individual user tracks
-     - High-quality audi
+     - High-quality audio
+ 
