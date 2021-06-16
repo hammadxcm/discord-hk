@@ -1170,4 +1170,5 @@ Custom Settings:
    ```yaml
    Recording Features:
      - Multi-track voice recording
-     - Individual user track
+     - Individual user tracks
+ 
