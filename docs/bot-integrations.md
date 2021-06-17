@@ -1172,4 +1172,5 @@ Custom Settings:
      - Multi-track voice recording
      - Individual user tracks
      - High-quality audio
-     - Automatic processi
+     - Automatic processing
+   
