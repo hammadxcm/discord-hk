@@ -1173,4 +1173,4 @@ Custom Settings:
      - Individual user tracks
      - High-quality audio
      - Automatic processing
-     - Download
+     - Download links
