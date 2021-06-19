@@ -1176,4 +1176,4 @@ Custom Settings:
      - Download links
    
    Commands:
-     :craig:, join            
+     :craig:, join              # St
