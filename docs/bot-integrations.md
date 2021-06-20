@@ -1177,4 +1177,5 @@ Custom Settings:
    
    Commands:
      :craig:, join              # Start recording
-     :craig:, leave             # Stop recordin
+     :craig:, leave             # Stop recording
+  
