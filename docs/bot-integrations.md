@@ -1176,4 +1176,5 @@ Custom Settings:
      - Download links
    
    Commands:
-     :craig:, join              # Start recordin
+     :craig:, join              # Start recording
+    
