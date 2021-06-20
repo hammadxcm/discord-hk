@@ -1177,4 +1177,4 @@ Custom Settings:
    
    Commands:
      :craig:, join              # Start recording
-     :crai
+     :craig:, le
