@@ -1178,4 +1178,5 @@ Custom Settings:
    Commands:
      :craig:, join              # Start recording
      :craig:, leave             # Stop recording
-     :craig:, stop              # Stop and proc
+     :craig:, stop              # Stop and process
+ 
