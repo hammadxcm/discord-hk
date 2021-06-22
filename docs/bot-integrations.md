@@ -1181,4 +1181,4 @@ Custom Settings:
      :craig:, stop              # Stop and process
    ```
 
-### Temporary Voice - Custom VC Ma
+### Temporary Voice - Custom VC Manag
