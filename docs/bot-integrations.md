@@ -1181,4 +1181,4 @@ Custom Settings:
      :craig:, stop              # Stop and process
    ```
 
-### Temp
+### Temporary
