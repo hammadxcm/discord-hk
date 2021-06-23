@@ -1184,4 +1184,4 @@ Custom Settings:
 ### Temporary Voice - Custom VC Manager
 
 #### ⏰ Setup
-1. **Bot**: Tempor
+1. **Bot**: Temporary V
