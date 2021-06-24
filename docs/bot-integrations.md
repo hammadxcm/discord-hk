@@ -1187,4 +1187,5 @@ Custom Settings:
 1. **Bot**: Temporary Voice Bot
 2. **Features**:
    ```yaml
-   Advanced Featur
+   Advanced Features:
+  
