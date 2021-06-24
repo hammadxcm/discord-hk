@@ -1185,4 +1185,4 @@ Custom Settings:
 
 #### ⏰ Setup
 1. **Bot**: Temporary Voice Bot
-2. **Featur
+2. **Features**:
