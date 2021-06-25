@@ -1189,4 +1189,4 @@ Custom Settings:
    ```yaml
    Advanced Features:
      - Time-limited voice channels
-     - 
+     - Cust
