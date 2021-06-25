@@ -1188,4 +1188,4 @@ Custom Settings:
 2. **Features**:
    ```yaml
    Advanced Features:
-     - Time-li
+     - Time-limited 
