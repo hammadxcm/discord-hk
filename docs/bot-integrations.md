@@ -1190,4 +1190,5 @@ Custom Settings:
    Advanced Features:
      - Time-limited voice channels
      - Custom permissions per channel
-     - Voice channel templa
+     - Voice channel templates
+   
