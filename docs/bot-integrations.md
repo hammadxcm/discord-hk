@@ -1189,4 +1189,5 @@ Custom Settings:
    ```yaml
    Advanced Features:
      - Time-limited voice channels
-     - Custom permissions per channe
+     - Custom permissions per channel
+ 
