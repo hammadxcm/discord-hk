@@ -1192,4 +1192,4 @@ Custom Settings:
      - Custom permissions per channel
      - Voice channel templates
      - Integration with role systems
-     - Activity-bas
+     - Activity-based a
