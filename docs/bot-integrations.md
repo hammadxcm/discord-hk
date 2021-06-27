@@ -1191,4 +1191,4 @@ Custom Settings:
      - Time-limited voice channels
      - Custom permissions per channel
      - Voice channel templates
-     - Integration with 
+     - Integration with role s
