@@ -1194,4 +1194,4 @@ Custom Settings:
      - Integration with role systems
      - Activity-based auto-delete
    
-   Confi
+   Configur
