@@ -1196,4 +1196,4 @@ Custom Settings:
    
    Configuration:
      - Max channels per user: 2
-     - Default timeo
+     - Default timeout: 30
