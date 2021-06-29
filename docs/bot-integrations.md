@@ -1195,4 +1195,4 @@ Custom Settings:
      - Activity-based auto-delete
    
    Configuration:
-     - Max channels per
+     - Max channels per use
