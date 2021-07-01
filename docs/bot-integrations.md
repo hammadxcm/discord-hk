@@ -1198,4 +1198,6 @@ Custom Settings:
      - Max channels per user: 2
      - Default timeout: 30 minutes
      - Custom naming schemes
-     - Permission templat
+     - Permission templates
+   ```
+
