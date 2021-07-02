@@ -1201,4 +1201,4 @@ Custom Settings:
      - Permission templates
    ```
 
-## 🎯 **Recommended Voice Setup for Your Server
+## 🎯 **Recommended Voice Setup for Your Server**
