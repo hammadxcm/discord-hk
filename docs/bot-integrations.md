@@ -1203,4 +1203,4 @@ Custom Settings:
 
 ## 🎯 **Recommended Voice Setup for Your Server**
 
-### **Prima
+### **Primary Ch
