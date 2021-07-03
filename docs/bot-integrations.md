@@ -1204,4 +1204,5 @@ Custom Settings:
 ## 🎯 **Recommended Voice Setup for Your Server**
 
 ### **Primary Choice: Voice Master**
-```ya
+```yaml
+W
