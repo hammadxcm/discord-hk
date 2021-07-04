@@ -1207,4 +1207,4 @@ Custom Settings:
 ```yaml
 Why Voice Master:
   ✅ Most popular and reliable
-  ✅ Easy setup and confi
+  ✅ Easy setup and configura
