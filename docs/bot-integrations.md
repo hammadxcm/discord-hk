@@ -1208,4 +1208,4 @@ Custom Settings:
 Why Voice Master:
   ✅ Most popular and reliable
   ✅ Easy setup and configuration
-  ✅ Great user 
+  ✅ Great user perm
