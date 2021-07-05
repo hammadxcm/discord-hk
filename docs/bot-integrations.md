@@ -1212,4 +1212,5 @@ Why Voice Master:
   ✅ Active development
   ✅ Free with good features
 
-Setup Ste
+Setup Steps:
+ 
