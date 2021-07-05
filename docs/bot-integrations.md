@@ -1211,3 +1211,5 @@ Why Voice Master:
   ✅ Great user permissions
   ✅ Active development
   ✅ Free with good features
+
+Setu
