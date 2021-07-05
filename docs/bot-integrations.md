@@ -1209,4 +1209,4 @@ Why Voice Master:
   ✅ Most popular and reliable
   ✅ Easy setup and configuration
   ✅ Great user permissions
-  ✅ Acti
+  ✅ Active d
