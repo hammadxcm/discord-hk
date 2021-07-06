@@ -1214,4 +1214,4 @@ Why Voice Master:
 
 Setup Steps:
   1. Invite Voice Master bot
-  2. Give
+  2. Give it M
