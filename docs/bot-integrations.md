@@ -1213,4 +1213,5 @@ Why Voice Master:
   ✅ Free with good features
 
 Setup Steps:
-  1. Invite Voice Master b
+  1. Invite Voice Master bot
+ 
