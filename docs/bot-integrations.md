@@ -1214,4 +1214,4 @@ Why Voice Master:
 
 Setup Steps:
   1. Invite Voice Master bot
-  2. Give it Manage Channels permi
+  2. Give it Manage Channels permission
