@@ -1216,4 +1216,4 @@ Setup Steps:
   1. Invite Voice Master bot
   2. Give it Manage Channels permission
   3. Run vm!setup
-  4. C
+  4. Creat
