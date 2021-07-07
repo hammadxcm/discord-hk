@@ -1215,4 +1215,5 @@ Why Voice Master:
 Setup Steps:
   1. Invite Voice Master bot
   2. Give it Manage Channels permission
-  3. Run vm!se
+  3. Run vm!setup
+ 
