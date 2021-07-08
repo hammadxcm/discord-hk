@@ -1218,3 +1218,4 @@ Setup Steps:
   3. Run vm!setup
   4. Create "🔊 Join to Create VC" channel
   5. Users join this channel to create their own
+```
