@@ -1217,4 +1217,4 @@ Setup Steps:
   2. Give it Manage Channels permission
   3. Run vm!setup
   4. Create "🔊 Join to Create VC" channel
-  5. Users join this channel to cr
+  5. Users join this channel to creat
