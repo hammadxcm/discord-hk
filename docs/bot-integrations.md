@@ -1220,4 +1220,5 @@ Setup Steps:
   5. Users join this channel to create their own
 ```
 
-### **Voice Channel Structure Updat
+### **Voice Channel Structure Update**
+U
