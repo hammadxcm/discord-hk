@@ -1221,4 +1221,4 @@ Setup Steps:
 ```
 
 ### **Voice Channel Structure Update**
-Update your voice channel
+Update your voice channels to
