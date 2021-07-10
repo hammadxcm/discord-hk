@@ -1223,4 +1223,4 @@ Setup Steps:
 ### **Voice Channel Structure Update**
 Update your voice channels to:
 ```yaml
-🔊 VOICE CHANNELS C
+🔊 VOICE CHANNELS Categ
