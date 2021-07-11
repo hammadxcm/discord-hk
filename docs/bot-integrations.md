@@ -1224,4 +1224,4 @@ Setup Steps:
 Update your voice channels to:
 ```yaml
 🔊 VOICE CHANNELS Category:
-  - 🔊 Join to Create VC (Voice Master tri
+  - 🔊 Join to Create VC (Voice Master trigger)
