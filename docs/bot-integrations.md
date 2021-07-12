@@ -1225,4 +1225,5 @@ Update your voice channels to:
 ```yaml
 🔊 VOICE CHANNELS Category:
   - 🔊 Join to Create VC (Voice Master trigger)
-  - 🎵 Music Room (perman
+  - 🎵 Music Room (permanent)
+ 
