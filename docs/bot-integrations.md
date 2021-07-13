@@ -1227,4 +1227,4 @@ Update your voice channels to:
   - 🔊 Join to Create VC (Voice Master trigger)
   - 🎵 Music Room (permanent)
   - 🎮 Gaming Lounge (permanent)
-  
+  - 📞 G
