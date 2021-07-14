@@ -1230,3 +1230,4 @@ Update your voice channels to:
   - 📞 General Voice (permanent)
   - 🎭 Events Voice (permanent)
   
+🔒 PRI
