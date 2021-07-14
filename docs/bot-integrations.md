@@ -1228,4 +1228,5 @@ Update your voice channels to:
   - 🎵 Music Room (permanent)
   - 🎮 Gaming Lounge (permanent)
   - 📞 General Voice (permanent)
-  - 🎭 Events Voice (permane
+  - 🎭 Events Voice (permanent)
+  
