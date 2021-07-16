@@ -1231,4 +1231,4 @@ Update your voice channels to:
   - 🎭 Events Voice (permanent)
   
 🔒 PRIVATE VCS Category:
-  - (Dynamic channels created here by Voice Ma
+  - (Dynamic channels created here by Voice Master)
