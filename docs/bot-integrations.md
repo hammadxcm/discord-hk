@@ -1235,4 +1235,4 @@ Update your voice channels to:
 ```
 
 ### **Enhanced Voice Commands for Custom Bot**
-Let me also ad
+Let me also add voic
