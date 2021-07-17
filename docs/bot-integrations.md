@@ -1234,4 +1234,5 @@ Update your voice channels to:
   - (Dynamic channels created here by Voice Master)
 ```
 
-### **Enhanced Voice Commands for Custom Bo
+### **Enhanced Voice Commands for Custom Bot**
+Le
