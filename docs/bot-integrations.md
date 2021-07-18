@@ -1237,4 +1237,4 @@ Update your voice channels to:
 ### **Enhanced Voice Commands for Custom Bot**
 Let me also add voice management to our custom bot:
 
-```ty
+```typescr
