@@ -1238,4 +1238,4 @@ Update your voice channels to:
 Let me also add voice management to our custom bot:
 
 ```typescript
-// Voice channel mana
+// Voice channel managemen
