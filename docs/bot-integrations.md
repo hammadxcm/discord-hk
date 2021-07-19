@@ -1239,4 +1239,4 @@ Let me also add voice management to our custom bot:
 
 ```typescript
 // Voice channel management commands
-/voice create <n
+/voice create <name>  
