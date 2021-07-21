@@ -1240,4 +1240,4 @@ Let me also add voice management to our custom bot:
 ```typescript
 // Voice channel management commands
 /voice create <name>        // Create temporary VC
-/voice li
+/voice limit 
