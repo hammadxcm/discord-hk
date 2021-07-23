@@ -1242,4 +1242,4 @@ Let me also add voice management to our custom bot:
 /voice create <name>        // Create temporary VC
 /voice limit <number>       // Set user limit
 /voice rename <name>        // Rename your VC
-/voic
+/voice l
