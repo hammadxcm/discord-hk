@@ -1241,4 +1241,5 @@ Let me also add voice management to our custom bot:
 // Voice channel management commands
 /voice create <name>        // Create temporary VC
 /voice limit <number>       // Set user limit
-/voice rename <name>        // Rename your 
+/voice rename <name>        // Rename your VC
+/
