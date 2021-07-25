@@ -1244,4 +1244,4 @@ Let me also add voice management to our custom bot:
 /voice rename <name>        // Rename your VC
 /voice lock                 // Lock your VC
 /voice unlock              // Unlock your VC
-/voice del
+/voice delete        
