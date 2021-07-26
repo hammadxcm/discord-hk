@@ -1247,4 +1247,5 @@ Let me also add voice management to our custom bot:
 /voice delete              // Delete your VC
 ```
 
-## 🎨 **Voice Channel Customization Options
+## 🎨 **Voice Channel Customization Options**
+
