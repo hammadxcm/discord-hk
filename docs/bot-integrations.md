@@ -1251,4 +1251,4 @@ Let me also add voice management to our custom bot:
 
 ### **Channel Naming Templates**
 ```yaml
-Gami
+Gaming Fo
