@@ -1250,4 +1250,4 @@ Let me also add voice management to our custom bot:
 ## 🎨 **Voice Channel Customization Options**
 
 ### **Channel Naming Templates**
-``
+```yaml
