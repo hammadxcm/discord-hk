@@ -1252,4 +1252,5 @@ Let me also add voice management to our custom bot:
 ### **Channel Naming Templates**
 ```yaml
 Gaming Focused:
-  - "🎮 {user}'s Gamin
+  - "🎮 {user}'s Gaming"
+ 
