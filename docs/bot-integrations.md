@@ -1253,4 +1253,4 @@ Let me also add voice management to our custom bot:
 ```yaml
 Gaming Focused:
   - "🎮 {user}'s Gaming"
- 
+  - "🎯 
