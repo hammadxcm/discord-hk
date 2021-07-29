@@ -1254,4 +1254,4 @@ Let me also add voice management to our custom bot:
 Gaming Focused:
   - "🎮 {user}'s Gaming"
   - "🎯 {user}'s Squad"
-  - "🏆 {user}'s Tour
+  - "🏆 {user}'s Tournamen
