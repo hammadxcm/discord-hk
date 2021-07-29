@@ -1256,4 +1256,4 @@ Gaming Focused:
   - "🎯 {user}'s Squad"
   - "🏆 {user}'s Tournament"
 
-Socia
+Social Fo
