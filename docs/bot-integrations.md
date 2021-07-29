@@ -1256,4 +1256,5 @@ Gaming Focused:
   - "🎯 {user}'s Squad"
   - "🏆 {user}'s Tournament"
 
-Social Focuse
+Social Focused:
+ 
