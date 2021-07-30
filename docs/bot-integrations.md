@@ -1257,4 +1257,4 @@ Gaming Focused:
   - "🏆 {user}'s Tournament"
 
 Social Focused:
-  - "💬 {u
+  - "💬 {user}
