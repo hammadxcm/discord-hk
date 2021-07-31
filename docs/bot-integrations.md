@@ -1259,4 +1259,4 @@ Gaming Focused:
 Social Focused:
   - "💬 {user}'s Hangout"
   - "🎉 {user}'s Party"
-  - "📞 {use
+  - "📞 {user}'s C
