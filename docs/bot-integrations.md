@@ -1261,3 +1261,4 @@ Social Focused:
   - "🎉 {user}'s Party"
   - "📞 {user}'s Call"
 
+Study/
