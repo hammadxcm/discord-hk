@@ -1262,4 +1262,5 @@ Social Focused:
   - "📞 {user}'s Call"
 
 Study/Work:
-  - "📚 {user}'s Study
+  - "📚 {user}'s Study"
+  -
