@@ -1263,4 +1263,5 @@ Social Focused:
 
 Study/Work:
   - "📚 {user}'s Study"
-  - "💼 {user}'s Meeting
+  - "💼 {user}'s Meeting"
+  
