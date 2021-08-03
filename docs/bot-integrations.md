@@ -1268,4 +1268,5 @@ Study/Work:
 ```
 
 ### **Permission Templates**
-```
+```yaml
+Pr
