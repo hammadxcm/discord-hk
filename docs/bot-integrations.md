@@ -1269,4 +1269,4 @@ Study/Work:
 
 ### **Permission Templates**
 ```yaml
-Pr
+Private R
