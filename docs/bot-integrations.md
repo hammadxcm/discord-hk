@@ -1267,4 +1267,4 @@ Study/Work:
   - "🤝 {user}'s Collab"
 ```
 
-### **Permission T
+### **Permission Template
