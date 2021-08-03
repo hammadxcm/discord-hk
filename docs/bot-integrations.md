@@ -1269,4 +1269,5 @@ Study/Work:
 
 ### **Permission Templates**
 ```yaml
-Private R
+Private Room:
+  
