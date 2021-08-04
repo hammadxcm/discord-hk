@@ -1270,4 +1270,4 @@ Study/Work:
 ### **Permission Templates**
 ```yaml
 Private Room:
-  - Owner
+  - Owner: Full 
