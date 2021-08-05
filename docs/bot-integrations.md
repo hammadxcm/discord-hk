@@ -1271,4 +1271,4 @@ Study/Work:
 ```yaml
 Private Room:
   - Owner: Full control
-  - Others: Need permissio
+  - Others: Need permission t
