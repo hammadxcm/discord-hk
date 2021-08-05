@@ -1273,4 +1273,4 @@ Private Room:
   - Owner: Full control
   - Others: Need permission to join
 
-Op
+Open R
