@@ -1274,4 +1274,4 @@ Private Room:
   - Others: Need permission to join
 
 Open Room:
-  - Owner: Full cont
+  - Owner: Full control
