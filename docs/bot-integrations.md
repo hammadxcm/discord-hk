@@ -1275,4 +1275,4 @@ Private Room:
 
 Open Room:
   - Owner: Full control  
-  - Others: Can
+  - Others: Can joi
