@@ -1275,4 +1275,4 @@ Private Room:
 
 Open Room:
   - Owner: Full control  
-  - Others: Can join fr
+  - Others: Can join freely
