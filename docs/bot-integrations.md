@@ -1276,4 +1276,4 @@ Private Room:
 Open Room:
   - Owner: Full control  
   - Others: Can join freely
-  - Moderators: Can
+  - Moderators: Can man
