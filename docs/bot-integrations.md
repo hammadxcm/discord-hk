@@ -1278,4 +1278,4 @@ Open Room:
   - Others: Can join freely
   - Moderators: Can manage
 
-Stud
+Study R
