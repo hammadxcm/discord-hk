@@ -1280,3 +1280,4 @@ Open Room:
 
 Study Room:
   - Owner: Full control
+  -
