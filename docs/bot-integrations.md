@@ -1279,4 +1279,4 @@ Open Room:
   - Moderators: Can manage
 
 Study Room:
-  - Owner: Full con
+  - Owner: Full control
