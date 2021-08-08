@@ -1280,4 +1280,4 @@ Open Room:
 
 Study Room:
   - Owner: Full control
-  - Others: Can join, limited p
+  - Others: Can join, limited permissio
