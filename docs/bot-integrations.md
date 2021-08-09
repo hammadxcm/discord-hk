@@ -1284,4 +1284,4 @@ Study Room:
   - No music/soundboard
 ```
 
-This bot integra
+This bot integratio
