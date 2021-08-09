@@ -1281,4 +1281,4 @@ Open Room:
 Study Room:
   - Owner: Full control
   - Others: Can join, limited permissions
-  - N
+  - No music/
