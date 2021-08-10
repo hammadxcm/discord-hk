@@ -1284,4 +1284,4 @@ Study Room:
   - No music/soundboard
 ```
 
-This bot integration guide will help you create a com
+This bot integration guide will help you create a comprehe
