@@ -1284,4 +1284,4 @@ Study Room:
   - No music/soundboard
 ```
 
-This bot integration guide will help you create a comprehensive, engaging
+This bot integration guide will help you create a comprehensive, engaging, an
