@@ -22,4 +22,4 @@ logs/
 *.log
 
 # Runtime data
-pid
+pids
