@@ -28,4 +28,4 @@ pids/
 *.pid.lock
 
 # Coverage directory used by tools like istanbul
-cov
+cove
