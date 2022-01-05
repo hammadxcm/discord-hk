@@ -27,4 +27,4 @@ pids/
 *.seed
 *.pid.lock
 
-# Coverage director
+# Coverage directory
