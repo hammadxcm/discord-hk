@@ -27,4 +27,4 @@ pids/
 *.seed
 *.pid.lock
 
-# Coverage directory used by tools like istanb
+# Coverage directory used by tools like istanbu
