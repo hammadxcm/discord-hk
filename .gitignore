@@ -32,4 +32,4 @@ coverage/
 *.lcov
 
 # nyc test coverage
-.nyc_out
+.nyc_outp
