@@ -44,4 +44,4 @@ jspm_packages/
 .eslintcache
 
 # TypeScript cache
-*.tsb
+*.tsbu
