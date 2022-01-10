@@ -46,4 +46,4 @@ jspm_packages/
 # TypeScript cache
 *.tsbuildinfo
 
-# Output of 'npm pac
+# Output of 'npm pack
