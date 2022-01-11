@@ -47,4 +47,4 @@ jspm_packages/
 *.tsbuildinfo
 
 # Output of 'npm pack'
-*.
+*.t
