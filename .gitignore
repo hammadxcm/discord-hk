@@ -55,4 +55,4 @@ jspm_packages/
 # dotenv environment variables file
 .env.test
 
-# Stores VS
+# Stores VSC
