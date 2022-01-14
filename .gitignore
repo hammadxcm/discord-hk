@@ -55,4 +55,4 @@ jspm_packages/
 # dotenv environment variables file
 .env.test
 
-# Stores VSCode version
+# Stores VSCode versions
