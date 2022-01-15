@@ -62,4 +62,4 @@ jspm_packages/
 .vscode/
 .idea/
 *.swp
-*.s
+*.sw
