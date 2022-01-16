@@ -77,4 +77,4 @@ Thumbs.db
 # Database
 *.db
 *.sqlite
-*.sql
+*.sqli
