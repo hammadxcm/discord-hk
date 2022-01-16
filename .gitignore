@@ -80,4 +80,4 @@ Thumbs.db
 *.sqlite3
 
 # Temporary folders
-tm
+tmp
