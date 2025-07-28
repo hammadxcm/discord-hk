@@ -12,7 +12,14 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "deploy": "npm run build && npm start",
-    "format": "prettier --write src/**/*.ts"
+    "format": "prettier --write src/**/*.ts",
+    "setup-server": "node scripts/setup-server.js",
+    "setup-server-enhanced": "node scripts/enhanced-setup.js",
+    "setup-server-tested": "node scripts/tested-setup.js",
+    "setup-server-ts": "tsx scripts/setup-server.ts",
+    "fix-failed-roles": "node scripts/fix-failed-roles.js",
+    "test-connection": "node scripts/test-connection.js",
+    "validate-setup": "node scripts/validate-setup.js"
   },
   "keywords": [
     "discord",

@@ -196,85 +196,143 @@ Error: You are being rate limited
 await new Promise(resolve => setTimeout(resolve, 2000)); // 2 seconds
 ```
 
-#### **Role Position Errors**
+#### **Role Already Exists**
 ```
-Error: Invalid role position
+Error: Role already exists
 ```
-**Solution:** Make sure your bot's role is higher than roles it's trying to create.
+**Solution:** The script skips existing roles. Delete roles manually or use different names.
 
 #### **Channel Already Exists**
-The script checks for existing channels/roles and skips them, so it's safe to run multiple times.
+```
+Error: Channel already exists
+```
+**Solution:** The script skips existing channels. Delete channels manually or use different names.
 
-## 🔧 Advanced Configuration
-
-### **Server Settings to Configure After Setup:**
-
-```yaml
-Server Settings:
-  Verification Level: Medium
-  Content Filter: Scan media from members without roles
-  Default Notifications: Only @mentions
-  
-Community Features:
-  ✅ Enable Community Server
-  ✅ Set up Welcome Screen
-  ✅ Configure Server Insights
-  
-Moderation:
-  ✅ Set up AutoMod (if available)
-  ✅ Configure Explicit Content Filter
-  ✅ Set Default Message Notifications
+#### **Invalid Color Value**
+```
+Error: Invalid color
+```
+**Solution:** Use hex color values (0xFFFFFF format):
+```javascript
+color: 0xff0000,  // Red
+color: 0x00ff00,  // Green  
+color: 0x0000ff,  // Blue
 ```
 
-### **Additional Setup Steps:**
+## 🎯 Available Scripts
 
-1. **Invite Core Bots:**
-   - MEE6 (leveling)
-   - Carl-bot (moderation)
-   - Music bot
-
-2. **Configure Bot Permissions:**
-   - Assign bots to appropriate roles
-   - Set channel-specific permissions
-
-3. **Create Server Rules:**
-   - Post rules in `📜-rules` channel
-   - Pin important messages
-
-4. **Set Up Welcome System:**
-   - Configure welcome messages
-   - Set up verification if needed
-
-## 📊 Script Output
-
-When you run the script, you'll see:
-
-```
-🚀 Starting Discord server setup...
-📋 Setting up server: Your Server Name
-🎭 Creating roles...
-✅ Created role: Server Owner
-✅ Created role: Administrator
-... (continues for all roles)
-📁 Creating channels...
-✅ Created channel: 📋 INFORMATION
-✅ Created channel: 📜-rules
-... (continues for all channels)
-🔒 Setting up channel permissions...
-🔒 Set permissions for 📝-mod-logs
-🔒 Set read-only permissions for rules channel
-🔒 Set read-only permissions for announcements channel
-🎉 Server setup completed successfully!
-📊 Created 10 roles and 32 channels
-🔌 Disconnecting...
+### **Main Setup Scripts:**
+```bash
+npm run setup-server              # Basic JavaScript setup
+npm run setup-server-enhanced     # Enhanced setup with more features
+npm run setup-server-tested       # Tested version with error handling
+npm run setup-server-ts           # TypeScript version
+npm run fix-failed-roles          # Fix specific role creation failures
 ```
 
-## 🎯 Next Steps After Automation
+### **Utility Scripts:**
+```bash
+npm run test-connection            # Test bot connection
+npm run validate-setup             # Validate server configuration
+```
 
-1. **Configure MEE6**: Set up leveling and role rewards
-2. **Add Bot Permissions**: Assign proper roles to bots
-3. **Test Everything**: Verify all channels and permissions work
-4. **Customize Content**: Add server rules, welcome messages, etc.
-5. **Invite Members**: Start with trusted friends to test
+## 🔄 Reset Server
 
-**Time Saved:** Instead of 2-3 hours manual setup, this completes in under 5 minutes! 🚀
+To completely reset your server and start over:
+
+1. **Manual Method:**
+   - Delete all channels except general
+   - Delete all custom roles
+   - Run setup script again
+
+2. **Script Method** (Coming Soon):
+   ```bash
+   npm run reset-server
+   ```
+
+## 📊 Setup Verification
+
+After running the setup, verify everything was created:
+
+### **Check Roles:**
+```bash
+npm run validate-setup
+```
+
+### **Manual Verification:**
+- ✅ 10 roles created with proper colors
+- ✅ Role hierarchy matches intended order
+- ✅ Permissions are correctly assigned
+- ✅ 32 channels created in 6 categories
+- ✅ Staff channels are private
+- ✅ Rules/announcements are read-only
+
+## 🚀 Next Steps
+
+After server automation:
+
+1. **Configure Bots:**
+   - Follow `/docs/bot-integrations.md`
+   - Assign 🤖 Bots role to invited bots
+
+2. **Add Server Rules:**
+   - Edit `📜-rules` channel
+   - Set up welcome messages
+
+3. **Customize Settings:**
+   - Adjust notification settings
+   - Configure verification levels
+   - Set up server insights
+
+4. **Test Everything:**
+   - Test role permissions
+   - Verify channel access
+   - Check bot functionality
+
+## 🎨 Advanced Customization
+
+### **Custom Welcome System:**
+```javascript
+// Add to your custom bot
+client.on('guildMemberAdd', member => {
+    const channel = member.guild.channels.cache.find(ch => ch.name === 'welcome');
+    channel.send(`Welcome ${member.user}! Please read the rules.`);
+});
+```
+
+### **Auto Role Assignment:**
+```javascript
+// Automatically assign Member role to new users
+client.on('guildMemberAdd', member => {
+    const role = member.guild.roles.cache.find(r => r.name === '👤 Member');
+    member.roles.add(role);
+});
+```
+
+### **Reaction Role Setup:**
+Use Carl-bot or other reaction role bots to set up:
+- Color roles in welcome channel
+- Gaming roles for LFG
+- Notification preferences
+
+## 🔧 Maintenance
+
+### **Regular Tasks:**
+- Review and update permissions monthly
+- Clean up unused channels quarterly
+- Update bot configurations as needed
+- Monitor server growth and adjust limits
+
+### **Growing Your Server:**
+- Add more voice channels as needed
+- Create game-specific channels for popular games
+- Implement additional moderation bots
+- Set up server events and activities
+
+---
+
+## 🎉 Conclusion
+
+Your Discord server is now fully automated and ready for your community! The setup includes everything needed for a professional, well-organized server with proper moderation tools and member engagement features.
+
+For additional features and bot integrations, check out `/docs/bot-integrations.md` for 35+ recommended Discord bots.
